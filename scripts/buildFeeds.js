@@ -3,7 +3,7 @@ import path from "path";
 import fetch from "node-fetch";
 import * as cheerio from "cheerio";
 
-// KEEP public folder (your GitHub Pages is working with /public in the URL)
+// KEEP public folder output
 const OUT_DIR = path.resolve("public");
 fs.mkdirSync(OUT_DIR, { recursive: true });
 
@@ -32,9 +32,10 @@ function writeJson(filename, obj) {
 }
 
 /**
- * Make section extraction tolerant:
- * - NK sometimes renders headers like "####  Daily Challenges" (double space)
- * - We search for the last occurrence of ANY of the start markers.
+ * Tolerant section extraction:
+ * - NK sometimes uses double spaces in headers
+ * - We pick the LAST occurrence of any start marker (avoids menu links)
+ * - End marker is the nearest match after start
  */
 function sectionBetweenAny(bodyText, startMarkers, endMarkers) {
   let start = -1;
@@ -47,23 +48,17 @@ function sectionBetweenAny(bodyText, startMarkers, endMarkers) {
       usedStart = m;
     }
   }
-
   if (start === -1 || !usedStart) return "";
 
-  // Find the nearest end marker AFTER start
-  let end = -1;
   const afterStart = start + usedStart.length;
 
+  let end = -1;
   for (const em of endMarkers) {
     const idx = bodyText.indexOf(em, afterStart);
     if (idx !== -1 && (end === -1 || idx < end)) end = idx;
   }
 
-  const slice =
-    end === -1
-      ? bodyText.slice(afterStart)
-      : bodyText.slice(afterStart, end);
-
+  const slice = end === -1 ? bodyText.slice(afterStart) : bodyText.slice(afterStart, end);
   return slice.trim();
 }
 
@@ -83,12 +78,7 @@ function parseChallengePairs(blockText) {
     const next = lines[i + 1].trim();
     const score = Number(next);
 
-    if (
-      title.length > 3 &&
-      Number.isInteger(score) &&
-      score > 0 &&
-      score <= 5000
-    ) {
+    if (title.length > 3 && Number.isInteger(score) && score > 0 && score <= 5000) {
       out.push({ title, score });
       i++; // skip score line
     }
@@ -96,33 +86,37 @@ function parseChallengePairs(blockText) {
   return out;
 }
 
+// Extract "time left" line from a section block
+function extractTimeLeftFromBlock(blockText) {
+  const lines = cleanLines(blockText).map((l) => l.replace(/\s+/g, " ").trim());
+
+  // Examples:
+  // "16 hours 2 minutes left"
+  // "4 days 16 hours left"
+  // "1 hour 12 minutes left"
+  const rx = /(\d+\s+days?\s+)?(\d+\s+hours?\s+)?(\d+\s+minutes?\s+)?left/i;
+
+  for (const l of lines) {
+    if (rx.test(l)) return l;
+  }
+  return null;
+}
+
 function extractScoreFromNkHome(html) {
   const $ = cheerio.load(html);
 
-  // IMPORTANT: normalize into line-based text so markers match reliably
+  // normalize into a line-based buffer for consistent matching
   const bodyText = cleanLines($("body").text()).join("\n");
 
   const dailyBlock = sectionBetweenAny(
     bodyText,
-    [
-      "#### Daily Challenges",
-      "####  Daily Challenges",  // sometimes double-space
-      "Daily Challenges"         // fallback
-    ],
-    [
-      "#### Weekly Challenges",
-      "####  Weekly Challenges",
-      "Weekly Challenges"
-    ]
+    ["#### Daily Challenges", "####  Daily Challenges", "Daily Challenges"],
+    ["#### Weekly Challenges", "####  Weekly Challenges", "Weekly Challenges"]
   );
 
   const weeklyBlock = sectionBetweenAny(
     bodyText,
-    [
-      "#### Weekly Challenges",
-      "####  Weekly Challenges",
-      "Weekly Challenges"
-    ],
+    ["#### Weekly Challenges", "####  Weekly Challenges", "Weekly Challenges"],
     [
       "#### Axolotl of the month",
       "####  Axolotl of the month",
@@ -133,6 +127,8 @@ function extractScoreFromNkHome(html) {
   );
 
   return {
+    dailyTimeLeft: extractTimeLeftFromBlock(dailyBlock),
+    weeklyTimeLeft: extractTimeLeftFromBlock(weeklyBlock),
     daily: parseChallengePairs(dailyBlock),
     weekly: parseChallengePairs(weeklyBlock)
   };
@@ -155,7 +151,8 @@ function extractDailyOpsFromNkHome(html) {
   const sinceLine = window.find((l) => l.toLowerCase().startsWith("since ")) || null;
   const timezoneLine = window.find((l) => l.includes("/") && l.length < 40) || null;
 
-  const mode = window.find((l) => ["decryption", "uplink"].includes(l.toLowerCase())) || null;
+  const mode =
+    window.find((l) => ["decryption", "uplink"].includes(l.toLowerCase())) || null;
 
   let mutations = [];
   if (mode) {
@@ -225,7 +222,12 @@ function extractAxolotlFromNkHome(html) {
   const timezone = lines.find((l) => l.includes("/") && l.length < 40) || null;
 
   const description = lines
-    .filter((l) => !/^start:/i.test(l) && !/^end:/i.test(l) && !(l.includes("/") && l.length < 40))
+    .filter(
+      (l) =>
+        !/^start:/i.test(l) &&
+        !/^end:/i.test(l) &&
+        !(l.includes("/") && l.length < 40)
+    )
     .slice(2, 10);
 
   if (!month && !name) return null;
@@ -246,7 +248,8 @@ function extractEventsFromNkHome(html) {
   const lines = cleanLines(block);
 
   const events = [];
-  const dateLineRegex = /^[A-Z][a-z],\s+\d{1,2}(st|nd|rd|th)\s+[A-Za-z]{3}\s+\d{4}.*\(\d{1,2}:\d{2}\)/;
+  const dateLineRegex =
+    /^[A-Z][a-z],\s+\d{1,2}(st|nd|rd|th)\s+[A-Za-z]{3}\s+\d{4}.*\(\d{1,2}:\d{2}\)/;
 
   for (let i = 0; i < lines.length - 2; i++) {
     const a = lines[i];
@@ -271,13 +274,14 @@ function extractEventsFromNkHome(html) {
   return uniq;
 }
 
-// Minerva framework (keep placeholders for now)
+// Minerva framework (placeholders for now)
 function extractMinervaFramework(html) {
   const $ = cheerio.load(html);
   const text = $("body").text().replace(/\s+/g, " ").trim();
 
   const location =
-    (text.match(/Location:\s*([^.\n\r]+?)(?:\s{2,}|\.|$)/i) || [])[1]?.trim() || null;
+    (text.match(/Location:\s*([^.\n\r]+?)(?:\s{2,}|\.|$)/i) || [])[1]?.trim() ||
+    null;
 
   return {
     location,
@@ -325,11 +329,12 @@ async function main() {
   const minerva = extractMinervaFramework(minervaHtml);
   const nukes = extractNukeCodes(nukesHtml);
 
-  // Write outputs to public/
   writeJson("score.json", {
     version: 1,
     fetchedAt,
     source: "https://nukaknights.com/en/",
+    dailyTimeLeft: score.dailyTimeLeft,
+    weeklyTimeLeft: score.weeklyTimeLeft,
     daily: score.daily,
     weekly: score.weekly
   });
