@@ -1,0 +1,12 @@
+{
+  "name": "76feed",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/buildFeeds.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "cheerio": "^1.0.0"
+  }
+}
