@@ -1,7 +1,85 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-15T03:20:24.716Z",
+  "fetchedAt": "2026-01-15T03:51:02.664Z",
   "source": "https://nukaknights.com/en/",
-  "daily": [],
-  "weekly": []
+  "daily": [
+    {
+      "title": "1ˢᵗ Scrap junk to produce Ceramic (5)",
+      "score": 250
+    },
+    {
+      "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
+    {
+      "title": "Build Defense, Appliance, or Crafting items in a Workshop or C.A.M.P. (3)",
+      "score": 250
+    },
+    {
+      "title": "Claim a Workshop",
+      "score": 250
+    },
+    {
+      "title": "Collect Toilet Paper (2)",
+      "score": 250
+    },
+    {
+      "title": "Kill a Mole Miner (10)",
+      "score": 250
+    },
+    {
+      "title": "Kill a Rust Raider (5)",
+      "score": 250
+    },
+    {
+      "title": "Scrap junk to produce Adhesive (5)",
+      "score": 250
+    }
+  ],
+  "weekly": [
+    {
+      "title": "⭐ Complete a Gold Star Daily Challenge! (3)",
+      "score": 1500
+    },
+    {
+      "title": "🔁 Repeatable Under Rank 100: Gain XP (10000)",
+      "score": 100
+    },
+    {
+      "title": "🔁 Repeatable at Rank 100 or above: Complete a Public Event (3)",
+      "score": 300
+    },
+    {
+      "title": "Build Defense, Appliance or Crafting items in a Workshop or C.A.M.P. (10)",
+      "score": 1000
+    },
+    {
+      "title": "Catch a Fish (21)",
+      "score": 1000
+    },
+    {
+      "title": "Collect Soap (14)",
+      "score": 1000
+    },
+    {
+      "title": "Complete a Mutated Public Event (3)",
+      "score": 1000
+    },
+    {
+      "title": "Deal a Critical Hit to a Radtoad in VATS (5)",
+      "score": 1000
+    },
+    {
+      "title": "Kill an Enemy with any Shotgun (25)",
+      "score": 1000
+    },
+    {
+      "title": "Scrap a Pipe Gun (20)",
+      "score": 1000
+    },
+    {
+      "title": "Scrap junk to produce Adhesive (15)",
+      "score": 1000
+    }
+  ]
 }
