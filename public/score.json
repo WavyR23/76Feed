@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-15T13:07:15.894Z",
+  "fetchedAt": "2026-01-15T18:53:24.794Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 52 minutes left",
-  "weeklyTimeLeft": "5 days 3 hours left",
+  "dailyTimeLeft": "22 hours 6 minutes left",
+  "weeklyTimeLeft": "4 days 22 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Scrap junk to produce Ceramic (5)",
+      "title": "1ˢᵗ Collect Caps (250)",
       "score": 250
     },
     {
@@ -14,27 +14,27 @@
       "score": 1000
     },
     {
-      "title": "Build Defense, Appliance, or Crafting items in a Workshop or C.A.M.P. (3)",
+      "title": "Kill Insects (5)",
+      "score": 500
+    },
+    {
+      "title": "Buy an item from or Sell an item to another Player",
       "score": 250
     },
     {
-      "title": "Claim a Workshop",
+      "title": "Complete an Event while in a Team",
       "score": 250
     },
     {
-      "title": "Collect Toilet Paper (2)",
+      "title": "Cook a Meat-Based Meal (5)",
       "score": 250
     },
     {
-      "title": "Kill a Mole Miner (10)",
+      "title": "Destroy a Robot (10)",
       "score": 250
     },
     {
-      "title": "Kill a Rust Raider (5)",
-      "score": 250
-    },
-    {
-      "title": "Scrap junk to produce Adhesive (5)",
+      "title": "Eat a Meat-based Meal (10)",
       "score": 250
     }
   ],
