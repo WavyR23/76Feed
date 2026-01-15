@@ -88,9 +88,9 @@ function extractMinervaFramework(html) {
 
   return {
     location,
-    starts: null,     // TODO: parse later
-    ends: null,       // TODO: parse later
-    inventory: [],    // TODO: parse later (items + price)
+    starts: null, // TODO: parse later
+    ends: null, // TODO: parse later
+    inventory: [], // TODO: parse later (items + price)
     rawSummary: text.slice(0, 300) + (text.length > 300 ? "…" : ""),
     source: "https://whereisminerva.nukaknights.com/"
   };
@@ -106,7 +106,8 @@ function extractNukeCodes(html) {
   const charlie = (text.match(/Charlie\.\s*([0-9]{8})/) || [])[1] || null;
 
   // Optional: reset string (human readable)
-  const resetsIn = (text.match(/Resets in:\s*([0-9a-z\s]+)\./i) || [])[1]?.trim() || null;
+  const resetsIn =
+    (text.match(/Resets in:\s*([0-9a-z\s]+)\./i) || [])[1]?.trim() || null;
 
   return {
     alpha,
@@ -128,6 +129,22 @@ async function main() {
   const nkHomeHtml = await getText("https://nukaknights.com/en/");
   const minervaHtml = await getText("https://whereisminerva.nukaknights.com/");
   const nukesHtml = await getText("https://dev.nukacrypt.com/FO76/");
+
+  // DEBUG: capture what the scraper "sees" on the NK homepage
+  const $nk = cheerio.load(nkHomeHtml);
+  const nkBodyTextSample = $nk("body")
+    .text()
+    .replace(/\s+/g, " ")
+    .trim()
+    .slice(0, 2000);
+
+  writeJson("debug_nukaknights_home.json", {
+    version: 1,
+    fetchedAt,
+    note: "First 2000 chars of NukaKnights /en/ body text as seen by scraper",
+    bodyTextSample: nkBodyTextSample,
+    source: "https://nukaknights.com/en/"
+  });
 
   // Parse
   const score = extractChallengesFromNkHome(nkHomeHtml);
