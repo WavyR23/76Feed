@@ -1,6 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-15T02:42:44.568Z",
-  "dailyOps": null,
-  "source": "https://nukaknights.com/en/"
+  "fetchedAt": "2026-01-15T03:20:24.716Z",
+  "source": "https://nukaknights.com/en/",
+  "dailyOps": {
+    "since": null,
+    "timezone": null,
+    "mode": null,
+    "mutations": [],
+    "location": "Watoga High School",
+    "enemy": "Mole Miners"
+  }
 }
