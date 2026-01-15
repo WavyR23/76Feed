@@ -4,7 +4,7 @@ import fetch from "node-fetch";
 import * as cheerio from "cheerio";
 
 // Write JSON to repo ROOT (recommended since GitHub Pages is set to /(root))
-const OUT_DIR = path.resolve(".");
+const OUT_DIR = path.resolve("public");
 fs.mkdirSync(OUT_DIR, { recursive: true });
 
 async function getText(url) {
