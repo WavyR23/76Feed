@@ -22,7 +22,7 @@ function cleanLines(text) {
   return text
     .replace(/\r/g, "")
     .split("\n")
-    .map(x => x.trim())
+    .map((x) => x.trim())
     .filter(Boolean);
 }
 
@@ -34,7 +34,7 @@ function sliceBetween(haystack, startMarker, endMarker) {
   return (end === -1 ? rest : rest.slice(0, end)).trim();
 }
 
-// SCORE (Daily + Weekly) from NukaKnights homepage
+// ---------------- SCORE (Daily + Weekly) from NukaKnights homepage ----------------
 function extractChallengesFromNkHome(html) {
   const $ = cheerio.load(html);
   const bodyText = cleanLines($("body").text()).join("\n");
@@ -43,7 +43,8 @@ function extractChallengesFromNkHome(html) {
   const weeklyBlock =
     sliceBetween(bodyText, "Weekly Challenges", "Daily Ops") ||
     sliceBetween(bodyText, "Weekly Challenges", "Nuke codes") ||
-    sliceBetween(bodyText, "Weekly Challenges", "Minerva");
+    sliceBetween(bodyText, "Weekly Challenges", "Minerva") ||
+    "";
 
   return {
     daily: parseChallengePairs(dailyBlock),
@@ -74,20 +75,28 @@ function parseChallengePairs(blockText) {
   return out;
 }
 
-// Minerva from whereisminerva
-function extractMinerva(html) {
+// ---------------- Minerva (framework) from whereisminerva ----------------
+// For now: location is best-effort; starts/ends/inventory placeholders
+function extractMinervaFramework(html) {
   const $ = cheerio.load(html);
   const text = $("body").text().replace(/\s+/g, " ").trim();
-  const loc = (text.match(/Location:\s*([^.\n\r]+?)(?:\s{2,}|\.|$)/i) || [])[1]?.trim() || null;
+
+  // Best-effort: look for "Location:" pattern if present
+  const location =
+    (text.match(/Location:\s*([^.\n\r]+?)(?:\s{2,}|\.|$)/i) || [])[1]?.trim() ||
+    null;
 
   return {
-    location: loc,
+    location,
+    starts: null,     // TODO: parse later
+    ends: null,       // TODO: parse later
+    inventory: [],    // TODO: parse later (items + price)
     rawSummary: text.slice(0, 300) + (text.length > 300 ? "…" : ""),
     source: "https://whereisminerva.nukaknights.com/"
   };
 }
 
-// Nuke codes from NukaCrypt dev page (8 digits each)
+// ---------------- Nuke codes from NukaCrypt dev page (8 digits each) ----------------
 function extractNukeCodes(html) {
   const $ = cheerio.load(html);
   const text = $("body").text().replace(/\s+/g, " ").trim();
@@ -95,6 +104,8 @@ function extractNukeCodes(html) {
   const alpha = (text.match(/Alpha\.\s*([0-9]{8})/) || [])[1] || null;
   const bravo = (text.match(/Bravo\.\s*([0-9]{8})/) || [])[1] || null;
   const charlie = (text.match(/Charlie\.\s*([0-9]{8})/) || [])[1] || null;
+
+  // Optional: reset string (human readable)
   const resetsIn = (text.match(/Resets in:\s*([0-9a-z\s]+)\./i) || [])[1]?.trim() || null;
 
   return {
@@ -113,40 +124,70 @@ function writeJson(filename, obj) {
 async function main() {
   const fetchedAt = nowIso();
 
+  // Fetch sources
   const nkHomeHtml = await getText("https://nukaknights.com/en/");
-  const score = extractChallengesFromNkHome(nkHomeHtml);
-
   const minervaHtml = await getText("https://whereisminerva.nukaknights.com/");
-  const minerva = extractMinerva(minervaHtml);
-
   const nukesHtml = await getText("https://dev.nukacrypt.com/FO76/");
+
+  // Parse
+  const score = extractChallengesFromNkHome(nkHomeHtml);
+  const minerva = extractMinervaFramework(minervaHtml);
   const nukes = extractNukeCodes(nukesHtml);
 
+  // Write outputs (always)
   writeJson("score.json", {
+    version: 1,
     fetchedAt,
     source: "https://nukaknights.com/en/",
-    ...score
-  });
-
-  writeJson("minerva.json", {
-    fetchedAt,
-    ...minerva
+    daily: score.daily,
+    weekly: score.weekly
   });
 
   writeJson("nukecodes.json", {
+    version: 1,
     fetchedAt,
     ...nukes
   });
 
-  // Recipes placeholder template (you'll fill later)
-  const recipesPath = path.join(OUT_DIR, "recipes.json");
-  if (!fs.existsSync(recipesPath)) {
-    writeJson("recipes.json", {
-      version: 1,
-      updatedAt: fetchedAt,
-      recipes: []
-    });
-  }
+  writeJson("minerva.json", {
+    version: 1,
+    fetchedAt,
+    location: minerva.location,
+    starts: minerva.starts,
+    ends: minerva.ends,
+    inventory: minerva.inventory,
+    source: minerva.source,
+    rawSummary: minerva.rawSummary
+  });
+
+  // Placeholders for future scraping targets (stable schema for your app)
+  writeJson("dailyops.json", {
+    version: 1,
+    fetchedAt,
+    dailyOps: null,
+    source: "https://nukaknights.com/en/"
+  });
+
+  writeJson("axolotl.json", {
+    version: 1,
+    fetchedAt,
+    axolotlOfTheMonth: null,
+    source: "https://nukaknights.com/en/"
+  });
+
+  writeJson("events.json", {
+    version: 1,
+    fetchedAt,
+    events: [],
+    source: "https://nukaknights.com/en/"
+  });
+
+  // Recipes template (you’ll fill later)
+  writeJson("recipes.json", {
+    version: 1,
+    updatedAt: fetchedAt,
+    recipes: []
+  });
 
   console.log("Feeds built into /public");
 }
