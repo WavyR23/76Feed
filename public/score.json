@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-16T13:05:52.010Z",
+  "fetchedAt": "2026-01-16T18:48:46.832Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 54 minutes left",
-  "weeklyTimeLeft": "4 days 3 hours left",
+  "dailyTimeLeft": "22 hours 11 minutes left",
+  "weeklyTimeLeft": "3 days 22 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Collect Caps (250)",
+      "title": "1ˢᵗ Destroy a Robot (10)",
       "score": 250
     },
     {
@@ -14,27 +14,27 @@
       "score": 1000
     },
     {
-      "title": "Kill Insects (5)",
-      "score": 500
-    },
-    {
-      "title": "Buy an item from or Sell an item to another Player",
+      "title": "Catch a Fish in the Burning Springs Region (2)",
       "score": 250
     },
     {
-      "title": "Complete an Event while in a Team",
+      "title": "Cook Grilled Fish while Intoxicated",
       "score": 250
     },
     {
-      "title": "Cook a Meat-Based Meal (5)",
+      "title": "Deal a Critical Hit to an Enemy using Automatic Weapons in VATS (5)",
       "score": 250
     },
     {
-      "title": "Destroy a Robot (10)",
+      "title": "Kill a Burning Deathclaw",
       "score": 250
     },
     {
-      "title": "Eat a Meat-based Meal (10)",
+      "title": "Scrap a Pipe Gun (3)",
+      "score": 250
+    },
+    {
+      "title": "Take a Camera Picture at the Starlight Drive-In",
       "score": 250
     }
   ],
