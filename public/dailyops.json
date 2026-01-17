@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-17T12:59:02.839Z",
+  "fetchedAt": "2026-01-17T18:43:08.917Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": null,
-    "enemy": null
+    "location": "Morgantown High School",
+    "enemy": "Blood Eagles"
   }
 }

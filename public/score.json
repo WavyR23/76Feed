@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-17T12:59:02.839Z",
+  "fetchedAt": "2026-01-17T18:43:08.917Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "55 seconds left",
-  "weeklyTimeLeft": "55 seconds left",
+  "dailyTimeLeft": "22 hours 16 minutes left",
+  "weeklyTimeLeft": "2 days 22 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Destroy a Robot (10)",
+      "title": "1ˢᵗ Eat a Cake, Pie, or Candy (10)",
       "score": 250
     },
     {
@@ -14,27 +14,27 @@
       "score": 1000
     },
     {
-      "title": "Catch a Fish in the Burning Springs Region (2)",
+      "title": "Complete a Daily Operation!",
       "score": 250
     },
     {
-      "title": "Cook Grilled Fish while Intoxicated",
+      "title": "Cook Mole Rat Chunks (3)",
       "score": 250
     },
     {
-      "title": "Deal a Critical Hit to an Enemy using Automatic Weapons in VATS (5)",
+      "title": "Kill a Glowing Creature",
       "score": 250
     },
     {
-      "title": "Kill a Burning Deathclaw",
+      "title": "Kill a Mole Rat (5)",
       "score": 250
     },
     {
-      "title": "Scrap a Pipe Gun (3)",
+      "title": "Take a Camera Picture at the Super Duper Mart",
       "score": 250
     },
     {
-      "title": "Take a Camera Picture at the Starlight Drive-In",
+      "title": "Visit a Best Build C.A.M.P.",
       "score": 250
     }
   ],
