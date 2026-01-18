@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-18T12:59:08.206Z",
+  "fetchedAt": "2026-01-18T18:42:13.034Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "50 seconds left",
-  "weeklyTimeLeft": "50 seconds left",
+  "dailyTimeLeft": "22 hours 17 minutes left",
+  "weeklyTimeLeft": "1 day 22 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Eat a Cake, Pie, or Candy (10)",
+      "title": "1ˢᵗ Collect Caps (250)",
       "score": 250
     },
     {
@@ -14,27 +14,27 @@
       "score": 1000
     },
     {
-      "title": "Complete a Daily Operation!",
+      "title": "Collect Energy Ammo (10)",
       "score": 250
     },
     {
-      "title": "Cook Mole Rat Chunks (3)",
+      "title": "Collect a Burnt Book (10)",
       "score": 250
     },
     {
-      "title": "Kill a Glowing Creature",
+      "title": "Complete a Grunt Hunt (2)",
       "score": 250
     },
     {
-      "title": "Kill a Mole Rat (5)",
+      "title": "Cripple a Mirelurk's Limb (2)",
       "score": 250
     },
     {
-      "title": "Take a Camera Picture at the Super Duper Mart",
+      "title": "Kill a Canine (5)",
       "score": 250
     },
     {
-      "title": "Visit a Best Build C.A.M.P.",
+      "title": "Mod an Energy Weapon",
       "score": 250
     }
   ],
