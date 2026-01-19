@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-18T18:42:13.034Z",
+  "fetchedAt": "2026-01-19T02:34:08.989Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "22 hours 17 minutes left",
-  "weeklyTimeLeft": "1 day 22 hours left",
+  "dailyTimeLeft": "14 hours 25 minutes left",
+  "weeklyTimeLeft": "1 day 14 hours left",
   "daily": [
     {
       "title": "1ˢᵗ Collect Caps (250)",
@@ -18,12 +18,12 @@
       "score": 250
     },
     {
-      "title": "Collect a Burnt Book (10)",
-      "score": 250
+      "title": "26.04.2022",
+      "score": 9
     },
     {
-      "title": "Complete a Grunt Hunt (2)",
-      "score": 250
+      "title": "30.11.2025",
+      "score": 7
     },
     {
       "title": "Cripple a Mirelurk's Limb (2)",
@@ -52,20 +52,28 @@
       "score": 300
     },
     {
+      "title": "14.10.2024",
+      "score": 22
+    },
+    {
       "title": "Build Defense, Appliance or Crafting items in a Workshop or C.A.M.P. (10)",
       "score": 1000
     },
     {
-      "title": "Catch a Fish (21)",
-      "score": 1000
+      "title": "26.05.2025",
+      "score": 35
     },
     {
-      "title": "Collect Soap (14)",
-      "score": 1000
+      "title": "30.05.2025",
+      "score": 21
     },
     {
-      "title": "Complete a Mutated Public Event (3)",
-      "score": 1000
+      "title": "18.12.2024",
+      "score": 11
+    },
+    {
+      "title": "06.01.2023",
+      "score": 12
     },
     {
       "title": "Deal a Critical Hit to a Radtoad in VATS (5)",
