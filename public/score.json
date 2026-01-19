@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-19T13:11:36.263Z",
+  "fetchedAt": "2026-01-19T18:48:28.682Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 48 minutes left",
-  "weeklyTimeLeft": "1 day 3 hours left",
+  "dailyTimeLeft": "22 hours 11 minutes left",
+  "weeklyTimeLeft": "22 hours 11 minutes left",
   "daily": [
     {
-      "title": "1ˢᵗ Collect Caps (250)",
+      "title": "1ˢᵗ Drink Tea",
       "score": 250
     },
     {
@@ -14,27 +14,27 @@
       "score": 1000
     },
     {
-      "title": "Collect Energy Ammo (10)",
+      "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P. in Free Cam (10)",
       "score": 250
     },
     {
-      "title": "26.04.2022",
-      "score": 9
-    },
-    {
-      "title": "30.11.2025",
-      "score": 7
-    },
-    {
-      "title": "Cripple a Mirelurk's Limb (2)",
+      "title": "Complete a Daily Operation on a Public Team!",
       "score": 250
     },
     {
-      "title": "Kill a Canine (5)",
+      "title": "Craft or Scrap a Melee Weapon (5)",
       "score": 250
     },
     {
-      "title": "Mod an Energy Weapon",
+      "title": "Kill a Floater (3)",
+      "score": 250
+    },
+    {
+      "title": "Kill an Enemy with any Pistol (8)",
+      "score": 250
+    },
+    {
+      "title": "Sell a Black Powder Pistol to an NPC vendor",
       "score": 250
     }
   ],
