@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-20T13:12:37.582Z",
+  "fetchedAt": "2026-01-20T19:11:17.601Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Watoga Raider Arena",
-    "enemy": "Robots"
+    "location": "Uncanny Caverns",
+    "enemy": "Mole Miners"
   }
 }

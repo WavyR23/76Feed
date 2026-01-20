@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-20T13:12:37.582Z",
+  "fetchedAt": "2026-01-20T19:11:17.601Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 47 minutes left",
-  "weeklyTimeLeft": "3 hours 47 minutes left",
+  "dailyTimeLeft": "21 hours 48 minutes left",
+  "weeklyTimeLeft": "6 days 21 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Tea",
+      "title": "1ˢᵗ Drink Purified Water (2)",
       "score": 250
     },
     {
@@ -14,28 +14,40 @@
       "score": 1000
     },
     {
-      "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P. in Free Cam (10)",
+      "title": "26.05.2025",
+      "score": 35
+    },
+    {
+      "title": "30.05.2025",
+      "score": 21
+    },
+    {
+      "title": "11.11.2025",
+      "score": 10
+    },
+    {
+      "title": "18.12.2024",
+      "score": 11
+    },
+    {
+      "title": "Cripple a Super Mutant's Leg (2)",
       "score": 250
     },
     {
-      "title": "27.04.2022",
-      "score": 12
-    },
-    {
-      "title": "Craft or Scrap a Melee Weapon (5)",
+      "title": "Gain XP (2500)",
       "score": 250
     },
     {
-      "title": "Kill a Floater (3)",
-      "score": 250
+      "title": "14.12.2025",
+      "score": 8
     },
     {
-      "title": "Kill an Enemy with any Pistol (8)",
-      "score": 250
+      "title": "22.05.2023",
+      "score": 6
     },
     {
-      "title": "Sell a Black Powder Pistol to an NPC vendor",
-      "score": 250
+      "title": "11.11.2025",
+      "score": 10
     }
   ],
   "weekly": [
@@ -52,44 +64,44 @@
       "score": 300
     },
     {
-      "title": "14.10.2024",
-      "score": 22
-    },
-    {
-      "title": "Build Defense, Appliance or Crafting items in a Workshop or C.A.M.P. (10)",
-      "score": 1000
-    },
-    {
-      "title": "26.05.2025",
-      "score": 35
-    },
-    {
-      "title": "30.05.2025",
-      "score": 21
-    },
-    {
       "title": "18.12.2024",
       "score": 11
     },
     {
-      "title": "06.01.2023",
-      "score": 13
-    },
-    {
-      "title": "Deal a Critical Hit to a Radtoad in VATS (5)",
+      "title": "Complete an Event (3)",
       "score": 1000
     },
     {
-      "title": "Kill an Enemy with any Shotgun (25)",
+      "title": "Cripple a Scorched's Leg (18)",
       "score": 1000
     },
     {
-      "title": "Scrap a Pipe Gun (20)",
+      "title": "Drink Nuka-Cola (25)",
+      "score": 1000
+    },
+    {
+      "title": "Harvest a Wild Plant or Fungi (30)",
+      "score": 1000
+    },
+    {
+      "title": "Kill a Floater (10)",
+      "score": 1000
+    },
+    {
+      "title": "14.12.2025",
+      "score": 8
+    },
+    {
+      "title": "Scrap Headwear (15)",
       "score": 1000
     },
     {
       "title": "19.01.2026",
-      "score": 2
+      "score": 3
+    },
+    {
+      "title": "24.10.2025",
+      "score": 3
     }
   ]
 }
