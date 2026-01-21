@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-21T13:11:36.857Z",
+  "fetchedAt": "2026-01-21T18:58:58.108Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Uncanny Caverns",
-    "enemy": "Mole Miners"
+    "location": "West Tek",
+    "enemy": "Blood Eagles"
   }
 }
