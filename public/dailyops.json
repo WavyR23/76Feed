@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-22T13:12:26.767Z",
+  "fetchedAt": "2026-01-22T18:51:49.842Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "West Tek",
-    "enemy": "Blood Eagles"
+    "location": null,
+    "enemy": null
   }
 }
