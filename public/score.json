@@ -1,40 +1,40 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-23T13:09:19.348Z",
+  "fetchedAt": "2026-01-23T18:51:08.780Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 50 minutes left",
-  "weeklyTimeLeft": "4 days 3 hours left",
+  "dailyTimeLeft": "22 hours 8 minutes left",
+  "weeklyTimeLeft": "3 days 22 hours left",
   "daily": [
     {
-      "title": "14.12.2025",
-      "score": 8
-    },
-    {
-      "title": "Complete an Event",
-      "score": 250
-    },
-    {
-      "title": "16.01.2026",
-      "score": 3
-    },
-    {
-      "title": "1ˢᵗ Collect Caps (250)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 4
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Visit another Player's Shelter",
-      "score": 500
+      "title": "27.12.2024",
+      "score": 13
     },
     {
-      "title": "26.04.2022",
-      "score": 9
+      "title": "Collect any flavor of Nuka-Cola (5)",
+      "score": 250
     },
     {
-      "title": "Kill a Feral Ghoul (10)",
+      "title": "Drink Nuka-Cola (3)",
+      "score": 250
+    },
+    {
+      "title": "Deal a Critical Hit to an Enemy in VATS (5)",
+      "score": 250
+    },
+    {
+      "title": "Kill a Scorched (10)",
+      "score": 250
+    },
+    {
+      "title": "Use Photomode to Take a Photo at Nuka-World On Tour",
       "score": 250
     }
   ],
