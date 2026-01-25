@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-25T13:02:40.792Z",
+  "fetchedAt": "2026-01-25T18:45:25.326Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 57 minutes left",
-  "weeklyTimeLeft": "2 days 3 hours left",
+  "dailyTimeLeft": "22 hours 14 minutes left",
+  "weeklyTimeLeft": "1 day 22 hours left",
   "daily": [
     {
       "title": "19.01.2026",
@@ -14,28 +14,32 @@
       "score": 1000
     },
     {
-      "title": "Collect Brain Fungus (5)",
+      "title": "Consume a \"Vintage\" Alcoholic Beverage",
       "score": 250
     },
     {
-      "title": "27.04.2022",
-      "score": 12
-    },
-    {
-      "title": "Cripple a Mirelurk's Limb (2)",
+      "title": "Consume any Chems (2)",
       "score": 250
     },
     {
-      "title": "Kill an Enemy in the Savage Divide Region (5)",
+      "title": "Destroy a Robot (10)",
       "score": 250
+    },
+    {
+      "title": "Eat a Cake, Pie, or Candy (10)",
+      "score": 250
+    },
+    {
+      "title": "Kill a Mole Miner (10)",
+      "score": 250
+    },
+    {
+      "title": "21.06.2025",
+      "score": 7
     },
     {
       "title": "19.01.2026",
       "score": 4
-    },
-    {
-      "title": "22.05.2023",
-      "score": 6
     }
   ],
   "weekly": [
