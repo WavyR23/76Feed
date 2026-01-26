@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-26T13:10:47.145Z",
+  "fetchedAt": "2026-01-26T18:53:32.545Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": null,
-    "enemy": null
+    "location": "Glassed Cavern",
+    "enemy": "Mole Miners"
   }
 }

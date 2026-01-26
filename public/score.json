@@ -1,45 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-26T13:10:47.145Z",
+  "fetchedAt": "2026-01-26T18:53:32.545Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 49 minutes left",
-  "weeklyTimeLeft": "1 day 3 hours left",
+  "dailyTimeLeft": "22 hours 6 minutes left",
+  "weeklyTimeLeft": "22 hours 6 minutes left",
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 4
+      "title": "18.12.2024",
+      "score": 11
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Consume a \"Vintage\" Alcoholic Beverage",
+      "title": "Buy an item from or Sell an item to another Player",
       "score": 250
     },
     {
-      "title": "Consume any Chems (2)",
+      "title": "Collect Pre-war Food (5)",
       "score": 250
     },
     {
-      "title": "Destroy a Robot (10)",
+      "title": "Eat Pre-war Food (5)",
       "score": 250
     },
     {
-      "title": "Eat a Cake, Pie, or Candy (10)",
+      "title": "Kill a Human Enemy (10)",
       "score": 250
     },
     {
-      "title": "Kill a Mole Miner (10)",
-      "score": 250
-    },
-    {
-      "title": "21.06.2025",
+      "title": "26.10.2023",
       "score": 7
     },
     {
-      "title": "19.01.2026",
-      "score": 4
+      "title": "22.05.2023",
+      "score": 6
+    },
+    {
+      "title": "11.11.2025",
+      "score": 10
     }
   ],
   "weekly": [
