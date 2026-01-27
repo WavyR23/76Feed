@@ -1,45 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-27T13:13:05.038Z",
+  "fetchedAt": "2026-01-27T18:56:38.200Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 46 minutes left",
-  "weeklyTimeLeft": "3 hours 46 minutes left",
+  "dailyTimeLeft": "22 hours 3 minutes left",
+  "weeklyTimeLeft": "6 days 22 hours left",
   "daily": [
     {
-      "title": "18.12.2024",
-      "score": 11
+      "title": "1ˢᵗ Kill a Feral Ghoul (10)",
+      "score": 250
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Buy an item from or Sell an item to another Player",
+      "title": "27.04.2022",
+      "score": 12
+    },
+    {
+      "title": "Eat Dog Food (5)",
       "score": 250
     },
     {
-      "title": "Collect Pre-war Food (5)",
+      "title": "22.07.2024",
+      "score": 3
+    },
+    {
+      "title": "Kill a Blood Eagle (10)",
       "score": 250
     },
     {
-      "title": "Eat Pre-war Food (5)",
+      "title": "Like a Best Build C.A.M.P.",
       "score": 250
     },
     {
-      "title": "Kill a Human Enemy (10)",
+      "title": "Scrap Pre-War Money (5)",
       "score": 250
-    },
-    {
-      "title": "26.10.2023",
-      "score": 7
-    },
-    {
-      "title": "22.05.2023",
-      "score": 6
-    },
-    {
-      "title": "11.11.2025",
-      "score": 10
     }
   ],
   "weekly": [
@@ -56,44 +52,40 @@
       "score": 300
     },
     {
-      "title": "18.12.2024",
-      "score": 11
+      "title": "26.04.2022",
+      "score": 9
     },
     {
-      "title": "Complete an Event (3)",
+      "title": "Complete the Event: \"The Mothman Equinox\" (5)",
       "score": 1000
     },
     {
-      "title": "Cripple a Scorched's Leg (18)",
+      "title": "Consume any Chems (9)",
       "score": 1000
     },
     {
-      "title": "Drink Nuka-Cola (25)",
+      "title": "Drink Nuka-Cherry (5)",
       "score": 1000
     },
     {
-      "title": "Harvest a Wild Plant or Fungi (30)",
+      "title": "Drink Purified Water (15)",
       "score": 1000
     },
     {
-      "title": "21.01.2026",
-      "score": 4
-    },
-    {
-      "title": "14.12.2025",
-      "score": 8
-    },
-    {
-      "title": "Scrap Headwear (15)",
+      "title": "Kill a Human Enemy (30)",
       "score": 1000
     },
     {
-      "title": "24.10.2025",
-      "score": 3
+      "title": "Kill a Yao Guai (3)",
+      "score": 1000
     },
     {
-      "title": "19.01.2026",
-      "score": 4
+      "title": "Repair Armor, Weapons, or Power Armor (10)",
+      "score": 1000
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
     }
   ]
 }
