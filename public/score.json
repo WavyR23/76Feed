@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-28T13:13:15.212Z",
+  "fetchedAt": "2026-01-28T18:53:11.651Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 46 minutes left",
-  "weeklyTimeLeft": "6 days 3 hours left",
+  "dailyTimeLeft": "22 hours 6 minutes left",
+  "weeklyTimeLeft": "5 days 22 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Kill a Feral Ghoul (10)",
+      "title": "1ˢᵗ Drink Nuka-Cola Quantum (2)",
       "score": 250
     },
     {
@@ -14,32 +14,28 @@
       "score": 1000
     },
     {
-      "title": "27.04.2022",
-      "score": 12
-    },
-    {
-      "title": "Eat Dog Food (5)",
-      "score": 250
-    },
-    {
-      "title": "22.07.2024",
-      "score": 3
+      "title": "27.12.2024",
+      "score": 13
     },
     {
       "title": "01.12.2021",
       "score": 22
     },
     {
-      "title": "Kill a Blood Eagle (10)",
+      "title": "Deal Fire Damage to Enemies (100)",
       "score": 250
     },
     {
-      "title": "14.08.2024",
-      "score": 5
+      "title": "Drink Nuka-Cola Dark (2)",
+      "score": 250
     },
     {
-      "title": "Scrap Pre-War Money (5)",
-      "score": 250
+      "title": "14.12.2025",
+      "score": 8
+    },
+    {
+      "title": "19.01.2026",
+      "score": 4
     }
   ],
   "weekly": [
