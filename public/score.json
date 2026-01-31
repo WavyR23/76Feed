@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-01-31T13:09:27.315Z",
+  "fetchedAt": "2026-01-31T18:49:15.996Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 50 minutes left",
-  "weeklyTimeLeft": "3 days 3 hours left",
+  "dailyTimeLeft": "22 hours 10 minutes left",
+  "weeklyTimeLeft": "2 days 22 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Build a Floor, Wall, or Roof in a Workshop or C.A.M.P. (5)",
+      "title": "1ˢᵗ Chew some Bubblegum",
       "score": 500
     },
     {
@@ -14,24 +14,28 @@
       "score": 2000
     },
     {
-      "title": "Build a Bed, Table, or Stairs in a Workshop or C.A.M.P. (3)",
+      "title": "Claim a Workshop",
       "score": 500
+    },
+    {
+      "title": "Collect RadAway or Rad-X (5)",
+      "score": 500
+    },
+    {
+      "title": "19.01.2026",
+      "score": 4
+    },
+    {
+      "title": "22.07.2024",
+      "score": 3
     },
     {
       "title": "01.12.2021",
       "score": 22
     },
     {
-      "title": "Craft or Scrap a piece of Power Armor",
+      "title": "Kill an Enemy in the Ash Heap Region (5)",
       "score": 500
-    },
-    {
-      "title": "Cripple a Super Mutant's Arm (2)",
-      "score": 500
-    },
-    {
-      "title": "09.01.2024",
-      "score": 6
     },
     {
       "title": "19.01.2026",
