@@ -1,28 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-02T13:34:47.972Z",
+  "fetchedAt": "2026-02-03T03:11:36.953Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 24 minutes left",
-  "weeklyTimeLeft": "1 day 3 hours left",
+  "dailyTimeLeft": "13 hours 48 minutes left",
+  "weeklyTimeLeft": "13 hours 48 minutes left",
   "daily": [
     {
-      "title": "11.11.2025",
-      "score": 10
-    },
-    {
-      "title": "01.12.2021",
-      "score": 22
-    },
-    {
-      "title": "22.05.2023",
-      "score": 6
-    },
-    {
-      "title": "11.11.2025",
-      "score": 10
-    },
-    {
-      "title": "Collect Wood (5)",
+      "title": "1ˢᵗ Collect Energy Ammo (10)",
       "score": 500
     },
     {
@@ -30,19 +14,27 @@
       "score": 2000
     },
     {
-      "title": "1ˢᵗ Drink Tea",
+      "title": "26.10.2023",
+      "score": 7
+    },
+    {
+      "title": "Craft a Grenade, Mine, or Thrown Weapon (5)",
       "score": 500
     },
     {
-      "title": "24.10.2025",
-      "score": 3
+      "title": "Cripple a Human's Head (2)",
+      "score": 500
     },
     {
-      "title": "19.01.2026",
-      "score": 4
+      "title": "Eat a Cooked Meal (10)",
+      "score": 500
     },
     {
-      "title": "Destroy a Robot (10)",
+      "title": "01.12.2021",
+      "score": 22
+    },
+    {
+      "title": "Level up!",
       "score": 500
     }
   ],
