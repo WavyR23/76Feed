@@ -1,41 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-03T13:33:54.324Z",
+  "fetchedAt": "2026-02-03T19:11:54.315Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 26 minutes left",
-  "weeklyTimeLeft": "3 hours 26 minutes left",
+  "dailyTimeLeft": "21 hours 48 minutes left",
+  "weeklyTimeLeft": "6 days 21 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Collect Energy Ammo (10)",
-      "score": 500
+      "title": "19.01.2026",
+      "score": 4
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
-      "score": 2000
-    },
-    {
-      "title": "26.10.2023",
-      "score": 7
-    },
-    {
-      "title": "Craft a Grenade, Mine, or Thrown Weapon (5)",
-      "score": 500
-    },
-    {
-      "title": "Cripple a Human's Head (2)",
-      "score": 500
-    },
-    {
-      "title": "Eat a Cooked Meal (10)",
-      "score": 500
+      "score": 1000
     },
     {
       "title": "01.12.2021",
       "score": 22
     },
     {
-      "title": "Level up!",
-      "score": 500
+      "title": "Consume any Chems (2)",
+      "score": 250
+    },
+    {
+      "title": "Eat a Cake, Pie, or Candy (10)",
+      "score": 250
+    },
+    {
+      "title": "Kill a Mole Miner (10)",
+      "score": 250
+    },
+    {
+      "title": "26.10.2023",
+      "score": 7
+    },
+    {
+      "title": "21.06.2025",
+      "score": 7
+    },
+    {
+      "title": "19.01.2026",
+      "score": 4
     }
   ],
   "weekly": [
@@ -52,40 +56,80 @@
       "score": 300
     },
     {
-      "title": "26.04.2022",
-      "score": 9
-    },
-    {
-      "title": "01.12.2021",
-      "score": 22
-    },
-    {
-      "title": "Consume any Chems (9)",
+      "title": "Complete an Event while in a Team (5)",
       "score": 1000
     },
     {
-      "title": "Drink Nuka-Cherry (5)",
+      "title": "Craft Ammo at a Workbench (250)",
       "score": 1000
     },
     {
-      "title": "Drink Purified Water (15)",
+      "title": "Craft Energy Ammo (45)",
       "score": 1000
     },
     {
-      "title": "Kill a Human Enemy (30)",
+      "title": "Drink Nuka-Cola Cranberry (5)",
       "score": 1000
     },
     {
-      "title": "Kill a Yao Guai (3)",
+      "title": "Eat a Cooked Meal (30)",
       "score": 1000
     },
     {
-      "title": "Repair Armor, Weapons, or Power Armor (10)",
+      "title": "03.02.2024",
+      "score": 7
+    },
+    {
+      "title": "30.12.2025",
+      "score": 3
+    },
+    {
+      "title": "Kill a Cultist (30)",
       "score": 1000
     },
     {
-      "title": "22.05.2023",
-      "score": 6
+      "title": "Plant a Crop in a Workshop or C.A.M.P. (25)",
+      "score": 1000
+    },
+    {
+      "title": "19.01.2026",
+      "score": 4
+    },
+    {
+      "title": "Complete a Weekly Completion Challenge (2)",
+      "score": 140
+    },
+    {
+      "title": "30.01.2026",
+      "score": 12
+    },
+    {
+      "title": "30.01.2026",
+      "score": 12
+    },
+    {
+      "title": "Complete a Week 1 Challenge (6)",
+      "score": 60
+    },
+    {
+      "title": "03.02.2026",
+      "score": 4
+    },
+    {
+      "title": "30.01.2026",
+      "score": 12
+    },
+    {
+      "title": "30.01.2026",
+      "score": 12
+    },
+    {
+      "title": "30.01.2026",
+      "score": 12
+    },
+    {
+      "title": "30.01.2026",
+      "score": 12
     }
   ]
 }
