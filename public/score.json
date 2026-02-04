@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-04T13:34:43.144Z",
+  "fetchedAt": "2026-02-04T19:06:59.743Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 25 minutes left",
-  "weeklyTimeLeft": "6 days 3 hours left",
+  "dailyTimeLeft": "21 hours 52 minutes left",
+  "weeklyTimeLeft": "5 days 21 hours left",
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 4
+      "title": "1ˢᵗ Drink Nuka-Twist (2)",
+      "score": 250
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
+      "title": "Complete a Daily Quest",
+      "score": 250
+    },
+    {
+      "title": "Destroy an Assaultron",
+      "score": 250
+    },
+    {
+      "title": "12.02.2024",
+      "score": 5
+    },
+    {
+      "title": "22.07.2024",
+      "score": 3
+    },
+    {
       "title": "01.12.2021",
       "score": 22
     },
     {
-      "title": "Consume any Chems (2)",
-      "score": 250
-    },
-    {
-      "title": "Eat a Cake, Pie, or Candy (10)",
-      "score": 250
-    },
-    {
-      "title": "Kill a Mole Miner (10)",
-      "score": 250
-    },
-    {
-      "title": "26.10.2023",
-      "score": 7
-    },
-    {
-      "title": "21.06.2025",
-      "score": 7
+      "title": "19.01.2026",
+      "score": 4
     },
     {
       "title": "19.01.2026",
@@ -101,11 +101,11 @@
     },
     {
       "title": "30.01.2026",
-      "score": 12
+      "score": 13
     },
     {
       "title": "30.01.2026",
-      "score": 12
+      "score": 13
     },
     {
       "title": "Complete a Week 1 Challenge (6)",
@@ -113,23 +113,23 @@
     },
     {
       "title": "30.01.2026",
-      "score": 12
+      "score": 13
     },
     {
       "title": "03.02.2026",
-      "score": 4
+      "score": 5
     },
     {
       "title": "30.01.2026",
-      "score": 12
+      "score": 13
     },
     {
       "title": "30.01.2026",
-      "score": 12
+      "score": 13
     },
     {
       "title": "30.01.2026",
-      "score": 12
+      "score": 13
     }
   ]
 }

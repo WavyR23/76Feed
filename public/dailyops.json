@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-04T13:34:43.144Z",
+  "fetchedAt": "2026-02-04T19:06:59.743Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "The Burning Mine",
-    "enemy": "Super Mutants"
+    "location": "Charleston Capitol Building",
+    "enemy": "Robots"
   }
 }
