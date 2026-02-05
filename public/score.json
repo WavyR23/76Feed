@@ -1,45 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-05T13:37:52.405Z",
+  "fetchedAt": "2026-02-05T19:06:00.972Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 22 minutes left",
-  "weeklyTimeLeft": "5 days 3 hours left",
+  "dailyTimeLeft": "21 hours 53 minutes left",
+  "weeklyTimeLeft": "4 days 21 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Nuka-Twist (2)",
-      "score": 250
+      "title": "31.05.2024",
+      "score": 5
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
+      "title": "03.02.2024",
+      "score": 7
+    },
+    {
+      "title": "30.12.2025",
+      "score": 3
+    },
+    {
+      "title": "Collect Stimpaks or Chems (5)",
+      "score": 250
+    },
+    {
       "title": "Complete a Daily Quest",
       "score": 250
-    },
-    {
-      "title": "Destroy an Assaultron",
-      "score": 250
-    },
-    {
-      "title": "12.02.2024",
-      "score": 5
-    },
-    {
-      "title": "22.07.2024",
-      "score": 3
     },
     {
       "title": "01.12.2021",
       "score": 22
     },
     {
-      "title": "19.01.2026",
-      "score": 4
+      "title": "Craft Ammo at a Workbench (50)",
+      "score": 250
     },
     {
-      "title": "19.01.2026",
-      "score": 4
+      "title": "Kill a Yao Guai",
+      "score": 250
     }
   ],
   "weekly": [
@@ -112,12 +112,12 @@
       "score": 60
     },
     {
-      "title": "30.01.2026",
-      "score": 13
-    },
-    {
       "title": "03.02.2026",
       "score": 5
+    },
+    {
+      "title": "30.01.2026",
+      "score": 13
     },
     {
       "title": "30.01.2026",

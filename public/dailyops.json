@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-05T13:37:52.405Z",
+  "fetchedAt": "2026-02-05T19:06:00.972Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Charleston Capitol Building",
-    "enemy": "Robots"
+    "location": "Arktos Pharma Biome Labs",
+    "enemy": "Super Mutants"
   }
 }
