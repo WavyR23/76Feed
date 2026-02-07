@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-07T13:11:58.239Z",
+  "fetchedAt": "2026-02-07T18:52:58.199Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 47 minutes left",
-  "weeklyTimeLeft": "3 days 3 hours left",
+  "dailyTimeLeft": "22 hours 7 minutes left",
+  "weeklyTimeLeft": "2 days 22 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Kill an Enemy in the Forest Region (5)",
+      "title": "1ˢᵗ Eat a Cake, Pie, or Candy (10)",
       "score": 250
     },
     {
@@ -14,24 +14,28 @@
       "score": 1000
     },
     {
-      "title": "Collect Wood (5)",
+      "title": "Collect a Lighter, Cigarette or Cigar (5)",
       "score": 250
-    },
-    {
-      "title": "Collect a Board Game",
-      "score": 250
-    },
-    {
-      "title": "21.04.2022",
-      "score": 21
     },
     {
       "title": "01.12.2021",
       "score": 22
     },
     {
-      "title": "14.12.2025",
-      "score": 8
+      "title": "Drink Nuka-Cola Cranberry (2)",
+      "score": 250
+    },
+    {
+      "title": "Kill a Snallygaster (3)",
+      "score": 250
+    },
+    {
+      "title": "Kill an Angler (3)",
+      "score": 250
+    },
+    {
+      "title": "25.01.2024",
+      "score": 3
     },
     {
       "title": "19.01.2026",
