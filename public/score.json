@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-08T13:12:30.118Z",
+  "fetchedAt": "2026-02-08T18:54:21.857Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 47 minutes left",
-  "weeklyTimeLeft": "2 days 3 hours left",
+  "dailyTimeLeft": "22 hours 5 minutes left",
+  "weeklyTimeLeft": "1 day 22 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Eat a Cake, Pie, or Candy (10)",
+      "title": "1ˢᵗ Eat a Cobbler, which is not a Pie.",
       "score": 250
     },
     {
@@ -14,32 +14,32 @@
       "score": 1000
     },
     {
-      "title": "Collect a Lighter, Cigarette or Cigar (5)",
+      "title": "Complete an Event",
       "score": 250
+    },
+    {
+      "title": "Eat a Vegetable (10)",
+      "score": 250
+    },
+    {
+      "title": "Harvest Corn, Razorgrain, or a Tato Plant (12)",
+      "score": 250
+    },
+    {
+      "title": "22.07.2024",
+      "score": 3
     },
     {
       "title": "01.12.2021",
       "score": 22
     },
     {
-      "title": "Drink Nuka-Cola Cranberry (2)",
+      "title": "Kill a Creature while in a Team (10)",
       "score": 250
     },
     {
-      "title": "Kill a Snallygaster (3)",
+      "title": "Sell Glowing Fungus Soup to an NPC vendor",
       "score": 250
-    },
-    {
-      "title": "Kill an Angler (3)",
-      "score": 250
-    },
-    {
-      "title": "25.01.2024",
-      "score": 3
-    },
-    {
-      "title": "19.01.2026",
-      "score": 4
     }
   ],
   "weekly": [
