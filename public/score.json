@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-09T13:45:38.434Z",
+  "fetchedAt": "2026-02-09T19:38:41.363Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 14 minutes left",
-  "weeklyTimeLeft": "1 day 3 hours left",
+  "dailyTimeLeft": "21 hours 21 minutes left",
+  "weeklyTimeLeft": "21 hours 21 minutes left",
   "daily": [
     {
-      "title": "1ˢᵗ Eat a Cobbler, which is not a Pie.",
+      "title": "1ˢᵗ Chew some Bubblegum",
       "score": 250
     },
     {
@@ -14,32 +14,28 @@
       "score": 1000
     },
     {
-      "title": "Complete an Event",
-      "score": 250
-    },
-    {
-      "title": "Eat a Vegetable (10)",
-      "score": 250
-    },
-    {
-      "title": "Harvest Corn, Razorgrain, or a Tato Plant (12)",
-      "score": 250
-    },
-    {
-      "title": "22.07.2024",
-      "score": 3
-    },
-    {
       "title": "01.12.2021",
-      "score": 22
+      "score": 23
     },
     {
-      "title": "Kill a Creature while in a Team (10)",
+      "title": "Destroy a Robot (10)",
       "score": 250
     },
     {
-      "title": "Sell Glowing Fungus Soup to an NPC vendor",
+      "title": "Destroy an Assaultron",
       "score": 250
+    },
+    {
+      "title": "12.02.2024",
+      "score": 5
+    },
+    {
+      "title": "19.01.2026",
+      "score": 4
+    },
+    {
+      "title": "19.01.2026",
+      "score": 4
     }
   ],
   "weekly": [
@@ -113,7 +109,7 @@
     },
     {
       "title": "03.02.2026",
-      "score": 7
+      "score": 8
     },
     {
       "title": "30.01.2026",
@@ -140,11 +136,7 @@
       "score": 29
     },
     {
-      "title": "Th, 5th Feb 2026 (12:00) - Mo, 9th Feb 2026 (12:00)",
-      "score": 5
-    },
-    {
-      "title": "Th, 5th Feb 2026 (12:00) - Mo, 9th Feb 2026 (12:00)",
+      "title": "Th, 12th Feb 2026 (12:00) - Mo, 16th Feb 2026 (12:00)",
       "score": 7
     }
   ]
