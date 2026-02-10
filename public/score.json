@@ -1,41 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-10T13:52:10.419Z",
+  "fetchedAt": "2026-02-10T19:22:37.834Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 7 minutes left",
-  "weeklyTimeLeft": "3 hours 7 minutes left",
+  "dailyTimeLeft": "21 hours 37 minutes left",
+  "weeklyTimeLeft": "6 days 21 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Chew some Bubblegum",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 4
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "01.12.2021",
-      "score": 23
-    },
-    {
-      "title": "Destroy a Robot (10)",
+      "title": "Collect Caps (250)",
       "score": 250
     },
     {
-      "title": "Destroy an Assaultron",
+      "title": "27.04.2022",
+      "score": 12
+    },
+    {
+      "title": "Kill a Mutant Hound (3)",
       "score": 250
     },
     {
-      "title": "12.02.2024",
-      "score": 5
+      "title": "Kill a Super Mutant (5)",
+      "score": 250
+    },
+    {
+      "title": "24.10.2025",
+      "score": 3
     },
     {
       "title": "19.01.2026",
       "score": 4
     },
     {
-      "title": "19.01.2026",
-      "score": 4
+      "title": "Sell Mutant Hound Chops to an NPC vendor",
+      "score": 250
     }
   ],
   "weekly": [
@@ -52,40 +56,40 @@
       "score": 300
     },
     {
-      "title": "Complete an Event while in a Team (5)",
+      "title": "26.05.2025",
+      "score": 35
+    },
+    {
+      "title": "30.05.2025",
+      "score": 23
+    },
+    {
+      "title": "Collect a Board Game (4)",
       "score": 1000
     },
     {
-      "title": "Craft Ammo at a Workbench (250)",
+      "title": "27.04.2022",
+      "score": 12
+    },
+    {
+      "title": "Complete a Head Hunt (4)",
       "score": 1000
     },
     {
-      "title": "Craft Energy Ammo (45)",
+      "title": "Drink Nuka-Cola Dark (5)",
       "score": 1000
     },
     {
-      "title": "Drink Nuka-Cola Cranberry (5)",
-      "score": 1000
+      "title": "14.12.2025",
+      "score": 8
     },
     {
-      "title": "Eat a Cooked Meal (30)",
-      "score": 1000
+      "title": "14.12.2025",
+      "score": 8
     },
     {
-      "title": "03.02.2024",
-      "score": 7
-    },
-    {
-      "title": "30.12.2025",
-      "score": 3
-    },
-    {
-      "title": "Kill a Cultist (30)",
-      "score": 1000
-    },
-    {
-      "title": "Plant a Crop in a Workshop or C.A.M.P. (25)",
-      "score": 1000
+      "title": "19.01.2026",
+      "score": 4
     },
     {
       "title": "19.01.2026",
@@ -100,18 +104,10 @@
       "score": 14
     },
     {
-      "title": "30.01.2026",
-      "score": 14
-    },
-    {
-      "title": "Complete a Week 1 Challenge (6)",
+      "title": "Complete a Week 2 Challenge (6)",
       "score": 60
     },
     {
-      "title": "03.02.2026",
-      "score": 8
-    },
-    {
       "title": "30.01.2026",
       "score": 14
     },
@@ -128,8 +124,8 @@
       "score": 14
     },
     {
-      "title": "Tu, 27th Jan 2026 (12:00) - Tu, 10th Feb 2026 (12:00)",
-      "score": 29
+      "title": "30.01.2026",
+      "score": 14
     },
     {
       "title": "Tu, 3rd Feb 2026 (12:00) - Tu, 17th Feb 2026 (12:00)",
