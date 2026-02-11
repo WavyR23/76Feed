@@ -1,44 +1,40 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-11T13:47:47.132Z",
+  "fetchedAt": "2026-02-11T19:18:25.587Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 12 minutes left",
-  "weeklyTimeLeft": "6 days 3 hours left",
+  "dailyTimeLeft": "21 hours 41 minutes left",
+  "weeklyTimeLeft": "5 days 21 hours left",
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 4
+      "title": "1ˢᵗ Take a Camera Picture at Nuka-World On Tour",
+      "score": 250
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Collect Caps (250)",
+      "title": "Complete an Event",
       "score": 250
     },
     {
-      "title": "27.04.2022",
-      "score": 12
-    },
-    {
-      "title": "Kill a Mutant Hound (3)",
+      "title": "Craft Energy Ammo (15)",
       "score": 250
     },
     {
-      "title": "Kill a Super Mutant (5)",
+      "title": "Deal a Critical Hit to an Enemy using Automatic Weapons in VATS (5)",
       "score": 250
     },
     {
-      "title": "24.10.2025",
-      "score": 3
+      "title": "30.01.2026",
+      "score": 14
     },
     {
-      "title": "19.01.2026",
-      "score": 4
+      "title": "29.01.2024",
+      "score": 5
     },
     {
-      "title": "Sell Mutant Hound Chops to an NPC vendor",
+      "title": "Mod an Energy Weapon",
       "score": 250
     }
   ],
@@ -133,11 +129,11 @@
     },
     {
       "title": "Th, 12th Feb 2026 (12:00) - Mo, 16th Feb 2026 (12:00)",
-      "score": 8
+      "score": 9
     },
     {
       "title": "Mo, 16th Feb 2026 (12:00) - We, 18th Feb 2026 (12:00)",
-      "score": 2
+      "score": 3
     }
   ]
 }
