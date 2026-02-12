@@ -1,12 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-12T13:43:31.954Z",
+  "fetchedAt": "2026-02-12T19:18:50.617Z",
   "source": "https://nukaknights.com/en/",
-  "events": [
-    {
-      "name": "Fasnacht Event",
-      "starts": "Th, 12th Feb 2026 (12:00)                                         - Mo, 16th Feb 2026 (12:00)",
-      "ends": "Tu, 17th Feb 2026(12:00)                            Tu, 3rd Mar 2026 (12:00)"
-    }
-  ]
+  "events": []
 }

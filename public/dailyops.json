@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-12T13:43:31.954Z",
+  "fetchedAt": "2026-02-12T19:18:50.617Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Arktos Pharma Biome Labs",
-    "enemy": "Robots"
+    "location": "Uncanny Caverns",
+    "enemy": "Super Mutants"
   }
 }
