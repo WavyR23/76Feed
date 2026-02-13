@@ -1,41 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-13T13:35:22.766Z",
+  "fetchedAt": "2026-02-13T19:07:50.475Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 24 minutes left",
-  "weeklyTimeLeft": "4 days 3 hours left",
+  "dailyTimeLeft": "21 hours 52 minutes left",
+  "weeklyTimeLeft": "3 days 21 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Use Photomode while in a Team",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 4
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Collect a box of Sugar Bombs",
+      "title": "Complete an Event",
       "score": 250
     },
     {
-      "title": "21.04.2022",
-      "score": 21
-    },
-    {
-      "title": "Kill a Cultist (10)",
+      "title": "Craft any Flair at a Tinkerer's Bench",
       "score": 250
     },
     {
-      "title": "30.11.2025",
-      "score": 9
+      "title": "30.01.2026",
+      "score": 14
     },
     {
-      "title": "21.03.2024",
-      "score": 5
+      "title": "30.12.2025",
+      "score": 3
     },
     {
-      "title": "Rank up a Perk Card",
-      "score": 250
+      "title": "14.12.2025",
+      "score": 8
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
+    },
+    {
+      "title": "11.11.2025",
+      "score": 10
     }
   ],
   "weekly": [
@@ -129,11 +133,11 @@
     },
     {
       "title": "Th, 12th Feb 2026 (12:00) - Mo, 16th Feb 2026 (12:00)",
-      "score": 9
+      "score": 10
     },
     {
       "title": "Mo, 16th Feb 2026 (12:00) - We, 18th Feb 2026 (12:00)",
-      "score": 3
+      "score": 5
     }
   ]
 }
