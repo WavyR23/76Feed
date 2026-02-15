@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-15T07:06:02.512Z",
+  "fetchedAt": "2026-02-15T13:13:29.478Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "9 hours 53 minutes left",
-  "weeklyTimeLeft": "2 days 9 hours left",
+  "dailyTimeLeft": "3 hours 46 minutes left",
+  "weeklyTimeLeft": "2 days 3 hours left",
   "daily": [
     {
       "title": "1ˢᵗ Eat a Cake, Pie, or Candy (10)",
@@ -18,8 +18,8 @@
       "score": 250
     },
     {
-      "title": "Collect a Lighter, Cigarette or Cigar (5)",
-      "score": 250
+      "title": "25.01.2024",
+      "score": 3
     },
     {
       "title": "Drink Nuka-Cola Cranberry (2)",
@@ -34,12 +34,12 @@
       "score": 250
     },
     {
-      "title": "25.01.2024",
-      "score": 3
-    },
-    {
       "title": "19.01.2026",
       "score": 4
+    },
+    {
+      "title": "25.01.2024",
+      "score": 3
     }
   ],
   "weekly": [
@@ -72,8 +72,8 @@
       "score": 12
     },
     {
-      "title": "Complete a Head Hunt (4)",
-      "score": 1000
+      "title": "30.11.2025",
+      "score": 7
     },
     {
       "title": "Drink Nuka-Cola Dark (5)",
@@ -137,7 +137,7 @@
     },
     {
       "title": "Mo, 16th Feb 2026 (12:00) - We, 18th Feb 2026 (12:00)",
-      "score": 5
+      "score": 6
     }
   ]
 }
