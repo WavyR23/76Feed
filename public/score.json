@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-15T13:13:29.478Z",
+  "fetchedAt": "2026-02-15T18:54:10.538Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 46 minutes left",
-  "weeklyTimeLeft": "2 days 3 hours left",
+  "dailyTimeLeft": "22 hours 5 minutes left",
+  "weeklyTimeLeft": "1 day 22 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Eat a Cake, Pie, or Candy (10)",
+      "title": "1ˢᵗ Craft any Chems (2)",
       "score": 250
     },
     {
@@ -14,32 +14,28 @@
       "score": 1000
     },
     {
-      "title": "Claim a Workshop",
+      "title": "Build a Floor, Wall, or Roof in a Shelter in Free Cam (10)",
       "score": 250
     },
     {
-      "title": "25.01.2024",
-      "score": 3
-    },
-    {
-      "title": "Drink Nuka-Cola Cranberry (2)",
+      "title": "Complete an Event",
       "score": 250
     },
     {
-      "title": "Kill a Snallygaster (3)",
+      "title": "Kill a Creature while in a Team (10)",
       "score": 250
     },
     {
-      "title": "Kill an Angler (3)",
-      "score": 250
+      "title": "09.01.2024",
+      "score": 6
     },
     {
       "title": "19.01.2026",
       "score": 4
     },
     {
-      "title": "25.01.2024",
-      "score": 3
+      "title": "Visit another Player's Shelter",
+      "score": 250
     }
   ],
   "weekly": [
