@@ -1,40 +1,44 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-16T13:37:45.575Z",
+  "fetchedAt": "2026-02-16T19:02:02.531Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 22 minutes left",
-  "weeklyTimeLeft": "1 day 3 hours left",
+  "dailyTimeLeft": "21 hours 57 minutes left",
+  "weeklyTimeLeft": "21 hours 57 minutes left",
   "daily": [
     {
-      "title": "1ˢᵗ Craft any Chems (2)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 4
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Build a Floor, Wall, or Roof in a Shelter in Free Cam (10)",
+      "title": "Collect Caps (250)",
       "score": 250
     },
     {
-      "title": "Complete an Event",
+      "title": "27.04.2022",
+      "score": 12
+    },
+    {
+      "title": "Kill a Mutant Hound (3)",
       "score": 250
     },
     {
-      "title": "Kill a Creature while in a Team (10)",
+      "title": "Kill a Super Mutant (5)",
       "score": 250
     },
     {
-      "title": "09.01.2024",
-      "score": 6
+      "title": "24.10.2025",
+      "score": 3
     },
     {
       "title": "19.01.2026",
       "score": 4
     },
     {
-      "title": "Visit another Player's Shelter",
+      "title": "Sell Mutant Hound Chops to an NPC vendor",
       "score": 250
     }
   ],
@@ -128,12 +132,12 @@
       "score": 30
     },
     {
-      "title": "Th, 12th Feb 2026 (12:00) - Mo, 16th Feb 2026 (12:00)",
-      "score": 12
-    },
-    {
       "title": "Mo, 16th Feb 2026 (12:00) - We, 18th Feb 2026 (12:00)",
       "score": 6
+    },
+    {
+      "title": "Tu, 17th Feb 2026 (12:00) - Tu, 3rd Mar 2026 (12:00)",
+      "score": 10
     }
   ]
 }
