@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-17T13:38:18.525Z",
+  "fetchedAt": "2026-02-17T19:13:18.250Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": null,
-    "enemy": null
+    "location": "Glassed Cavern",
+    "enemy": "Super Mutants"
   }
 }
