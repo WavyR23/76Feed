@@ -1,12 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-18T13:40:09.243Z",
+  "fetchedAt": "2026-02-18T19:13:16.597Z",
   "source": "https://nukaknights.com/en/",
   "events": [
     {
       "name": "Invaders from Beyond Event",
       "starts": "Tu, 3rd Mar 2026 (12:00)                                         - Tu, 10th Mar 2026 (13:00)",
       "ends": "Tu, 10th Mar 2026(13:00)                            Tu, 24th Mar 2026 (13:00)"
+    },
+    {
+      "name": "Spooky Scorched Event",
+      "starts": "Tu, 21st Apr 2026 (12:00)                                         - Tu, 5th May 2026 (12:00)",
+      "ends": "Tu, 28th Apr 2026(12:00)                            Tu, 12th May 2026 (12:00)"
+    },
+    {
+      "name": "Double Mutations and Treasure Hunter",
+      "starts": "Th, 7th May 2026 (12:00)                                         - Mo, 11th May 2026 (12:00)",
+      "ends": "Th, 14th May 2026(12:00)                            Mo, 18th May 2026 (12:00)"
+    },
+    {
+      "name": "Mutated Public Events",
+      "starts": "Th, 4th Jun 2026 (12:00)                                         - Mo, 8th Jun 2026 (12:00)",
+      "ends": "Tu, 9th Jun 2026(12:00)                            Tu, 16th Jun 2026 (12:00)"
     }
   ]
 }

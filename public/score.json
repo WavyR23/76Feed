@@ -1,41 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-18T13:40:09.243Z",
+  "fetchedAt": "2026-02-18T19:13:16.597Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 19 minutes left",
-  "weeklyTimeLeft": "6 days 3 hours left",
+  "dailyTimeLeft": "21 hours 46 minutes left",
+  "weeklyTimeLeft": "5 days 21 hours left",
   "daily": [
     {
-      "title": "18.12.2024",
-      "score": 11
+      "title": "19.01.2026",
+      "score": 4
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Collect Pre-war Food (5)",
+      "title": "Complete an Event",
       "score": 250
     },
     {
-      "title": "27.04.2022",
-      "score": 12
+      "title": "30.01.2026",
+      "score": 14
     },
     {
-      "title": "Eat Pre-war Food (5)",
-      "score": 250
+      "title": "30.12.2025",
+      "score": 3
     },
     {
-      "title": "Kill a Human Enemy (10)",
-      "score": 250
+      "title": "14.12.2025",
+      "score": 8
     },
     {
-      "title": "26.10.2023",
-      "score": 7
+      "title": "19.01.2026",
+      "score": 4
     },
     {
-      "title": "Scrap Pre-War Money (5)",
-      "score": 250
+      "title": "22.05.2023",
+      "score": 6
+    },
+    {
+      "title": "11.11.2025",
+      "score": 10
     }
   ],
   "weekly": [
@@ -60,8 +64,8 @@
       "score": 1000
     },
     {
-      "title": "Craft Fish Bits (35)",
-      "score": 1000
+      "title": "26.05.2025",
+      "score": 35
     },
     {
       "title": "Destroy a Robot (30)",
@@ -92,12 +96,12 @@
       "score": 4
     },
     {
-      "title": "Mo, 16th Feb 2026 (12:00) - We, 18th Feb 2026 (12:00)",
-      "score": 6
-    },
-    {
       "title": "Tu, 17th Feb 2026 (12:00) - Tu, 3rd Mar 2026 (12:00)",
       "score": 15
+    },
+    {
+      "title": "Th, 26th Feb 2026 (12:00) - Mo, 2nd Mar 2026 (12:00)",
+      "score": 3
     }
   ]
 }
