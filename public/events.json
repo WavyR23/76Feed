@@ -1,6 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-18T07:15:29.847Z",
+  "fetchedAt": "2026-02-18T13:40:09.243Z",
   "source": "https://nukaknights.com/en/",
-  "events": []
+  "events": [
+    {
+      "name": "Invaders from Beyond Event",
+      "starts": "Tu, 3rd Mar 2026 (12:00)                                         - Tu, 10th Mar 2026 (13:00)",
+      "ends": "Tu, 10th Mar 2026(13:00)                            Tu, 24th Mar 2026 (13:00)"
+    }
+  ]
 }
