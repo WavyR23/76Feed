@@ -1,33 +1,37 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-19T13:41:26.410Z",
+  "fetchedAt": "2026-02-19T19:08:13.087Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 18 minutes left",
-  "weeklyTimeLeft": "5 days 3 hours left",
+  "dailyTimeLeft": "21 hours 51 minutes left",
+  "weeklyTimeLeft": "4 days 21 hours left",
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 4
+      "title": "1ˢᵗ Drink Tea",
+      "score": 250
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Complete an Event",
+      "title": "Collect Wood (5)",
       "score": 250
     },
     {
-      "title": "30.01.2026",
-      "score": 14
+      "title": "30.11.2025",
+      "score": 7
     },
     {
-      "title": "30.12.2025",
+      "title": "Destroy a Robot (10)",
+      "score": 250
+    },
+    {
+      "title": "11.11.2025",
+      "score": 10
+    },
+    {
+      "title": "24.10.2025",
       "score": 3
-    },
-    {
-      "title": "14.12.2025",
-      "score": 8
     },
     {
       "title": "19.01.2026",
@@ -105,7 +109,7 @@
     },
     {
       "title": "Th, 26th Feb 2026 (12:00) - Mo, 2nd Mar 2026 (12:00)",
-      "score": 4
+      "score": 5
     }
   ]
 }

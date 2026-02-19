@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-19T13:41:26.410Z",
+  "fetchedAt": "2026-02-19T19:08:13.087Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Watoga High School",
+    "location": "Uncanny Caverns",
     "enemy": "Super Mutants"
   }
 }
