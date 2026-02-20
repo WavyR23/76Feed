@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-20T13:32:24.637Z",
+  "fetchedAt": "2026-02-20T19:04:39.548Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 27 minutes left",
-  "weeklyTimeLeft": "4 days 3 hours left",
+  "dailyTimeLeft": "21 hours 55 minutes left",
+  "weeklyTimeLeft": "3 days 21 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Tea",
+      "title": "1ˢᵗ Drink Purified Water (2)",
       "score": 250
     },
     {
@@ -14,36 +14,32 @@
       "score": 1000
     },
     {
-      "title": "Collect Wood (5)",
+      "title": "Eat a Plant-based Meal (10)",
       "score": 250
     },
     {
-      "title": "30.11.2025",
+      "title": "21.04.2022",
+      "score": 23
+    },
+    {
+      "title": "Harvest a Wild Plant or Fungi (12)",
+      "score": 250
+    },
+    {
+      "title": "03.02.2024",
       "score": 7
     },
     {
-      "title": "Destroy a Robot (10)",
-      "score": 250
-    },
-    {
-      "title": "11.11.2025",
-      "score": 10
-    },
-    {
-      "title": "24.10.2025",
+      "title": "30.12.2025",
       "score": 3
     },
     {
-      "title": "19.01.2026",
-      "score": 4
+      "title": "Kill a Creature while in a Team (10)",
+      "score": 250
     },
     {
-      "title": "22.05.2023",
-      "score": 6
-    },
-    {
-      "title": "11.11.2025",
-      "score": 10
+      "title": "Sell Glowing Fungus Soup to an NPC vendor",
+      "score": 250
     }
   ],
   "weekly": [
