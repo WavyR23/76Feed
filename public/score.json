@@ -1,47 +1,10 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-21T13:10:34.788Z",
+  "fetchedAt": "2026-02-21T18:53:10.863Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 49 minutes left",
-  "weeklyTimeLeft": "3 days 3 hours left",
-  "daily": [
-    {
-      "title": "1ˢᵗ Drink Purified Water (2)",
-      "score": 250
-    },
-    {
-      "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
-    },
-    {
-      "title": "Eat a Plant-based Meal (10)",
-      "score": 250
-    },
-    {
-      "title": "21.04.2022",
-      "score": 23
-    },
-    {
-      "title": "Harvest a Wild Plant or Fungi (12)",
-      "score": 250
-    },
-    {
-      "title": "03.02.2024",
-      "score": 7
-    },
-    {
-      "title": "30.12.2025",
-      "score": 3
-    },
-    {
-      "title": "Kill a Creature while in a Team (10)",
-      "score": 250
-    },
-    {
-      "title": "Sell Glowing Fungus Soup to an NPC vendor",
-      "score": 250
-    }
-  ],
+  "dailyTimeLeft": null,
+  "weeklyTimeLeft": "2 days 22 hours left",
+  "daily": [],
   "weekly": [
     {
       "title": "⭐ Complete a Gold Star Daily Challenge! (3)",
