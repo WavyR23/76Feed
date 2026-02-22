@@ -1,10 +1,43 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-21T18:53:10.863Z",
+  "fetchedAt": "2026-02-22T03:15:08.754Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": null,
-  "weeklyTimeLeft": "2 days 22 hours left",
-  "daily": [],
+  "dailyTimeLeft": "13 hours 44 minutes left",
+  "weeklyTimeLeft": "2 days 13 hours left",
+  "daily": [
+    {
+      "title": "19.01.2026",
+      "score": 4
+    },
+    {
+      "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
+    {
+      "title": "Collect Mirelurk Eggs (3)",
+      "score": 250
+    },
+    {
+      "title": "27.04.2022",
+      "score": 12
+    },
+    {
+      "title": "Eat a Cooked Meal (10)",
+      "score": 250
+    },
+    {
+      "title": "Kill an Enemy in the Mire Region (5)",
+      "score": 250
+    },
+    {
+      "title": "Kill an Enemy with any Shotgun (8)",
+      "score": 250
+    },
+    {
+      "title": "Sell a Shotgun to an NPC vendor",
+      "score": 250
+    }
+  ],
   "weekly": [
     {
       "title": "⭐ Complete a Gold Star Daily Challenge! (3)",
