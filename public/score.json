@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-23T13:40:13.775Z",
+  "fetchedAt": "2026-02-23T19:21:04.415Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 19 minutes left",
-  "weeklyTimeLeft": "1 day 3 hours left",
+  "dailyTimeLeft": "21 hours 38 minutes left",
+  "weeklyTimeLeft": "21 hours 38 minutes left",
   "daily": [
     {
-      "title": "18.12.2024",
-      "score": 11
+      "title": "19.01.2026",
+      "score": 4
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Collect Pre-war Food (5)",
+      "title": "Buy an item from or Sell an item to another Player",
       "score": 250
     },
     {
-      "title": "25.01.2024",
-      "score": 3
-    },
-    {
-      "title": "30.11.2025",
-      "score": 7
-    },
-    {
-      "title": "Eat Pre-war Food (5)",
+      "title": "Cripple a Super Mutant's Leg (2)",
       "score": 250
+    },
+    {
+      "title": "21.04.2022",
+      "score": 23
     },
     {
       "title": "Kill a Human Enemy (10)",
       "score": 250
     },
     {
-      "title": "26.10.2023",
-      "score": 7
+      "title": "Scrap Headwear",
+      "score": 250
+    },
+    {
+      "title": "19.01.2026",
+      "score": 4
     }
   ],
   "weekly": [
@@ -101,7 +101,7 @@
     },
     {
       "title": "Th, 26th Feb 2026 (12:00) - Mo, 2nd Mar 2026 (12:00)",
-      "score": 10
+      "score": 11
     }
   ]
 }
