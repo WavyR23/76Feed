@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-24T13:42:18.164Z",
+  "fetchedAt": "2026-02-24T19:17:10.234Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 17 minutes left",
-  "weeklyTimeLeft": "3 hours 17 minutes left",
+  "dailyTimeLeft": "21 hours 42 minutes left",
+  "weeklyTimeLeft": "6 days 21 hours left",
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 4
+      "title": "26.04.2022",
+      "score": 9
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Buy an item from or Sell an item to another Player",
+      "title": "Collect Purified Water (5)",
       "score": 250
     },
     {
-      "title": "Cripple a Super Mutant's Leg (2)",
+      "title": "Collect Wood (5)",
       "score": 250
     },
     {
-      "title": "21.04.2022",
-      "score": 23
+      "title": "30.11.2025",
+      "score": 7
     },
     {
-      "title": "Kill a Human Enemy (10)",
+      "title": "Cripple a Ghoul's Leg (2)",
       "score": 250
     },
     {
-      "title": "Scrap Headwear",
+      "title": "Kill an Enemy in the Forest Region (5)",
       "score": 250
     },
     {
-      "title": "19.01.2026",
-      "score": 4
+      "title": "Use Photomode to Take a Photo",
+      "score": 250
     }
   ],
   "weekly": [
@@ -50,46 +50,6 @@
     {
       "title": "🔁 Repeatable at Rank 100 or above: Complete a Public Event (3)",
       "score": 300
-    },
-    {
-      "title": "Buy an item from or Sell an item to another Player (15)",
-      "score": 1000
-    },
-    {
-      "title": "Claim a Workshop (3)",
-      "score": 1000
-    },
-    {
-      "title": "26.05.2025",
-      "score": 35
-    },
-    {
-      "title": "Destroy a Robot (30)",
-      "score": 1000
-    },
-    {
-      "title": "Drink Nuka-Orange (5)",
-      "score": 1000
-    },
-    {
-      "title": "Eat a Vegetable (25)",
-      "score": 1000
-    },
-    {
-      "title": "05.09.2024",
-      "score": 5
-    },
-    {
-      "title": "19.01.2026",
-      "score": 4
-    },
-    {
-      "title": "26.02.2024",
-      "score": 4
-    },
-    {
-      "title": "19.01.2026",
-      "score": 4
     },
     {
       "title": "Tu, 17th Feb 2026 (12:00) - Tu, 3rd Mar 2026 (12:00)",
