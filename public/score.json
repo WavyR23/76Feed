@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-24T19:17:10.234Z",
+  "fetchedAt": "2026-02-25T03:14:01.515Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "21 hours 42 minutes left",
-  "weeklyTimeLeft": "6 days 21 hours left",
+  "dailyTimeLeft": "13 hours 45 minutes left",
+  "weeklyTimeLeft": "6 days 13 hours left",
   "daily": [
     {
       "title": "26.04.2022",
@@ -52,8 +52,44 @@
       "score": 300
     },
     {
+      "title": "Collect Pre-war Food (20)",
+      "score": 1000
+    },
+    {
+      "title": "30.11.2025",
+      "score": 7
+    },
+    {
+      "title": "Craft any Flair at a Tinkerer's Bench (3)",
+      "score": 1000
+    },
+    {
+      "title": "Cripple a Blood Eagle's Leg (18)",
+      "score": 1000
+    },
+    {
+      "title": "Drink Nuka-Grape (5)",
+      "score": 1000
+    },
+    {
+      "title": "Kill a Scorched (30)",
+      "score": 1000
+    },
+    {
+      "title": "19.01.2026",
+      "score": 4
+    },
+    {
+      "title": "19.01.2026",
+      "score": 4
+    },
+    {
+      "title": "Sell Missile Launcher to an NPC vendor",
+      "score": 1000
+    },
+    {
       "title": "Tu, 17th Feb 2026 (12:00) - Tu, 3rd Mar 2026 (12:00)",
-      "score": 18
+      "score": 17
     },
     {
       "title": "Mo, 23rd Feb 2026 (12:00) - We, 25th Feb 2026 (12:00)",
