@@ -1,41 +1,49 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-25T13:42:04.209Z",
+  "fetchedAt": "2026-02-25T19:19:10.845Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 17 minutes left",
-  "weeklyTimeLeft": "6 days 3 hours left",
+  "dailyTimeLeft": "21 hours 40 minutes left",
+  "weeklyTimeLeft": "5 days 21 hours left",
   "daily": [
     {
-      "title": "26.04.2022",
-      "score": 9
+      "title": "1ˢᵗ Eat a Cake, Pie, or Candy (10)",
+      "score": 250
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Collect Purified Water (5)",
+      "title": "30.05.2025",
+      "score": 23
+    },
+    {
+      "title": "26.05.2025",
+      "score": 35
+    },
+    {
+      "title": "Deal a Critical Hit to a Sentry Bot in VATS",
       "score": 250
     },
     {
-      "title": "Collect Wood (5)",
+      "title": "Harvest a Wild Plant or Fungi (12)",
       "score": 250
     },
     {
-      "title": "30.11.2025",
-      "score": 7
-    },
-    {
-      "title": "Cripple a Ghoul's Leg (2)",
+      "title": "Kill an Enemy in the Cranberry Bog Region (5)",
       "score": 250
     },
     {
-      "title": "Kill an Enemy in the Forest Region (5)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 4
     },
     {
-      "title": "Use Photomode to Take a Photo",
-      "score": 250
+      "title": "09.01.2024",
+      "score": 6
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
     }
   ],
   "weekly": [
@@ -90,10 +98,6 @@
     {
       "title": "Tu, 17th Feb 2026 (12:00) - Tu, 3rd Mar 2026 (12:00)",
       "score": 17
-    },
-    {
-      "title": "Mo, 23rd Feb 2026 (12:00) - We, 25th Feb 2026 (12:00)",
-      "score": 2
     },
     {
       "title": "Th, 26th Feb 2026 (12:00) - Mo, 2nd Mar 2026 (12:00)",
