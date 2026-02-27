@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-27T13:22:16.484Z",
+  "fetchedAt": "2026-02-27T19:01:52.488Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 37 minutes left",
-  "weeklyTimeLeft": "4 days 3 hours left",
+  "dailyTimeLeft": "21 hours 58 minutes left",
+  "weeklyTimeLeft": "3 days 21 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Nuka-Cola (3)",
+      "title": "1ˢᵗ Drink Tea",
       "score": 250
     },
     {
@@ -14,32 +14,32 @@
       "score": 1000
     },
     {
-      "title": "30.05.2025",
-      "score": 23
-    },
-    {
-      "title": "26.05.2025",
-      "score": 35
-    },
-    {
-      "title": "Collect Wood (5)",
+      "title": "Build a Bed, Table, or Stairs in a Workshop or C.A.M.P. (3)",
       "score": 250
     },
     {
-      "title": "Collect a Board Game",
+      "title": "27.04.2022",
+      "score": 12
+    },
+    {
+      "title": "Craft or Scrap a piece of Power Armor",
       "score": 250
     },
     {
-      "title": "21.04.2022",
-      "score": 23
-    },
-    {
-      "title": "14.12.2025",
-      "score": 8
-    },
-    {
-      "title": "Kill an Enemy in the Forest Region (5)",
+      "title": "Cripple a Ghoul's Leg (2)",
       "score": 250
+    },
+    {
+      "title": "03.02.2024",
+      "score": 7
+    },
+    {
+      "title": "30.12.2025",
+      "score": 3
+    },
+    {
+      "title": "19.01.2026",
+      "score": 4
     }
   ],
   "weekly": [
