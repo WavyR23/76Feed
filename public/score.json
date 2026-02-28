@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-02-28T13:06:06.966Z",
+  "fetchedAt": "2026-02-28T18:48:46.707Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 53 minutes left",
-  "weeklyTimeLeft": "3 days 3 hours left",
+  "dailyTimeLeft": "22 hours 11 minutes left",
+  "weeklyTimeLeft": "2 days 22 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Tea",
+      "title": "1ˢᵗ Build Anything in a Workshop or C.A.M.P. in Free Cam (10)",
       "score": 250
     },
     {
@@ -14,32 +14,32 @@
       "score": 1000
     },
     {
-      "title": "Build a Bed, Table, or Stairs in a Workshop or C.A.M.P. (3)",
+      "title": "30.05.2025",
+      "score": 23
+    },
+    {
+      "title": "26.05.2025",
+      "score": 35
+    },
+    {
+      "title": "Claim a Workshop",
       "score": 250
     },
     {
-      "title": "27.04.2022",
-      "score": 12
-    },
-    {
-      "title": "Craft or Scrap a piece of Power Armor",
+      "title": "Cripple a Mole Miner's Head (2)",
       "score": 250
     },
     {
-      "title": "Cripple a Ghoul's Leg (2)",
+      "title": "Kill an Enemy in the Ash Heap Region (5)",
       "score": 250
-    },
-    {
-      "title": "03.02.2024",
-      "score": 7
-    },
-    {
-      "title": "30.12.2025",
-      "score": 3
     },
     {
       "title": "19.01.2026",
       "score": 4
+    },
+    {
+      "title": "Collect RadAway or Rad-X (5)",
+      "score": 250
     }
   ],
   "weekly": [
