@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-01T13:09:04.839Z",
+  "fetchedAt": "2026-03-01T18:50:07.722Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 50 minutes left",
-  "weeklyTimeLeft": "2 days 3 hours left",
+  "dailyTimeLeft": "22 hours 9 minutes left",
+  "weeklyTimeLeft": "1 day 22 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Build Anything in a Workshop or C.A.M.P. in Free Cam (10)",
+      "title": "1ˢᵗ Chew some Bubblegum",
       "score": 250
     },
     {
@@ -14,32 +14,28 @@
       "score": 1000
     },
     {
-      "title": "30.05.2025",
-      "score": 23
-    },
-    {
-      "title": "26.05.2025",
-      "score": 35
-    },
-    {
-      "title": "Claim a Workshop",
+      "title": "Collect Stimpaks or Chems (5)",
       "score": 250
     },
     {
-      "title": "Cripple a Mole Miner's Head (2)",
+      "title": "27.04.2022",
+      "score": 12
+    },
+    {
+      "title": "Craft Ammo at a Workbench (50)",
       "score": 250
     },
     {
-      "title": "Kill an Enemy in the Ash Heap Region (5)",
+      "title": "Kill a Glowing Creature",
+      "score": 250
+    },
+    {
+      "title": "Kill an Enemy in the Skyline Valley Region (5)",
       "score": 250
     },
     {
       "title": "19.01.2026",
       "score": 4
-    },
-    {
-      "title": "Collect RadAway or Rad-X (5)",
-      "score": 250
     }
   ],
   "weekly": [
