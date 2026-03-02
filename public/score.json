@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-02T13:33:59.845Z",
+  "fetchedAt": "2026-03-02T19:04:53.956Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 25 minutes left",
-  "weeklyTimeLeft": "1 day 3 hours left",
+  "dailyTimeLeft": "21 hours 55 minutes left",
+  "weeklyTimeLeft": "21 hours 55 minutes left",
   "daily": [
     {
       "title": "1ˢᵗ Chew some Bubblegum",
@@ -14,24 +14,24 @@
       "score": 1000
     },
     {
-      "title": "Collect Stimpaks or Chems (5)",
+      "title": "30.11.2025",
+      "score": 7
+    },
+    {
+      "title": "Destroy a Robot (10)",
       "score": 250
     },
     {
-      "title": "27.04.2022",
-      "score": 12
-    },
-    {
-      "title": "Craft Ammo at a Workbench (50)",
+      "title": "Destroy an Assaultron",
       "score": 250
     },
     {
-      "title": "Kill a Glowing Creature",
-      "score": 250
+      "title": "12.02.2024",
+      "score": 5
     },
     {
-      "title": "Kill an Enemy in the Skyline Valley Region (5)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 4
     },
     {
       "title": "19.01.2026",
@@ -92,8 +92,8 @@
       "score": 18
     },
     {
-      "title": "Th, 26th Feb 2026 (12:00) - Mo, 2nd Mar 2026 (12:00)",
-      "score": 11
+      "title": "Tu, 3rd Mar 2026 (10:00) - Tu, 3rd Mar 2026 (14:00)",
+      "score": 9
     }
   ]
 }
