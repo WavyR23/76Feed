@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-03T03:12:55.124Z",
+  "fetchedAt": "2026-03-03T07:09:12.592Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "13 hours 47 minutes left",
-  "weeklyTimeLeft": "13 hours 47 minutes left",
+  "dailyTimeLeft": "9 hours 50 minutes left",
+  "weeklyTimeLeft": "9 hours 50 minutes left",
   "daily": [
     {
       "title": "1ˢᵗ Chew some Bubblegum",
@@ -90,6 +90,10 @@
     {
       "title": "Tu, 17th Feb 2026 (12:00) - Tu, 3rd Mar 2026 (12:00)",
       "score": 18
+    },
+    {
+      "title": "Mo, 2nd Mar 2026 (12:00) - We, 4th Mar 2026 (12:00)",
+      "score": 1
     },
     {
       "title": "Tu, 3rd Mar 2026 (10:00) - Tu, 3rd Mar 2026 (14:00)",
