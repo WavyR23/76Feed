@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-05T13:35:07.884Z",
+  "fetchedAt": "2026-03-05T19:34:32.483Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 24 minutes left",
-  "weeklyTimeLeft": "5 days 3 hours left",
+  "dailyTimeLeft": "21 hours 25 minutes left",
+  "weeklyTimeLeft": "4 days 21 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Tea",
+      "title": "1ˢᵗ Collect Wood (5)",
       "score": 250
     },
     {
@@ -14,32 +14,28 @@
       "score": 1000
     },
     {
-      "title": "Build a Bed, Table, or Stairs in a Workshop or C.A.M.P. (3)",
-      "score": 250
+      "title": "18.12.2024",
+      "score": 11
     },
     {
-      "title": "27.04.2022",
-      "score": 12
-    },
-    {
-      "title": "Craft or Scrap a piece of Power Armor",
-      "score": 250
-    },
-    {
-      "title": "03.02.2024",
-      "score": 7
-    },
-    {
-      "title": "30.12.2025",
+      "title": "16.01.2026",
       "score": 3
     },
     {
-      "title": "Cripple a Ghoul's Leg (2)",
+      "title": "Collect a Fuel Tank or Gas Canister (2)",
       "score": 250
     },
     {
-      "title": "19.01.2026",
-      "score": 4
+      "title": "Cripple a Scorched's Arm (2)",
+      "score": 250
+    },
+    {
+      "title": "Join a Team with another Player",
+      "score": 250
+    },
+    {
+      "title": "03.01.2024",
+      "score": 6
     }
   ],
   "weekly": [
@@ -81,7 +77,7 @@
     },
     {
       "title": "19.01.2026",
-      "score": 4
+      "score": 5
     },
     {
       "title": "25.01.2024",
@@ -89,15 +85,15 @@
     },
     {
       "title": "21.03.2024",
-      "score": 12
+      "score": 13
     },
     {
       "title": "19.01.2026",
-      "score": 4
+      "score": 5
     },
     {
       "title": "19.01.2026",
-      "score": 4
+      "score": 5
     },
     {
       "title": "Tu, 3rd Mar 2026 (12:00) - Tu, 10th Mar 2026 (13:00)",
