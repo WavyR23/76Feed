@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-06T13:20:02.166Z",
+  "fetchedAt": "2026-03-06T19:02:04.845Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 39 minutes left",
-  "weeklyTimeLeft": "4 days 3 hours left",
+  "dailyTimeLeft": "21 hours 57 minutes left",
+  "weeklyTimeLeft": "3 days 21 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Collect Wood (5)",
-      "score": 250
+      "title": "26.04.2022",
+      "score": 9
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "18.12.2024",
-      "score": 11
-    },
-    {
-      "title": "16.01.2026",
-      "score": 3
-    },
-    {
-      "title": "Collect a Fuel Tank or Gas Canister (2)",
+      "title": "Build a Floor, Wall, or Roof in a Shelter (10)",
       "score": 250
     },
     {
-      "title": "Cripple a Scorched's Arm (2)",
+      "title": "Cripple enemy limbs (6)",
       "score": 250
     },
     {
-      "title": "Join a Team with another Player",
+      "title": "Harvest Corn, Razorgrain, or a Tato Plant (12)",
       "score": 250
     },
     {
-      "title": "03.01.2024",
-      "score": 6
+      "title": "Kill a Canine (5)",
+      "score": 250
+    },
+    {
+      "title": "Sell Wolf Ribs to an NPC vendor",
+      "score": 250
+    },
+    {
+      "title": "Visit another Player's Shelter",
+      "score": 250
     }
   ],
   "weekly": [

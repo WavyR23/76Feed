@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-06T13:20:02.166Z",
+  "fetchedAt": "2026-03-06T19:02:04.845Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Community Center",
-    "enemy": "Super Mutants"
+    "location": "Watoga High School",
+    "enemy": "Robots"
   }
 }
