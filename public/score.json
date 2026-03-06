@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-06T07:07:08.751Z",
+  "fetchedAt": "2026-03-06T13:20:02.166Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "9 hours 52 minutes left",
-  "weeklyTimeLeft": "4 days 9 hours left",
+  "dailyTimeLeft": "3 hours 39 minutes left",
+  "weeklyTimeLeft": "4 days 3 hours left",
   "daily": [
     {
       "title": "1ˢᵗ Collect Wood (5)",
@@ -97,15 +97,15 @@
     },
     {
       "title": "Tu, 3rd Mar 2026 (12:00) - Tu, 10th Mar 2026 (13:00)",
-      "score": 14
+      "score": 15
     },
     {
       "title": "Tu, 10th Mar 2026 (13:00) - Tu, 24th Mar 2026 (13:00)",
-      "score": 8
+      "score": 9
     },
     {
       "title": "Th, 12th Mar 2026 (13:00) - Mo, 16th Mar 2026 (13:00)",
-      "score": 8
+      "score": 9
     }
   ]
 }
