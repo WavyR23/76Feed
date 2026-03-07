@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-06T19:02:04.845Z",
+  "fetchedAt": "2026-03-07T02:43:06.485Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "21 hours 57 minutes left",
-  "weeklyTimeLeft": "3 days 21 hours left",
+  "dailyTimeLeft": "14 hours 16 minutes left",
+  "weeklyTimeLeft": "3 days 14 hours left",
   "daily": [
     {
       "title": "26.04.2022",
@@ -105,7 +105,7 @@
     },
     {
       "title": "Th, 12th Mar 2026 (13:00) - Mo, 16th Mar 2026 (13:00)",
-      "score": 9
+      "score": 10
     }
   ]
 }
