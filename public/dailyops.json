@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-07T13:07:50.944Z",
+  "fetchedAt": "2026-03-07T18:49:26.988Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Watoga High School",
-    "enemy": "Robots"
+    "location": null,
+    "enemy": null
   }
 }
