@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-08T06:59:17.404Z",
+  "fetchedAt": "2026-03-08T13:09:51.012Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "41 seconds left",
-  "weeklyTimeLeft": "41 seconds left",
+  "dailyTimeLeft": "3 hours 50 minutes left",
+  "weeklyTimeLeft": "2 days 3 hours left",
   "daily": [
     {
       "title": "1ˢᵗ Collect Caps (250)",
@@ -101,11 +101,11 @@
     },
     {
       "title": "Tu, 10th Mar 2026 (13:00) - Tu, 24th Mar 2026 (13:00)",
-      "score": 12
+      "score": 13
     },
     {
       "title": "Th, 12th Mar 2026 (13:00) - Mo, 16th Mar 2026 (13:00)",
-      "score": 10
+      "score": 11
     }
   ]
 }
