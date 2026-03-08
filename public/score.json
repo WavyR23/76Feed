@@ -1,40 +1,40 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-08T13:09:51.012Z",
+  "fetchedAt": "2026-03-08T18:51:11.370Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 50 minutes left",
-  "weeklyTimeLeft": "2 days 3 hours left",
+  "dailyTimeLeft": "22 hours 8 minutes left",
+  "weeklyTimeLeft": "1 day 22 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Collect Caps (250)",
-      "score": 250
+      "title": "11.01.2024",
+      "score": 8
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Complete an Event",
+      "title": "Collect Energy Ammo (20)",
       "score": 250
     },
     {
-      "title": "Craft or Scrap a Ranged Weapon (5)",
+      "title": "Collect RadAway or Rad-X (5)",
       "score": 250
     },
     {
-      "title": "Destroy an Assaultron",
+      "title": "21.04.2022",
+      "score": 23
+    },
+    {
+      "title": "Kill a Yao Guai",
       "score": 250
     },
     {
-      "title": "Kill a Creature (12)",
+      "title": "Kill an Enemy in the Toxic Valley Region (5)",
       "score": 250
     },
     {
-      "title": "Mod a Weapon (3)",
-      "score": 250
-    },
-    {
-      "title": "Sell a Tesla Rifle to an NPC vendor",
+      "title": "Mod an Energy Weapon",
       "score": 250
     }
   ],
