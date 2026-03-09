@@ -1,41 +1,49 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-09T13:38:56.117Z",
+  "fetchedAt": "2026-03-09T19:08:27.024Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 21 minutes left",
-  "weeklyTimeLeft": "1 day 3 hours left",
+  "dailyTimeLeft": "21 hours 51 minutes left",
+  "weeklyTimeLeft": "21 hours 51 minutes left",
   "daily": [
     {
-      "title": "11.01.2024",
-      "score": 8
+      "title": "27.04.2022",
+      "score": 12
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Collect Energy Ammo (20)",
+      "title": "1ˢᵗ Drink Tea",
       "score": 250
     },
     {
-      "title": "Collect RadAway or Rad-X (5)",
+      "title": "22.07.2024",
+      "score": 3
+    },
+    {
+      "title": "14.12.2025",
+      "score": 8
+    },
+    {
+      "title": "26.10.2023",
+      "score": 7
+    },
+    {
+      "title": "Eat a Cooked Meal (10)",
       "score": 250
     },
     {
-      "title": "21.04.2022",
-      "score": 23
-    },
-    {
-      "title": "Kill a Yao Guai",
+      "title": "Eat a Plant-based Meal (10)",
       "score": 250
     },
     {
-      "title": "Kill an Enemy in the Toxic Valley Region (5)",
+      "title": "Kill a Cultist (10)",
       "score": 250
     },
     {
-      "title": "Mod an Energy Weapon",
-      "score": 250
+      "title": "14.12.2025",
+      "score": 8
     }
   ],
   "weekly": [
