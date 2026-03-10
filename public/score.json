@@ -1,49 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-10T13:36:46.459Z",
+  "fetchedAt": "2026-03-10T19:06:49.342Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 23 minutes left",
-  "weeklyTimeLeft": "3 hours 23 minutes left",
+  "dailyTimeLeft": "21 hours 53 minutes left",
+  "weeklyTimeLeft": "6 days 21 hours left",
   "daily": [
     {
-      "title": "27.04.2022",
-      "score": 12
+      "title": "19.01.2026",
+      "score": 5
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "1ˢᵗ Drink Tea",
+      "title": "Collect Stimpaks or Chems (5)",
       "score": 250
     },
     {
-      "title": "22.07.2024",
-      "score": 3
-    },
-    {
-      "title": "14.12.2025",
-      "score": 8
-    },
-    {
-      "title": "26.10.2023",
-      "score": 7
-    },
-    {
-      "title": "Eat a Cooked Meal (10)",
+      "title": "Collect any flavor of Nuka-Cola (5)",
       "score": 250
     },
     {
-      "title": "Eat a Plant-based Meal (10)",
+      "title": "Consume any Chems (2)",
       "score": 250
     },
     {
-      "title": "Kill a Cultist (10)",
+      "title": "Kill a Feral Ghoul (10)",
       "score": 250
     },
     {
-      "title": "14.12.2025",
-      "score": 8
+      "title": "21.01.2026",
+      "score": 4
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
     }
   ],
   "weekly": [
@@ -60,60 +52,52 @@
       "score": 300
     },
     {
-      "title": "Build a Decoration in a Workshop or C.A.M.P. (25)",
+      "title": "Collect Pre-war Food (20)",
       "score": 1000
     },
     {
-      "title": "Claim a Workshop (3)",
+      "title": "Collect Stimpaks or Chems (20)",
       "score": 1000
     },
     {
-      "title": "18.12.2024",
-      "score": 11
+      "title": "26.04.2022",
+      "score": 9
     },
     {
-      "title": "Kill a Cultist (25)",
+      "title": "Complete an Event (3)",
       "score": 1000
     },
     {
-      "title": "03.01.2024",
-      "score": 6
+      "title": "Consume any Chems (9)",
+      "score": 1000
     },
     {
-      "title": "Repair Armor, Weapons, or Power Armor (10)",
+      "title": "Eat Pre-war Food (25)",
       "score": 1000
+    },
+    {
+      "title": "Kill a Creature (25)",
+      "score": 1000
+    },
+    {
+      "title": "21.01.2026",
+      "score": 4
     },
     {
       "title": "19.01.2026",
       "score": 5
     },
     {
-      "title": "25.01.2024",
-      "score": 3
-    },
-    {
-      "title": "21.03.2024",
-      "score": 13
-    },
-    {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "Tu, 3rd Mar 2026 (12:00) - Tu, 10th Mar 2026 (13:00)",
-      "score": 15
-    },
-    {
-      "title": "Tu, 10th Mar 2026 (13:00) - Tu, 24th Mar 2026 (13:00)",
+      "title": "Tu, 10th Mar 2026 (12:00) - Tu, 24th Mar 2026 (12:00)",
       "score": 14
     },
     {
-      "title": "Th, 12th Mar 2026 (13:00) - Mo, 16th Mar 2026 (13:00)",
+      "title": "Th, 12th Mar 2026 (12:00) - Mo, 16th Mar 2026 (12:00)",
       "score": 11
+    },
+    {
+      "title": "Th, 19th Mar 2026 (12:00) - Mo, 23rd Mar 2026 (12:00)",
+      "score": 7
     }
   ]
 }
