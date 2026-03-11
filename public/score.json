@@ -1,43 +1,10 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-11T13:36:28.704Z",
+  "fetchedAt": "2026-03-11T19:09:00.343Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 23 minutes left",
-  "weeklyTimeLeft": "6 days 3 hours left",
-  "daily": [
-    {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
-    },
-    {
-      "title": "Collect Stimpaks or Chems (5)",
-      "score": 250
-    },
-    {
-      "title": "Collect any flavor of Nuka-Cola (5)",
-      "score": 250
-    },
-    {
-      "title": "Consume any Chems (2)",
-      "score": 250
-    },
-    {
-      "title": "Kill a Feral Ghoul (10)",
-      "score": 250
-    },
-    {
-      "title": "21.01.2026",
-      "score": 4
-    },
-    {
-      "title": "22.05.2023",
-      "score": 6
-    }
-  ],
+  "dailyTimeLeft": null,
+  "weeklyTimeLeft": "5 days 21 hours left",
+  "daily": [],
   "weekly": [
     {
       "title": "⭐ Complete a Gold Star Daily Challenge! (3)",
@@ -93,7 +60,7 @@
     },
     {
       "title": "Th, 12th Mar 2026 (12:00) - Mo, 16th Mar 2026 (12:00)",
-      "score": 11
+      "score": 12
     },
     {
       "title": "Th, 19th Mar 2026 (12:00) - Mo, 23rd Mar 2026 (12:00)",
