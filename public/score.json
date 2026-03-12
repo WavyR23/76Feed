@@ -1,45 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-12T13:35:40.125Z",
+  "fetchedAt": "2026-03-12T19:09:48.227Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 24 minutes left",
-  "weeklyTimeLeft": "5 days 3 hours left",
+  "dailyTimeLeft": "21 hours 50 minutes left",
+  "weeklyTimeLeft": "4 days 21 hours left",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Purified Water (2)",
-      "score": 250
+      "title": "30.01.2026",
+      "score": 15
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Drink Nuka-Cola (3)",
+      "title": "30.05.2025",
+      "score": 23
+    },
+    {
+      "title": "26.05.2025",
+      "score": 36
+    },
+    {
+      "title": "Collect a box of Sugar Bombs",
       "score": 250
     },
     {
-      "title": "03.01.2024",
-      "score": 6
-    },
-    {
-      "title": "14.12.2025",
-      "score": 8
-    },
-    {
-      "title": "Scrap Pre-War Money (5)",
-      "score": 250
-    },
-    {
-      "title": "19.01.2026",
+      "title": "05.09.2024",
       "score": 5
+    },
+    {
+      "title": "Kill an Enemy in the Ash Heap Region (5)",
+      "score": 250
+    },
+    {
+      "title": "26.05.2025",
+      "score": 36
     },
     {
       "title": "22.05.2023",
       "score": 6
-    },
-    {
-      "title": "11.11.2025",
-      "score": 11
     }
   ],
   "weekly": [
@@ -93,7 +93,7 @@
     },
     {
       "title": "Tu, 10th Mar 2026 (12:00) - Tu, 24th Mar 2026 (12:00)",
-      "score": 16
+      "score": 17
     },
     {
       "title": "Th, 12th Mar 2026 (12:00) - Mo, 16th Mar 2026 (12:00)",
