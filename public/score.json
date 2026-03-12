@@ -1,10 +1,47 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-11T19:09:00.343Z",
+  "fetchedAt": "2026-03-12T03:10:33.501Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": null,
-  "weeklyTimeLeft": "5 days 21 hours left",
-  "daily": [],
+  "dailyTimeLeft": "13 hours 49 minutes left",
+  "weeklyTimeLeft": "5 days 13 hours left",
+  "daily": [
+    {
+      "title": "1ˢᵗ Drink Purified Water (2)",
+      "score": 250
+    },
+    {
+      "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
+    {
+      "title": "Drink Nuka-Cola (3)",
+      "score": 250
+    },
+    {
+      "title": "03.01.2024",
+      "score": 6
+    },
+    {
+      "title": "14.12.2025",
+      "score": 8
+    },
+    {
+      "title": "Scrap Pre-War Money (5)",
+      "score": 250
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
+    },
+    {
+      "title": "11.11.2025",
+      "score": 11
+    }
+  ],
   "weekly": [
     {
       "title": "⭐ Complete a Gold Star Daily Challenge! (3)",
