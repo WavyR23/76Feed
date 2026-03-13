@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-13T13:33:16.522Z",
+  "fetchedAt": "2026-03-13T18:59:48.950Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Glassed Cavern",
-    "enemy": "Robots"
+    "location": null,
+    "enemy": null
   }
 }
