@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-14T18:56:28.068Z",
+  "fetchedAt": "2026-03-15T03:29:33.393Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "22 hours 3 minutes left",
-  "weeklyTimeLeft": "2 days 22 hours left",
+  "dailyTimeLeft": "13 hours 30 minutes left",
+  "weeklyTimeLeft": "2 days 13 hours left",
   "daily": [
     {
       "title": "1ˢᵗ Drink Nuka-Cola (3)",
@@ -97,7 +97,7 @@
     },
     {
       "title": "Tu, 17th Mar 2026 (10:00) - Tu, 17th Mar 2026 (13:00)",
-      "score": 1
+      "score": 2
     }
   ]
 }
