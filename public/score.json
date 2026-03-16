@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-16T13:52:21.841Z",
+  "fetchedAt": "2026-03-16T19:18:57.722Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "3 hours 7 minutes left",
-  "weeklyTimeLeft": "1 day 3 hours left",
+  "dailyTimeLeft": "21 hours 41 minutes left",
+  "weeklyTimeLeft": "21 hours 41 minutes left",
   "daily": [
     {
-      "title": "1ˢᵗ Kill a Super Mutant (5)",
+      "title": "1ˢᵗ Craft Ballistic Ammo (25)",
       "score": 250
     },
     {
@@ -14,24 +14,28 @@
       "score": 1000
     },
     {
-      "title": "Collect Pre-war Food (5)",
+      "title": "Complete the Event: \"Invaders From Beyond\"",
       "score": 250
     },
     {
-      "title": "30.11.2025",
-      "score": 7
-    },
-    {
-      "title": "Eat Pre-war Food (5)",
+      "title": "Ferment an Alcoholic Beverage (3)",
       "score": 250
     },
     {
-      "title": "Kill a Creature while in a Team (10)",
+      "title": "11.11.2025",
+      "score": 11
+    },
+    {
+      "title": "Kill an Enemy in the Mire Region (5)",
       "score": 250
     },
     {
-      "title": "03.01.2024",
-      "score": 6
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "21.03.2024",
+      "score": 13
     },
     {
       "title": "19.01.2026",
@@ -92,12 +96,12 @@
       "score": 18
     },
     {
-      "title": "Th, 12th Mar 2026 (12:00) - Mo, 16th Mar 2026 (12:00)",
-      "score": 13
-    },
-    {
       "title": "Tu, 17th Mar 2026 (10:00) - Tu, 17th Mar 2026 (13:00)",
       "score": 3
+    },
+    {
+      "title": "Th, 19th Mar 2026 (12:00) - Mo, 23rd Mar 2026 (12:00)",
+      "score": 9
     }
   ]
 }
