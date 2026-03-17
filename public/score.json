@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-17T07:17:35.568Z",
+  "fetchedAt": "2026-03-17T13:49:56.050Z",
   "source": "https://nukaknights.com/en/",
-  "dailyTimeLeft": "9 hours 42 minutes left",
-  "weeklyTimeLeft": "9 hours 42 minutes left",
+  "dailyTimeLeft": null,
+  "weeklyTimeLeft": null,
   "daily": [
     {
       "title": "1ˢᵗ Craft Ballistic Ammo (25)",
@@ -65,7 +65,7 @@
     },
     {
       "title": "26.04.2022",
-      "score": 9
+      "score": 10
     },
     {
       "title": "Complete an Event (3)",
@@ -96,7 +96,7 @@
       "score": 18
     },
     {
-      "title": "Tu, 17th Mar 2026 (10:00) - Tu, 17th Mar 2026 (13:00)",
+      "title": "Tu, 17th Mar 2026 (10:00)",
       "score": 3
     },
     {
