@@ -1,45 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-17T13:49:56.050Z",
+  "fetchedAt": "2026-03-17T19:19:19.770Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": null,
+  "weeklyTimeLeft": "Plan: Gauss minigun Gold Plan: Gauss pistol aligned short barrel Gold Plan: Gauss Pistol Drum Magazine Gold Plan: Gauss pistol refined receiver Gold Plan: Protective lining Secret Service underarmor Gold Plan: Shielded lining Secret Service underarmor Gold Plan: Thorn armor chest piece Gold Plan: Thorn armor left arm Gold Plan: Thorn armor left leg Gold Plan: Thorn armor right arm Gold Plan: Thorn armor right leg Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Craft Ballistic Ammo (25)",
-      "score": 250
+      "title": "27.04.2022",
+      "score": 12
     },
     {
       "title": "⭐ Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Complete the Event: \"Invaders From Beyond\"",
+      "title": "1ˢᵗ Build a Turret or Trap in a Workshop or C.A.M.P. (3)",
       "score": 250
     },
     {
-      "title": "Ferment an Alcoholic Beverage (3)",
+      "title": "Consume an Alcoholic Beverage (5)",
       "score": 250
     },
     {
-      "title": "11.11.2025",
-      "score": 11
-    },
-    {
-      "title": "Kill an Enemy in the Mire Region (5)",
+      "title": "Craft any Chems (2)",
       "score": 250
     },
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "Craft or Scrap a Melee Weapon (5)",
+      "score": 250
     },
     {
-      "title": "21.03.2024",
-      "score": 13
+      "title": "Kill a Canine (5)",
+      "score": 250
     },
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "03.01.2024",
+      "score": 6
     }
   ],
   "weekly": [
@@ -56,36 +52,36 @@
       "score": 300
     },
     {
-      "title": "Collect Pre-war Food (20)",
+      "title": "Build a Decoration in a Shelter (25)",
       "score": 1000
     },
     {
-      "title": "Collect Stimpaks or Chems (20)",
+      "title": "25.01.2024",
+      "score": 3
+    },
+    {
+      "title": "27.04.2022",
+      "score": 12
+    },
+    {
+      "title": "Craft any Plushie at a Tinkerer's Bench (3)",
       "score": 1000
     },
     {
-      "title": "26.04.2022",
-      "score": 10
-    },
-    {
-      "title": "Complete an Event (3)",
+      "title": "Drink Tea (5)",
       "score": 1000
     },
     {
-      "title": "Consume any Chems (9)",
-      "score": 1000
+      "title": "05.09.2024",
+      "score": 5
     },
     {
-      "title": "Eat Pre-war Food (25)",
-      "score": 1000
+      "title": "14.12.2025",
+      "score": 8
     },
     {
-      "title": "Kill a Creature (25)",
-      "score": 1000
-    },
-    {
-      "title": "21.01.2026",
-      "score": 4
+      "title": "19.01.2026",
+      "score": 5
     },
     {
       "title": "19.01.2026",
@@ -96,12 +92,12 @@
       "score": 18
     },
     {
-      "title": "Tu, 17th Mar 2026 (10:00)",
-      "score": 3
-    },
-    {
       "title": "Th, 19th Mar 2026 (12:00) - Mo, 23rd Mar 2026 (12:00)",
       "score": 10
+    },
+    {
+      "title": "Mo, 23rd Mar 2026 (12:00) - We, 25th Mar 2026 (12:00)",
+      "score": 1
     }
   ]
 }
