@@ -1,45 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-20T13:33:32.523Z",
+  "fetchedAt": "2026-03-20T19:05:29.727Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Gauss minigun Gold Plan: Gauss pistol aligned short barrel Gold Plan: Gauss Pistol Drum Magazine Gold Plan: Gauss pistol refined receiver Gold Plan: Protective lining Secret Service underarmor Gold Plan: Shielded lining Secret Service underarmor Gold Plan: Thorn armor chest piece Gold Plan: Thorn armor left arm Gold Plan: Thorn armor left leg Gold Plan: Thorn armor right arm Gold Plan: Thorn armor right leg Gold",
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "1ˢᵗ Build a Decoration in a Shelter in Free Cam (5)",
+      "score": 500
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 2000
     },
     {
-      "title": "Consume a \"Vintage\" Alcoholic Beverage",
+      "title": "Collect RadAway or Rad-X (5)",
       "score": 500
-    },
-    {
-      "title": "Consume any Chems (2)",
-      "score": 500
-    },
-    {
-      "title": "Eat a Cake, Pie, or Candy (10)",
-      "score": 500
-    },
-    {
-      "title": "03.01.2024",
-      "score": 6
-    },
-    {
-      "title": "Kill a Mole Miner (10)",
-      "score": 500
-    },
-    {
-      "title": "21.06.2025",
-      "score": 7
     },
     {
       "title": "19.01.2026",
       "score": 5
+    },
+    {
+      "title": "Cripple a Mole Miner's Head (2)",
+      "score": 500
+    },
+    {
+      "title": "Kill an Enemy in the Ash Heap Region (5)",
+      "score": 500
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
+    },
+    {
+      "title": "02.05.2022",
+      "score": 27
     }
   ],
   "weekly": [
