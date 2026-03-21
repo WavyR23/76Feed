@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-21T13:11:14.403Z",
+  "fetchedAt": "2026-03-21T18:53:28.162Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Gauss minigun Gold Plan: Gauss pistol aligned short barrel Gold Plan: Gauss Pistol Drum Magazine Gold Plan: Gauss pistol refined receiver Gold Plan: Protective lining Secret Service underarmor Gold Plan: Shielded lining Secret Service underarmor Gold Plan: Thorn armor chest piece Gold Plan: Thorn armor left arm Gold Plan: Thorn armor left leg Gold Plan: Thorn armor right arm Gold Plan: Thorn armor right leg Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Build a Decoration in a Shelter in Free Cam (5)",
+      "title": "1ˢᵗ Chew some Bubblegum",
       "score": 500
     },
     {
@@ -14,32 +14,28 @@
       "score": 2000
     },
     {
-      "title": "Collect RadAway or Rad-X (5)",
+      "title": "Collect Stimpaks or Chems (5)",
       "score": 500
     },
     {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "Cripple a Mole Miner's Head (2)",
+      "title": "Complete a Daily Quest",
       "score": 500
     },
     {
-      "title": "Kill an Enemy in the Ash Heap Region (5)",
+      "title": "Craft Ammo at a Workbench (50)",
       "score": 500
     },
     {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "22.05.2023",
+      "title": "03.01.2024",
       "score": 6
     },
     {
-      "title": "02.05.2022",
-      "score": 27
+      "title": "Kill a Glowing Creature",
+      "score": 500
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
     }
   ],
   "weekly": [
