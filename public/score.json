@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-23T13:47:11.265Z",
+  "fetchedAt": "2026-03-23T19:11:29.899Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Gauss minigun Gold Plan: Gauss pistol aligned short barrel Gold Plan: Gauss Pistol Drum Magazine Gold Plan: Gauss pistol refined receiver Gold Plan: Protective lining Secret Service underarmor Gold Plan: Shielded lining Secret Service underarmor Gold Plan: Thorn armor chest piece Gold Plan: Thorn armor left arm Gold Plan: Thorn armor left leg Gold Plan: Thorn armor right arm Gold Plan: Thorn armor right leg Gold",
@@ -11,31 +11,31 @@
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 2000
+      "score": 1000
     },
     {
-      "title": "Buy an item from or Sell an item to another Player",
-      "score": 500
+      "title": "Collect Brain Fungus (5)",
+      "score": 250
     },
     {
-      "title": "02.05.2022",
-      "score": 27
+      "title": "31.05.2024",
+      "score": 5
     },
     {
-      "title": "Cripple a Super Mutant's Leg (2)",
-      "score": 500
+      "title": "03.01.2024",
+      "score": 6
     },
     {
-      "title": "Kill a Human Enemy (10)",
-      "score": 500
-    },
-    {
-      "title": "Scrap Headwear",
-      "score": 500
+      "title": "Kill an Enemy in the Savage Divide Region (5)",
+      "score": 250
     },
     {
       "title": "19.01.2026",
       "score": 5
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
     }
   ],
   "weekly": [
@@ -90,10 +90,6 @@
     {
       "title": "Tu, 10th Mar 2026 (12:00) - Tu, 24th Mar 2026 (12:00)",
       "score": 18
-    },
-    {
-      "title": "Th, 19th Mar 2026 (12:00) - Mo, 23rd Mar 2026 (12:00)",
-      "score": 14
     },
     {
       "title": "Mo, 23rd Mar 2026 (12:00) - We, 25th Mar 2026 (12:00)",
