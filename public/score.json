@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-24T13:49:10.825Z",
+  "fetchedAt": "2026-03-24T19:20:00.230Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Gauss minigun Gold Plan: Gauss pistol aligned short barrel Gold Plan: Gauss Pistol Drum Magazine Gold Plan: Gauss pistol refined receiver Gold Plan: Protective lining Secret Service underarmor Gold Plan: Shielded lining Secret Service underarmor Gold Plan: Thorn armor chest piece Gold Plan: Thorn armor left arm Gold Plan: Thorn armor left leg Gold Plan: Thorn armor right arm Gold Plan: Thorn armor right leg Gold",
@@ -14,28 +14,28 @@
       "score": 1000
     },
     {
-      "title": "Collect Brain Fungus (5)",
+      "title": "Cook a Meal with Plants or Fungi (5)",
       "score": 250
     },
     {
-      "title": "31.05.2024",
-      "score": 5
+      "title": "Destroy a Robot (10)",
+      "score": 250
     },
     {
-      "title": "03.01.2024",
-      "score": 6
+      "title": "21.04.2022",
+      "score": 23
     },
     {
-      "title": "Kill an Enemy in the Savage Divide Region (5)",
+      "title": "Harvest a Wild Plant or Fungi (12)",
+      "score": 250
+    },
+    {
+      "title": "Kill a Creature while Wearing a Costume (10)",
       "score": 250
     },
     {
       "title": "19.01.2026",
       "score": 5
-    },
-    {
-      "title": "22.05.2023",
-      "score": 6
     }
   ],
   "weekly": [
@@ -52,32 +52,32 @@
       "score": 300
     },
     {
-      "title": "Build a Decoration in a Shelter (25)",
+      "title": "Collect Caps (2500)",
       "score": 1000
     },
     {
-      "title": "25.01.2024",
-      "score": 3
-    },
-    {
-      "title": "27.04.2022",
-      "score": 12
-    },
-    {
-      "title": "Craft any Plushie at a Tinkerer's Bench (3)",
+      "title": "Complete an Event while in a Team (5)",
       "score": 1000
     },
     {
-      "title": "Drink Tea (5)",
+      "title": "Craft any Flair at a Tinkerer's Bench (3)",
       "score": 1000
     },
     {
-      "title": "05.09.2024",
-      "score": 5
+      "title": "Cripple a Super Mutant's Limb (30)",
+      "score": 1000
     },
     {
-      "title": "14.12.2025",
-      "score": 8
+      "title": "Drink Nuka-Cola (25)",
+      "score": 1000
+    },
+    {
+      "title": "Kill a Mutant Hound (9)",
+      "score": 1000
+    },
+    {
+      "title": "Scrap a Pipe Gun (20)",
+      "score": 1000
     },
     {
       "title": "19.01.2026",
@@ -86,10 +86,6 @@
     {
       "title": "19.01.2026",
       "score": 5
-    },
-    {
-      "title": "Tu, 10th Mar 2026 (12:00) - Tu, 24th Mar 2026 (12:00)",
-      "score": 18
     },
     {
       "title": "Mo, 23rd Mar 2026 (12:00) - We, 25th Mar 2026 (12:00)",
