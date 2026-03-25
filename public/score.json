@@ -1,36 +1,36 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-25T13:48:12.812Z",
+  "fetchedAt": "2026-03-25T19:10:33.998Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": "Plan: Gauss minigun Gold Plan: Gauss pistol aligned short barrel Gold Plan: Gauss Pistol Drum Magazine Gold Plan: Gauss pistol refined receiver Gold Plan: Protective lining Secret Service underarmor Gold Plan: Shielded lining Secret Service underarmor Gold Plan: Thorn armor chest piece Gold Plan: Thorn armor left arm Gold Plan: Thorn armor left leg Gold Plan: Thorn armor right arm Gold Plan: Thorn armor right leg Gold",
+  "weeklyTimeLeft": "Plan: Ammo Converter Gold Plan: Floater flamer grenade Gold Plan: Gauss shotgun Gold Plan: Gauss shotgun extended barrel Gold Plan: Gauss shotgun extended magazine Gold Plan: Gauss shotgun hardened receiver Gold Plan: Brotherhood recon chest piece Gold Plan: Brotherhood recon helmet Gold Plan: Brotherhood recon left arm Gold Plan: Brotherhood recon left leg Gold Plan: Brotherhood recon right arm Gold Plan: Brotherhood recon right leg Gold Plan: Kids truck bed Gold Plan: Umbrella hat Gold",
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "1ˢᵗ Collect Ballistic Ammo (20)",
+      "score": 250
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Cook a Meal with Plants or Fungi (5)",
+      "title": "Complete an Event while in a Team",
       "score": 250
     },
     {
-      "title": "Destroy a Robot (10)",
+      "title": "Kill a Mirelurk (5)",
       "score": 250
     },
     {
-      "title": "21.04.2022",
-      "score": 23
-    },
-    {
-      "title": "Harvest a Wild Plant or Fungi (12)",
+      "title": "Kill a Mutant Hound (3)",
       "score": 250
     },
     {
-      "title": "Kill a Creature while Wearing a Costume (10)",
+      "title": "Mod a piece of Armor (5)",
+      "score": 250
+    },
+    {
+      "title": "Repair Armor, Weapons, or Power Armor (5)",
       "score": 250
     },
     {
@@ -88,8 +88,16 @@
       "score": 5
     },
     {
-      "title": "Mo, 23rd Mar 2026 (12:00) - We, 25th Mar 2026 (12:00)",
-      "score": 2
+      "title": "Mo, 30th Mar 2026 (12:00) - We, 1st Apr 2026 (12:00)",
+      "score": 1
+    },
+    {
+      "title": "Mo, 6th Apr 2026 (12:00) - We, 8th Apr 2026 (12:00)",
+      "score": 1
+    },
+    {
+      "title": "Tu, 7th Apr 2026 (12:00) - Tu, 14th Apr 2026 (12:00)",
+      "score": 5
     }
   ]
 }
