@@ -1,41 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-26T13:56:47.072Z",
+  "fetchedAt": "2026-03-26T19:22:07.208Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Ammo Converter Gold Plan: Floater flamer grenade Gold Plan: Gauss shotgun Gold Plan: Gauss shotgun extended barrel Gold Plan: Gauss shotgun extended magazine Gold Plan: Gauss shotgun hardened receiver Gold Plan: Brotherhood recon chest piece Gold Plan: Brotherhood recon helmet Gold Plan: Brotherhood recon left arm Gold Plan: Brotherhood recon left leg Gold Plan: Brotherhood recon right arm Gold Plan: Brotherhood recon right leg Gold Plan: Kids truck bed Gold Plan: Umbrella hat Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Collect Ballistic Ammo (20)",
-      "score": 250
+      "title": "26.04.2022",
+      "score": 12
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Complete an Event while in a Team",
+      "title": "Build a Decoration in a Shelter (5)",
       "score": 250
     },
     {
-      "title": "Kill a Mirelurk (5)",
+      "title": "27.04.2022",
+      "score": 12
+    },
+    {
+      "title": "Cripple a Human's Head (2)",
       "score": 250
     },
     {
-      "title": "Kill a Mutant Hound (3)",
+      "title": "03.02.2024",
+      "score": 7
+    },
+    {
+      "title": "30.12.2025",
+      "score": 3
+    },
+    {
+      "title": "Plant a Crop in a Workshop or C.A.M.P. (5)",
       "score": 250
     },
     {
-      "title": "Mod a piece of Armor (5)",
+      "title": "Visit your Shelter",
       "score": 250
-    },
-    {
-      "title": "Repair Armor, Weapons, or Power Armor (5)",
-      "score": 250
-    },
-    {
-      "title": "19.01.2026",
-      "score": 5
     }
   ],
   "weekly": [
