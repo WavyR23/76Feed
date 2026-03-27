@@ -1,44 +1,40 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-27T13:41:12.195Z",
+  "fetchedAt": "2026-03-27T19:10:20.478Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Ammo Converter Gold Plan: Floater flamer grenade Gold Plan: Gauss shotgun Gold Plan: Gauss shotgun extended barrel Gold Plan: Gauss shotgun extended magazine Gold Plan: Gauss shotgun hardened receiver Gold Plan: Brotherhood recon chest piece Gold Plan: Brotherhood recon helmet Gold Plan: Brotherhood recon left arm Gold Plan: Brotherhood recon left leg Gold Plan: Brotherhood recon right arm Gold Plan: Brotherhood recon right leg Gold Plan: Kids truck bed Gold Plan: Umbrella hat Gold",
   "daily": [
     {
-      "title": "26.04.2022",
-      "score": 12
+      "title": "1ˢᵗ Build a Floor, Wall, or Roof in a Workshop or C.A.M.P. (5)",
+      "score": 250
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Build a Decoration in a Shelter (5)",
+      "title": "Build Anything in a Shelter (10)",
       "score": 250
     },
     {
-      "title": "27.04.2022",
-      "score": 12
-    },
-    {
-      "title": "Cripple a Human's Head (2)",
+      "title": "Collect Caps (250)",
       "score": 250
     },
     {
-      "title": "03.02.2024",
-      "score": 7
-    },
-    {
-      "title": "30.12.2025",
-      "score": 3
-    },
-    {
-      "title": "Plant a Crop in a Workshop or C.A.M.P. (5)",
+      "title": "Complete a Daily Quest",
       "score": 250
     },
     {
-      "title": "Visit your Shelter",
+      "title": "Cripple a Protectron or a Robobrain's Arm (2)",
+      "score": 250
+    },
+    {
+      "title": "30.11.2025",
+      "score": 9
+    },
+    {
+      "title": "Sell a Black Powder Pistol to an NPC vendor",
       "score": 250
     }
   ],
