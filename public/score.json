@@ -1,41 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-29T13:18:57.126Z",
+  "fetchedAt": "2026-03-29T19:01:12.358Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Ammo Converter Gold Plan: Floater flamer grenade Gold Plan: Gauss shotgun Gold Plan: Gauss shotgun extended barrel Gold Plan: Gauss shotgun extended magazine Gold Plan: Gauss shotgun hardened receiver Gold Plan: Brotherhood recon chest piece Gold Plan: Brotherhood recon helmet Gold Plan: Brotherhood recon left arm Gold Plan: Brotherhood recon left leg Gold Plan: Brotherhood recon right arm Gold Plan: Brotherhood recon right leg Gold Plan: Kids truck bed Gold Plan: Umbrella hat Gold",
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "18.12.2024",
+      "score": 11
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Explore new Burning Spring C.A.M.P objects (5)",
+      "title": "Build a Decoration in a Workshop or C.A.M.P. (5)",
       "score": 250
     },
     {
-      "title": "Build a Generator in a Shelter",
+      "title": "Craft any Flair at a Tinkerer's Bench",
       "score": 250
     },
     {
-      "title": "Complete an Event",
+      "title": "21.04.2022",
+      "score": 23
+    },
+    {
+      "title": "22.07.2024",
+      "score": 3
+    },
+    {
+      "title": "Kill an Enemy in the Cranberry Bog Region (5)",
       "score": 250
     },
     {
-      "title": "03.02.2024",
-      "score": 7
+      "title": "31.05.2024",
+      "score": 5
     },
     {
-      "title": "Kill an Enemy with any Shotgun (8)",
-      "score": 250
-    },
-    {
-      "title": "Sell a Shotgun to an NPC vendor",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 5
     }
   ],
   "weekly": [
@@ -97,7 +101,7 @@
     },
     {
       "title": "Tu, 7th Apr 2026 (12:00) - Tu, 14th Apr 2026 (12:00)",
-      "score": 10
+      "score": 9
     }
   ]
 }
