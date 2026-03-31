@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-03-31T14:00:41.258Z",
+  "fetchedAt": "2026-03-31T19:18:10.200Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Ammo Converter Gold Plan: Floater flamer grenade Gold Plan: Gauss shotgun Gold Plan: Gauss shotgun extended barrel Gold Plan: Gauss shotgun extended magazine Gold Plan: Gauss shotgun hardened receiver Gold Plan: Brotherhood recon chest piece Gold Plan: Brotherhood recon helmet Gold Plan: Brotherhood recon left arm Gold Plan: Brotherhood recon left leg Gold Plan: Brotherhood recon right arm Gold Plan: Brotherhood recon right leg Gold Plan: Kids truck bed Gold Plan: Umbrella hat Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Eat Dog Food (5)",
+      "title": "1ˢᵗ Drink Purified Water (2)",
       "score": 250
     },
     {
@@ -22,24 +22,24 @@
       "score": 36
     },
     {
-      "title": "27.04.2022",
-      "score": 12
+      "title": "30.11.2025",
+      "score": 7
     },
     {
-      "title": "Kill a Cultist (10)",
-      "score": 250
+      "title": "26.05.2025",
+      "score": 36
     },
     {
-      "title": "Kill a Scorched (10)",
-      "score": 250
+      "title": "30.01.2026",
+      "score": 15
     },
     {
-      "title": "Scrap Headwear",
-      "score": 250
+      "title": "14.12.2025",
+      "score": 8
     },
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "14.12.2025",
+      "score": 8
     }
   ],
   "weekly": [
@@ -56,40 +56,44 @@
       "score": 300
     },
     {
-      "title": "Collect Caps (2500)",
+      "title": "Collect Purified Water (25)",
       "score": 1000
     },
     {
-      "title": "Complete an Event while in a Team (5)",
+      "title": "27.12.2024",
+      "score": 13
+    },
+    {
+      "title": "Craft Ballistic Ammo (65)",
       "score": 1000
     },
     {
-      "title": "Craft any Flair at a Tinkerer's Bench (3)",
+      "title": "26.05.2025",
+      "score": 36
+    },
+    {
+      "title": "Cripple a Scorched's Leg (18)",
       "score": 1000
     },
     {
-      "title": "Cripple a Super Mutant's Limb (30)",
+      "title": "Kill a Cultist (25)",
       "score": 1000
     },
     {
-      "title": "Drink Nuka-Cola (25)",
-      "score": 1000
+      "title": "31.05.2024",
+      "score": 5
     },
     {
-      "title": "Kill a Mutant Hound (9)",
-      "score": 1000
-    },
-    {
-      "title": "Scrap a Pipe Gun (20)",
-      "score": 1000
+      "title": "19.01.2026",
+      "score": 5
     },
     {
       "title": "19.01.2026",
       "score": 5
     },
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "Sell a Weapon to an NPC vendor (15)",
+      "score": 1000
     },
     {
       "title": "Mo, 30th Mar 2026 (12:00) - We, 1st Apr 2026 (12:00)",
