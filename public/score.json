@@ -1,45 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-04-03T13:37:35.292Z",
+  "fetchedAt": "2026-04-03T19:04:08.871Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Ammo Converter Gold Plan: Floater flamer grenade Gold Plan: Gauss shotgun Gold Plan: Gauss shotgun extended barrel Gold Plan: Gauss shotgun extended magazine Gold Plan: Gauss shotgun hardened receiver Gold Plan: Brotherhood recon chest piece Gold Plan: Brotherhood recon helmet Gold Plan: Brotherhood recon left arm Gold Plan: Brotherhood recon left leg Gold Plan: Brotherhood recon right arm Gold Plan: Brotherhood recon right leg Gold Plan: Kids truck bed Gold Plan: Umbrella hat Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Nuka-Cola (3)",
-      "score": 250
+      "title": "27.12.2024",
+      "score": 13
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Cook Yao Guai Ribs",
+      "title": "Collect any flavor of Nuka-Cola (5)",
       "score": 250
     },
     {
-      "title": "Craft or Scrap Armor (5)",
+      "title": "Craft or Scrap a piece of Power Armor",
       "score": 250
     },
     {
-      "title": "Cripple a Super Mutant's Head (2)",
+      "title": "Deal Fire Damage to Enemies (100)",
       "score": 250
     },
     {
-      "title": "Kill a Yao Guai",
+      "title": "Drink Nuka-Cola Cranberry (2)",
       "score": 250
     },
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "Kill a Wendigo",
+      "score": 250
     },
     {
-      "title": "22.05.2023",
-      "score": 6
-    },
-    {
-      "title": "11.11.2025",
-      "score": 11
+      "title": "Take a Camera Picture at Nuka-World On Tour",
+      "score": 250
     }
   ],
   "weekly": [
