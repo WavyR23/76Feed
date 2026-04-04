@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-04-04T13:19:13.135Z",
+  "fetchedAt": "2026-04-04T19:00:43.934Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Ammo Converter Gold Plan: Floater flamer grenade Gold Plan: Gauss shotgun Gold Plan: Gauss shotgun extended barrel Gold Plan: Gauss shotgun extended magazine Gold Plan: Gauss shotgun hardened receiver Gold Plan: Brotherhood recon chest piece Gold Plan: Brotherhood recon helmet Gold Plan: Brotherhood recon left arm Gold Plan: Brotherhood recon left leg Gold Plan: Brotherhood recon right arm Gold Plan: Brotherhood recon right leg Gold Plan: Kids truck bed Gold Plan: Umbrella hat Gold",
   "daily": [
     {
-      "title": "27.12.2024",
-      "score": 13
+      "title": "1ˢᵗ Build a Decoration in a Workshop or C.A.M.P. (5)",
+      "score": 250
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Collect any flavor of Nuka-Cola (5)",
+      "title": "Collect RadAway or Rad-X (5)",
       "score": 250
     },
     {
-      "title": "Craft or Scrap a piece of Power Armor",
+      "title": "27.04.2022",
+      "score": 12
+    },
+    {
+      "title": "Cripple a Mole Miner's Head (2)",
       "score": 250
     },
     {
-      "title": "Deal Fire Damage to Enemies (100)",
+      "title": "Kill an Enemy in the Ash Heap Region (5)",
       "score": 250
     },
     {
-      "title": "Drink Nuka-Cola Cranberry (2)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 5
     },
     {
-      "title": "04.04.2026",
-      "score": 3
-    },
-    {
-      "title": "22.05.2023",
-      "score": 6
+      "title": "19.01.2026",
+      "score": 5
     }
   ],
   "weekly": [
@@ -101,7 +101,7 @@
     },
     {
       "title": "Tu, 7th Apr 2026 (12:00) - Tu, 14th Apr 2026 (12:00)",
-      "score": 12
+      "score": 13
     }
   ]
 }
