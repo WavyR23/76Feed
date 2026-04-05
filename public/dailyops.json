@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-04-05T13:20:23.578Z",
+  "fetchedAt": "2026-04-05T19:02:27.948Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Watoga High School",
-    "enemy": "Blood Eagles"
+    "location": "Glassed Cavern",
+    "enemy": "Super Mutants"
   }
 }
