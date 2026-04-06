@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-04-06T13:44:39.426Z",
+  "fetchedAt": "2026-04-06T19:18:01.338Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Ammo Converter Gold Plan: Floater flamer grenade Gold Plan: Gauss shotgun Gold Plan: Gauss shotgun extended barrel Gold Plan: Gauss shotgun extended magazine Gold Plan: Gauss shotgun hardened receiver Gold Plan: Brotherhood recon chest piece Gold Plan: Brotherhood recon helmet Gold Plan: Brotherhood recon left arm Gold Plan: Brotherhood recon left leg Gold Plan: Brotherhood recon right arm Gold Plan: Brotherhood recon right leg Gold Plan: Kids truck bed Gold Plan: Umbrella hat Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Tea",
+      "title": "1ˢᵗ Chew some Bubblegum",
       "score": 250
     },
     {
@@ -14,27 +14,27 @@
       "score": 1000
     },
     {
-      "title": "Collect Ballistic Ammo (20)",
+      "title": "Collect Stimpaks or Chems (5)",
       "score": 250
     },
     {
-      "title": "Complete an Event while in a Team",
+      "title": "Complete a Daily Quest",
       "score": 250
     },
     {
-      "title": "Craft Bulk Steel",
+      "title": "Craft Ammo at a Workbench (50)",
       "score": 250
     },
     {
-      "title": "Deal a Critical Hit to an Enemy using Automatic Weapons in VATS (5)",
+      "title": "Kill an Enemy in the Skyline Valley Region (5)",
       "score": 250
     },
     {
-      "title": "Kill a Blood Eagle (10)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 5
     },
     {
-      "title": "Repair Armor, Weapons, or Power Armor (5)",
+      "title": "Kill a Glowing Creature",
       "score": 250
     }
   ],
@@ -101,7 +101,7 @@
     },
     {
       "title": "Tu, 7th Apr 2026 (12:00) - Tu, 14th Apr 2026 (12:00)",
-      "score": 13
+      "score": 15
     }
   ]
 }

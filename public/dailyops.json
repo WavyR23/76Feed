@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-04-06T13:44:39.426Z",
+  "fetchedAt": "2026-04-06T19:18:01.338Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Glassed Cavern",
-    "enemy": "Super Mutants"
+    "location": "West Tek",
+    "enemy": "Robots"
   }
 }
