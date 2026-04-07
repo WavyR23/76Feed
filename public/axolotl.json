@@ -1,22 +1,22 @@
 {
   "version": 1,
-  "fetchedAt": "2026-04-07T13:58:58.308Z",
+  "fetchedAt": "2026-04-07T19:21:05.271Z",
   "source": "https://nukaknights.com/en/",
   "axolotlOfTheMonth": {
-    "month": "March 2026",
-    "name": "Clay Axolotl",
-    "start": "Start: 3rd Mar 2026 12:00",
-    "end": "End: 7th Apr 2026 11:59",
+    "month": "April 2026",
+    "name": "Dotted Axolotl",
+    "start": "Start: 7th Apr 2026 12:00",
+    "end": "End: 5th May 2026 11:59",
     "timezone": "America/New_York",
     "description": [
-      "Only in March in Skyline Valley & Toxic Valley  Small Fish",
+      "Only in April in the Mire & Burning Springs  Small Fish",
       "Axolotl & Map",
-      "100%",
-      "Only in March in Skyline Valley & Toxic Valley",
-      "100%",
+      "0%",
+      "Only in April in the Mire & Burning Springs",
+      "0%",
       "Axolotl & Map",
-      "Wendigo: All spawn locations for wendigos incl map",
-      "04.04.2026"
+      "Atomic Shop Update 7th April 2026",
+      "07.04.2026"
     ]
   }
 }
