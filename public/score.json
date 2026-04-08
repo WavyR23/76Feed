@@ -1,32 +1,20 @@
 {
   "version": 1,
-  "fetchedAt": "2026-04-08T14:00:46.781Z",
+  "fetchedAt": "2026-04-08T19:38:43.124Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": "Plan: Ammo Converter Gold Plan: Floater flamer grenade Gold Plan: Gauss shotgun Gold Plan: Gauss shotgun extended barrel Gold Plan: Gauss shotgun extended magazine Gold Plan: Gauss shotgun hardened receiver Gold Plan: Brotherhood recon chest piece Gold Plan: Brotherhood recon helmet Gold Plan: Brotherhood recon left arm Gold Plan: Brotherhood recon left leg Gold Plan: Brotherhood recon right arm Gold Plan: Brotherhood recon right leg Gold Plan: Kids truck bed Gold Plan: Umbrella hat Gold",
+  "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Eat a Cake, Pie, or Candy (10)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 5
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Collect Pre-war Food (5)",
-      "score": 250
-    },
-    {
-      "title": "27.04.2022",
-      "score": 12
-    },
-    {
-      "title": "Cripple a Scorched's Arm (2)",
-      "score": 250
-    },
-    {
-      "title": "Eat Pre-war Food (5)",
+      "title": "Collect a Board Game",
       "score": 250
     },
     {
@@ -34,12 +22,20 @@
       "score": 14
     },
     {
-      "title": "27.04.2022",
-      "score": 12
+      "title": "Harvest a Wild Plant or Fungi (12)",
+      "score": 250
     },
     {
-      "title": "Scrap Pre-War Money (5)",
+      "title": "26.10.2023",
+      "score": 7
+    },
+    {
+      "title": "Kill an Enemy in the Cranberry Bog Region (5)",
       "score": 250
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
     }
   ],
   "weekly": [
@@ -98,10 +94,6 @@
     {
       "title": "Th, 2nd Apr 2026 (12:00) - Mo, 27th Apr 2026 (11:59)",
       "score": 2
-    },
-    {
-      "title": "Mo, 6th Apr 2026 (12:00) - We, 8th Apr 2026 (12:00)",
-      "score": 4
     },
     {
       "title": "Tu, 7th Apr 2026 (12:00) - Tu, 14th Apr 2026 (12:00)",
