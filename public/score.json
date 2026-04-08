@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-04-08T03:31:01.112Z",
+  "fetchedAt": "2026-04-08T07:51:32.433Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Ammo Converter Gold Plan: Floater flamer grenade Gold Plan: Gauss shotgun Gold Plan: Gauss shotgun extended barrel Gold Plan: Gauss shotgun extended magazine Gold Plan: Gauss shotgun hardened receiver Gold Plan: Brotherhood recon chest piece Gold Plan: Brotherhood recon helmet Gold Plan: Brotherhood recon left arm Gold Plan: Brotherhood recon left leg Gold Plan: Brotherhood recon right arm Gold Plan: Brotherhood recon right leg Gold Plan: Kids truck bed Gold Plan: Umbrella hat Gold",
@@ -106,6 +106,10 @@
     {
       "title": "Tu, 7th Apr 2026 (12:00) - Tu, 14th Apr 2026 (12:00)",
       "score": 16
+    },
+    {
+      "title": "Th, 9th Apr 2026 (12:00) - Mo, 13th Apr 2026 (12:00)",
+      "score": 2
     }
   ]
 }
