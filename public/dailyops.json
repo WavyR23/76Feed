@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-04-19T13:33:14.193Z",
+  "fetchedAt": "2026-04-19T19:07:37.930Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": null,
-    "enemy": null
+    "location": "Watoga Raider Arena",
+    "enemy": "Mole Miners"
   }
 }
