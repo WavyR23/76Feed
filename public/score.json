@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-04-20T14:09:06.716Z",
+  "fetchedAt": "2026-04-20T19:22:18.734Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": "Offers from List 5ShowPlan: Gauss minigun Gold Plan: Gauss pistol aligned short barrel Gold Plan: Gauss Pistol Drum Magazine Gold Plan: Gauss pistol refined receiver Gold Plan: Protective lining Secret Service underarmor Gold Plan: Shielded lining Secret Service underarmor Gold Plan: Thorn armor chest piece Gold Plan: Thorn armor left arm Gold Plan: Thorn armor left leg Gold Plan: Thorn armor right arm Gold Plan: Thorn armor right leg Gold Offers from List 6ShowPlan: Lighter build Secret Service armor limbs Gold Plan: Plasma caster Gold Plan: Secret Service underarmor Gold Plan: T-65 calibrated shocks Gold Plan: T-65 rusty knuckles Gold Plan: T-65 jet pack Gold Plan: The Gutter Gold Plan: Ultra-light build Secret Service armor limbs Gold Plan: War glaive flaming blade Gold Plan: War glaive shock blade Gold Plan: Water well Gold Plan: Whistle in the Dark Gold Offers from List 7ShowPlan: Ammo Converter Gold Plan: Floater flamer grenade Gold Plan: Gauss shotgun Gold Plan: Gauss shotgun extended barrel Gold Plan: Gauss shotgun extended magazine Gold Plan: Gauss shotgun hardened receiver Gold Plan: Brotherhood recon chest piece Gold Plan: Brotherhood recon helmet Gold Plan: Brotherhood recon left arm Gold Plan: Brotherhood recon left leg Gold Plan: Brotherhood recon right arm Gold Plan: Brotherhood recon right leg Gold Plan: Kids truck bed Gold Plan: Umbrella hat Gold",
+  "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Build a Turret or Trap in a Workshop or C.A.M.P. (3)",
+      "title": "1ˢᵗ Drink Purified Water (2)",
       "score": 250
     },
     {
@@ -14,28 +14,36 @@
       "score": 1000
     },
     {
-      "title": "30.11.2025",
+      "title": "Eat a Plant-based Meal (10)",
+      "score": 250
+    },
+    {
+      "title": "Harvest a Wild Plant or Fungi (12)",
+      "score": 250
+    },
+    {
+      "title": "03.02.2024",
       "score": 7
     },
     {
-      "title": "Consume an Alcoholic Beverage (5)",
+      "title": "30.12.2025",
+      "score": 3
+    },
+    {
+      "title": "03.04.2026",
+      "score": 4
+    },
+    {
+      "title": "Kill a Creature while in a Team (10)",
       "score": 250
     },
     {
-      "title": "Craft any Chems (2)",
+      "title": "Sell Glowing Fungus Soup to an NPC vendor",
       "score": 250
     },
     {
-      "title": "Craft or Scrap a Melee Weapon (5)",
-      "score": 250
-    },
-    {
-      "title": "Kill a Blood Eagle (10)",
-      "score": 250
-    },
-    {
-      "title": "Kill a Canine (5)",
-      "score": 250
+      "title": "21.04.2022",
+      "score": 23
     }
   ],
   "weekly": [
@@ -96,12 +104,12 @@
       "score": 4
     },
     {
-      "title": "Th, 16th Apr 2026 (12:00) - Mo, 20th Apr 2026 (12:00)",
-      "score": 6
-    },
-    {
       "title": "Tu, 21st Apr 2026 (10:00)",
       "score": 2
+    },
+    {
+      "title": "Tu, 21st Apr 2026 (12:00) - Tu, 5th May 2026 (12:00)",
+      "score": 28
     }
   ]
 }
