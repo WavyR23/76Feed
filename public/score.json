@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-04-21T14:06:28.404Z",
+  "fetchedAt": "2026-04-21T19:35:33.998Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": null,
+  "weeklyTimeLeft": "Plan: Asylum light Gold Plan: Crusader pistol Gold Plan: Dynamite bundle Gold Plan: Meat bag stash box Gold Plan: Plasma caster aligned sniper barrel Gold Plan: Plasma caster calibrated capacitor Gold Plan: Plasma caster pulse capacitor Gold Plan: T-65 helm Gold Plan: T-65 left arm Gold Plan: T-65 left leg Gold Plan: T-65 right arm Gold Plan: T-65 right leg Gold Plan: T-65 torso Gold Plan: Ghoul chair Gold Plan: Gorilla chair Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Purified Water (2)",
+      "title": "1ˢᵗ Drink Tea",
       "score": 250
     },
     {
@@ -14,11 +14,19 @@
       "score": 1000
     },
     {
-      "title": "Eat a Plant-based Meal (10)",
+      "title": "Build a Bed, Table, or Stairs in a Workshop or C.A.M.P. (3)",
       "score": 250
     },
     {
-      "title": "Harvest a Wild Plant or Fungi (12)",
+      "title": "27.04.2022",
+      "score": 12
+    },
+    {
+      "title": "Craft or Scrap a piece of Power Armor",
+      "score": 250
+    },
+    {
+      "title": "Cripple a Ghoul's Leg (2)",
       "score": 250
     },
     {
@@ -34,16 +42,8 @@
       "score": 4
     },
     {
-      "title": "Kill a Creature while in a Team (10)",
-      "score": 250
-    },
-    {
-      "title": "Sell Glowing Fungus Soup to an NPC vendor",
-      "score": 250
-    },
-    {
-      "title": "21.04.2022",
-      "score": 23
+      "title": "19.01.2026",
+      "score": 5
     }
   ],
   "weekly": [
@@ -60,27 +60,35 @@
       "score": 300
     },
     {
-      "title": "30.05.2025",
-      "score": 25
-    },
-    {
-      "title": "26.05.2025",
-      "score": 36
-    },
-    {
-      "title": "Destroy a Robot (30)",
+      "title": "Build a Decoration in a Workshop or C.A.M.P. (25)",
       "score": 1000
     },
     {
-      "title": "Eat a Vegetable (25)",
+      "title": "27.04.2022",
+      "score": 12
+    },
+    {
+      "title": "Craft Ballistic Ammo (65)",
       "score": 1000
     },
     {
-      "title": "26.10.2023",
-      "score": 8
+      "title": "Deal Fire Damage to Enemies (500)",
+      "score": 1000
     },
     {
-      "title": "Scrap Pre-War Money (50)",
+      "title": "Drink Nuka-Cherry (5)",
+      "score": 1000
+    },
+    {
+      "title": "Kill a Blood Eagle (30)",
+      "score": 1000
+    },
+    {
+      "title": "Kill a Super Mutant (30)",
+      "score": 1000
+    },
+    {
+      "title": "Mod an Energy Weapon (5)",
       "score": 1000
     },
     {
@@ -88,28 +96,16 @@
       "score": 5
     },
     {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "Sell Pumpkin Pie to an NPC vendor",
-      "score": 1000
-    },
-    {
-      "title": "04.04.2026",
-      "score": 5
+      "title": "05.04.2026",
+      "score": 4
     },
     {
       "title": "Th, 2nd Apr 2026 (12:00) - Mo, 27th Apr 2026 (11:59)",
       "score": 4
     },
     {
-      "title": "Tu, 21st Apr 2026 (10:00)",
-      "score": 5
-    },
-    {
       "title": "Tu, 21st Apr 2026 (12:00) - Tu, 5th May 2026 (12:00)",
-      "score": 28
+      "score": 30
     }
   ]
 }
