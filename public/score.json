@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-04-25T13:38:03.602Z",
+  "fetchedAt": "2026-04-25T19:09:43.393Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Asylum light Gold Plan: Crusader pistol Gold Plan: Dynamite bundle Gold Plan: Meat bag stash box Gold Plan: Plasma caster aligned sniper barrel Gold Plan: Plasma caster calibrated capacitor Gold Plan: Plasma caster pulse capacitor Gold Plan: T-65 helm Gold Plan: T-65 left arm Gold Plan: T-65 left leg Gold Plan: T-65 right arm Gold Plan: T-65 right leg Gold Plan: T-65 torso Gold Plan: Ghoul chair Gold Plan: Gorilla chair Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Craft Energy Ammo (15)",
-      "score": 250
+      "title": "18.12.2024",
+      "score": 11
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
+      "title": "Collect Pre-war Food (5)",
+      "score": 250
+    },
+    {
       "title": "27.04.2022",
       "score": 12
+    },
+    {
+      "title": "26.10.2023",
+      "score": 8
+    },
+    {
+      "title": "Eat Pre-war Food (5)",
+      "score": 250
     },
     {
       "title": "Kill a Human Enemy (10)",
       "score": 250
     },
     {
-      "title": "Kill a Super Mutant (5)",
-      "score": 250
-    },
-    {
-      "title": "Mod a piece of Armor (5)",
-      "score": 250
-    },
-    {
-      "title": "Mod an Ballistic Weapon",
-      "score": 250
-    },
-    {
-      "title": "Mod an Energy Weapon",
-      "score": 250
+      "title": "26.10.2023",
+      "score": 8
     }
   ],
   "weekly": [
