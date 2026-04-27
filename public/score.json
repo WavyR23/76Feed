@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-04-27T14:24:46.315Z",
+  "fetchedAt": "2026-04-27T19:46:53.479Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Asylum light Gold Plan: Crusader pistol Gold Plan: Dynamite bundle Gold Plan: Meat bag stash box Gold Plan: Plasma caster aligned sniper barrel Gold Plan: Plasma caster calibrated capacitor Gold Plan: Plasma caster pulse capacitor Gold Plan: T-65 helm Gold Plan: T-65 left arm Gold Plan: T-65 left leg Gold Plan: T-65 right arm Gold Plan: T-65 right leg Gold Plan: T-65 torso Gold Plan: Ghoul chair Gold Plan: Gorilla chair Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Use Photomode in your own C.A.M.P.",
+      "title": "1ˢᵗ Complete an Event while Wearing a Costume",
       "score": 250
     },
     {
@@ -14,28 +14,28 @@
       "score": 1000
     },
     {
-      "title": "Eat a Vegetable (10)",
+      "title": "Collect any flavor of Nuka-Cola (5)",
       "score": 250
     },
     {
-      "title": "21.04.2022",
-      "score": 23
-    },
-    {
-      "title": "Kill a Creature (12)",
+      "title": "Complete an Event while in a Team",
       "score": 250
     },
     {
-      "title": "29.01.2024",
-      "score": 5
-    },
-    {
-      "title": "Plant a Crop in a Workshop or C.A.M.P. in Free Cam (10)",
+      "title": "Drink Nuka-Cherry (2)",
       "score": 250
     },
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "14.12.2025",
+      "score": 8
+    },
+    {
+      "title": "Kill an Enemy in the Toxic Valley Region (5)",
+      "score": 250
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
     }
   ],
   "weekly": [
@@ -92,15 +92,15 @@
       "score": 4
     },
     {
-      "title": "Th, 2nd Apr 2026 (12:00) - Mo, 27th Apr 2026 (11:59)",
-      "score": 5
-    },
-    {
       "title": "Tu, 21st Apr 2026 (12:00) - Tu, 5th May 2026 (12:00)",
       "score": 31
     },
     {
       "title": "Mo, 27th Apr 2026 (12:00) - We, 29th Apr 2026 (12:00)",
+      "score": 3
+    },
+    {
+      "title": "Tu, 28th Apr 2026 (10:00)",
       "score": 2
     }
   ]
