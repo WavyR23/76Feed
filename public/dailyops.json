@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-04-29T14:29:04.762Z",
+  "fetchedAt": "2026-04-29T19:51:45.719Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": null,
-    "enemy": null
+    "location": "Vault 96",
+    "enemy": "Robots"
   }
 }

@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-04-29T14:29:04.762Z",
+  "fetchedAt": "2026-04-29T19:51:45.719Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": "Plan: Asylum light Gold Plan: Crusader pistol Gold Plan: Dynamite bundle Gold Plan: Meat bag stash box Gold Plan: Plasma caster aligned sniper barrel Gold Plan: Plasma caster calibrated capacitor Gold Plan: Plasma caster pulse capacitor Gold Plan: T-65 helm Gold Plan: T-65 left arm Gold Plan: T-65 left leg Gold Plan: T-65 right arm Gold Plan: T-65 right leg Gold Plan: T-65 torso Gold Plan: Ghoul chair Gold Plan: Gorilla chair Gold",
+  "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Craft or Scrap a Melee Weapon (5)",
+      "title": "1ˢᵗ Eat a Cake, Pie, or Candy (10)",
       "score": 250
     },
     {
@@ -14,44 +14,32 @@
       "score": 1000
     },
     {
-      "title": "Buy an item from or Sell an item to another Player",
-      "score": 250
+      "title": "30.05.2025",
+      "score": 25
     },
     {
-      "title": "14.12.2025",
-      "score": 8
+      "title": "26.05.2025",
+      "score": 36
     },
     {
-      "title": "26.10.2023",
-      "score": 8
+      "title": "26.05.2025",
+      "score": 36
     },
     {
-      "title": "22.07.2024",
-      "score": 3
-    },
-    {
-      "title": "14.12.2025",
-      "score": 8
-    },
-    {
-      "title": "26.10.2023",
-      "score": 8
-    },
-    {
-      "title": "22.07.2024",
-      "score": 3
-    },
-    {
-      "title": "14.12.2025",
-      "score": 8
+      "title": "26.05.2025",
+      "score": 36
     },
     {
       "title": "18.10.2021",
-      "score": 19
+      "score": 21
     },
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "30.12.2025",
+      "score": 3
+    },
+    {
+      "title": "26.05.2025",
+      "score": 36
     }
   ],
   "weekly": [
@@ -77,7 +65,7 @@
     },
     {
       "title": "18.10.2021",
-      "score": 19
+      "score": 21
     },
     {
       "title": "Cripple a Super Mutant's Arm (30)",
@@ -108,16 +96,12 @@
       "score": 31
     },
     {
-      "title": "Mo, 27th Apr 2026 (12:00) - We, 29th Apr 2026 (12:00)",
-      "score": 5
-    },
-    {
       "title": "Tu, 28th Apr 2026 (12:00) - Tu, 12th May 2026 (12:00)",
-      "score": 18
+      "score": 19
     },
     {
       "title": "Th, 30th Apr 2026 (12:00) - Mo, 4th May 2026 (12:00)",
-      "score": 4
+      "score": 5
     }
   ]
 }
