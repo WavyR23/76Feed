@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-01T08:24:09.422Z",
+  "fetchedAt": "2026-05-01T13:52:30.947Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
@@ -31,7 +31,7 @@
     },
     {
       "title": "18.10.2021",
-      "score": 21
+      "score": 22
     },
     {
       "title": "21.06.2025",
@@ -65,7 +65,7 @@
     },
     {
       "title": "18.10.2021",
-      "score": 21
+      "score": 22
     },
     {
       "title": "Cripple a Super Mutant's Arm (30)",
@@ -97,11 +97,15 @@
     },
     {
       "title": "Tu, 28th Apr 2026 (12:00) - Tu, 12th May 2026 (12:00)",
-      "score": 19
+      "score": 20
     },
     {
       "title": "Th, 30th Apr 2026 (12:00) - Mo, 4th May 2026 (12:00)",
-      "score": 5
+      "score": 6
+    },
+    {
+      "title": "Mo, 4th May 2026 (12:00) - We, 6th May 2026 (12:00)",
+      "score": 1
     }
   ]
 }
