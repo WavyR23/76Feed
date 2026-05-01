@@ -1,45 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-01T13:52:30.947Z",
+  "fetchedAt": "2026-05-01T19:36:17.324Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "1ˢᵗ Consume an Alcoholic Beverage (5)",
+      "score": 500
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 2000
     },
     {
-      "title": "Collect Stimpaks or Chems (5)",
+      "title": "Craft a Grenade, Mine, or Thrown Weapon (5)",
       "score": 500
-    },
-    {
-      "title": "Complete an Event",
-      "score": 500
-    },
-    {
-      "title": "Consume any Chems (2)",
-      "score": 500
-    },
-    {
-      "title": "03.01.2024",
-      "score": 6
     },
     {
       "title": "18.10.2021",
       "score": 22
     },
     {
-      "title": "21.06.2025",
-      "score": 7
+      "title": "26.05.2025",
+      "score": 36
     },
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "26.05.2025",
+      "score": 36
+    },
+    {
+      "title": "21.04.2022",
+      "score": 23
+    },
+    {
+      "title": "Kill a Canine (5)",
+      "score": 500
     }
   ],
   "weekly": [
