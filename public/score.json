@@ -1,40 +1,40 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-02T13:45:37.688Z",
+  "fetchedAt": "2026-05-02T19:15:45.917Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Consume an Alcoholic Beverage (5)",
-      "score": 500
+      "title": "19.01.2026",
+      "score": 5
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 2000
     },
     {
-      "title": "Craft a Grenade, Mine, or Thrown Weapon (5)",
+      "title": "Collect Deathclaw eggs",
+      "score": 500
+    },
+    {
+      "title": "Craft or Scrap a Ranged Weapon (5)",
+      "score": 500
+    },
+    {
+      "title": "Cripple enemy limbs (6)",
       "score": 500
     },
     {
       "title": "18.10.2021",
-      "score": 22
-    },
-    {
-      "title": "26.05.2025",
-      "score": 36
-    },
-    {
-      "title": "26.05.2025",
-      "score": 36
-    },
-    {
-      "title": "21.04.2022",
       "score": 23
     },
     {
-      "title": "Kill a Canine (5)",
+      "title": "Mod a Weapon (3)",
+      "score": 500
+    },
+    {
+      "title": "Mod a piece of Armor (5)",
       "score": 500
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "title": "18.10.2021",
-      "score": 22
+      "score": 23
     },
     {
       "title": "Cripple a Super Mutant's Arm (30)",

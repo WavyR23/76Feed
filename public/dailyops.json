@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-02T13:45:37.688Z",
+  "fetchedAt": "2026-05-02T19:15:45.917Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Uncanny Caverns",
-    "enemy": "Mole Miners"
+    "location": "Garrahan Mining Headquarter",
+    "enemy": "Blood Eagles"
   }
 }
