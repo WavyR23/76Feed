@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-03T13:47:04.573Z",
+  "fetchedAt": "2026-05-03T19:15:59.941Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Garrahan Mining Headquarter",
-    "enemy": "Blood Eagles"
+    "location": "Arktos Pharma Biome Labs",
+    "enemy": "Robots"
   }
 }

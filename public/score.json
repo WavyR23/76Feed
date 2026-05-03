@@ -1,28 +1,24 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-03T13:47:04.573Z",
+  "fetchedAt": "2026-05-03T19:15:59.941Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "1ˢᵗ Craft Bulk Steel",
+      "score": 500
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 2000
     },
     {
-      "title": "Collect Deathclaw eggs",
+      "title": "Complete a Daily Quest",
       "score": 500
     },
     {
-      "title": "Craft or Scrap a Ranged Weapon (5)",
-      "score": 500
-    },
-    {
-      "title": "Cripple enemy limbs (6)",
+      "title": "Cook a Meal with Plants or Fungi (5)",
       "score": 500
     },
     {
@@ -30,12 +26,24 @@
       "score": 23
     },
     {
-      "title": "Mod a Weapon (3)",
+      "title": "Ferment an Alcoholic Beverage (3)",
       "score": 500
     },
     {
-      "title": "Mod a piece of Armor (5)",
+      "title": "Harvest a Wild Plant or Fungi (12)",
       "score": 500
+    },
+    {
+      "title": "03.02.2024",
+      "score": 7
+    },
+    {
+      "title": "30.12.2025",
+      "score": 3
+    },
+    {
+      "title": "03.04.2026",
+      "score": 4
     }
   ],
   "weekly": [
