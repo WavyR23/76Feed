@@ -1,49 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-04T14:28:22.174Z",
+  "fetchedAt": "2026-05-04T19:53:48.618Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Craft Bulk Steel",
-      "score": 500
+      "title": "1ˢᵗ Craft or Scrap Armor (5)",
+      "score": 250
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 2000
+      "score": 1000
     },
     {
-      "title": "Complete a Daily Quest",
-      "score": 500
+      "title": "27.04.2022",
+      "score": 12
     },
     {
-      "title": "Cook a Meal with Plants or Fungi (5)",
-      "score": 500
+      "title": "05.09.2024",
+      "score": 5
     },
     {
       "title": "18.10.2021",
       "score": 23
     },
     {
-      "title": "Ferment an Alcoholic Beverage (3)",
-      "score": 500
+      "title": "Scrap a Pipe Gun (3)",
+      "score": 250
     },
     {
-      "title": "Harvest a Wild Plant or Fungi (12)",
-      "score": 500
+      "title": "19.01.2026",
+      "score": 5
     },
     {
-      "title": "03.02.2024",
-      "score": 7
-    },
-    {
-      "title": "30.12.2025",
+      "title": "25.01.2024",
       "score": 3
     },
     {
-      "title": "03.04.2026",
-      "score": 4
+      "title": "19.01.2026",
+      "score": 5
     }
   ],
   "weekly": [
@@ -104,12 +100,12 @@
       "score": 20
     },
     {
-      "title": "Th, 30th Apr 2026 (12:00) - Mo, 4th May 2026 (12:00)",
-      "score": 6
-    },
-    {
       "title": "Mo, 4th May 2026 (12:00) - We, 6th May 2026 (12:00)",
       "score": 1
+    },
+    {
+      "title": "Th, 7th May 2026 (12:00) - Mo, 11th May 2026 (12:00)",
+      "score": 3
     }
   ]
 }

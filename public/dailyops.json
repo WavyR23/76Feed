@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-04T14:28:22.174Z",
+  "fetchedAt": "2026-05-04T19:53:48.618Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Arktos Pharma Biome Labs",
-    "enemy": "Robots"
+    "location": null,
+    "enemy": null
   }
 }
