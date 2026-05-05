@@ -1,45 +1,49 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-05T14:21:34.437Z",
+  "fetchedAt": "2026-05-05T19:50:48.656Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Craft or Scrap Armor (5)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 5
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "27.04.2022",
-      "score": 12
-    },
-    {
-      "title": "05.09.2024",
-      "score": 5
-    },
-    {
-      "title": "18.10.2021",
-      "score": 23
-    },
-    {
-      "title": "Scrap a Pipe Gun (3)",
+      "title": "Collect Mothman Eggs (3)",
       "score": 250
     },
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "14.12.2025",
+      "score": 8
     },
     {
-      "title": "25.01.2024",
+      "title": "26.10.2023",
+      "score": 8
+    },
+    {
+      "title": "22.07.2024",
       "score": 3
     },
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "Eat a Cooked Meal (10)",
+      "score": 250
+    },
+    {
+      "title": "03.01.2024",
+      "score": 6
+    },
+    {
+      "title": "Kill a Cultist (10)",
+      "score": 250
+    },
+    {
+      "title": "Sell Mothman Egg Omelette to an NPC vendor",
+      "score": 250
     }
   ],
   "weekly": [
@@ -56,27 +60,35 @@
       "score": 300
     },
     {
-      "title": "Collect Pre-war Food (20)",
+      "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P. (25)",
       "score": 1000
     },
     {
-      "title": "Complete an Event (3)",
+      "title": "30.05.2025",
+      "score": 26
+    },
+    {
+      "title": "26.05.2025",
+      "score": 36
+    },
+    {
+      "title": "26.04.2022",
+      "score": 12
+    },
+    {
+      "title": "Complete an Event while Wearing a Costume (2)",
       "score": 1000
     },
     {
-      "title": "18.10.2021",
-      "score": 23
-    },
-    {
-      "title": "Cripple a Super Mutant's Arm (30)",
+      "title": "Consume an Alcoholic Beverage (20)",
       "score": 1000
     },
     {
-      "title": "Eat a Vegetable (25)",
+      "title": "Destroy a Robot (30)",
       "score": 1000
     },
     {
-      "title": "Harvest a Wild Plant or Fungi (30)",
+      "title": "Kill a Mole Miner (30)",
       "score": 1000
     },
     {
@@ -84,16 +96,8 @@
       "score": 5
     },
     {
-      "title": "Sell Pumpkin Pie to an NPC vendor",
-      "score": 1000
-    },
-    {
-      "title": "Sell a Weapon to an NPC vendor (15)",
-      "score": 1000
-    },
-    {
-      "title": "Tu, 21st Apr 2026 (12:00) - Tu, 5th May 2026 (12:00)",
-      "score": 31
+      "title": "19.01.2026",
+      "score": 5
     },
     {
       "title": "Tu, 28th Apr 2026 (12:00) - Tu, 12th May 2026 (12:00)",
