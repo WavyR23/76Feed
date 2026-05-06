@@ -1,49 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-06T14:43:45.142Z",
+  "fetchedAt": "2026-05-06T20:00:00.274Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": null,
+  "weeklyTimeLeft": "Plan: Solar armor left arm Gold Plan: Solar armor right arm Gold Plan: Solar armor left leg Gold Plan: Solar armor right leg Gold Plan: Solar armor chest piece Gold Plan: Plasma caster true long barrel Gold Plan: Plasma caster true capacitor Gold Plan: Floater freezer grenade Gold Plan: Super mutant tube Gold Plan: Science chalkboards Gold Plan: Plasma cutter cryo blade Gold Plan: Plasma cutter flaming blade Gold Plan: Plasma cutter shock blade Gold Plan: Floater Tubes Gold",
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "1ˢᵗ Drink Tea",
+      "score": 250
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Collect Mothman Eggs (3)",
+      "title": "Complete an Event",
       "score": 250
     },
     {
-      "title": "14.12.2025",
-      "score": 8
-    },
-    {
-      "title": "26.10.2023",
-      "score": 8
-    },
-    {
-      "title": "22.07.2024",
-      "score": 3
-    },
-    {
-      "title": "Eat a Cooked Meal (10)",
+      "title": "Consume any Chems (2)",
       "score": 250
     },
     {
-      "title": "03.01.2024",
-      "score": 6
-    },
-    {
-      "title": "Kill a Cultist (10)",
+      "title": "Deal a Critical Hit to an Enemy using Automatic Weapons in VATS (5)",
       "score": 250
     },
     {
-      "title": "Sell Mothman Egg Omelette to an NPC vendor",
+      "title": "Drink Nuka-Orange (2)",
       "score": 250
+    },
+    {
+      "title": "Kill a Glowing Creature",
+      "score": 250
+    },
+    {
+      "title": "21.03.2024",
+      "score": 5
     }
   ],
   "weekly": [
@@ -102,10 +94,6 @@
     {
       "title": "Tu, 28th Apr 2026 (12:00) - Tu, 12th May 2026 (12:00)",
       "score": 20
-    },
-    {
-      "title": "Mo, 4th May 2026 (12:00) - We, 6th May 2026 (12:00)",
-      "score": 1
     },
     {
       "title": "Th, 7th May 2026 (12:00) - Mo, 11th May 2026 (12:00)",
