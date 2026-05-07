@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-07T14:47:25.415Z",
+  "fetchedAt": "2026-05-07T19:52:16.541Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Solar armor left arm Gold Plan: Solar armor right arm Gold Plan: Solar armor left leg Gold Plan: Solar armor right leg Gold Plan: Solar armor chest piece Gold Plan: Plasma caster true long barrel Gold Plan: Plasma caster true capacitor Gold Plan: Floater freezer grenade Gold Plan: Super mutant tube Gold Plan: Science chalkboards Gold Plan: Plasma cutter cryo blade Gold Plan: Plasma cutter flaming blade Gold Plan: Plasma cutter shock blade Gold Plan: Floater Tubes Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Tea",
+      "title": "1ˢᵗ Drink Purified Water (2)",
       "score": 250
     },
     {
@@ -14,28 +14,32 @@
       "score": 1000
     },
     {
-      "title": "Complete an Event",
+      "title": "Build a Bed, Table, or Stairs in a Workshop or C.A.M.P. (3)",
       "score": 250
     },
     {
-      "title": "Consume any Chems (2)",
+      "title": "Craft Bulk Aluminum",
       "score": 250
     },
     {
-      "title": "Deal a Critical Hit to an Enemy using Automatic Weapons in VATS (5)",
+      "title": "21.01.2026",
+      "score": 4
+    },
+    {
+      "title": "03.01.2024",
+      "score": 6
+    },
+    {
+      "title": "Repair Armor, Weapons, or Power Armor (5)",
       "score": 250
     },
     {
-      "title": "Drink Nuka-Orange (2)",
-      "score": 250
+      "title": "03.01.2024",
+      "score": 6
     },
     {
-      "title": "Kill a Glowing Creature",
-      "score": 250
-    },
-    {
-      "title": "21.03.2024",
-      "score": 5
+      "title": "22.05.2023",
+      "score": 6
     }
   ],
   "weekly": [
