@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-08T14:14:55.705Z",
+  "fetchedAt": "2026-05-08T19:43:34.990Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Solar armor left arm Gold Plan: Solar armor right arm Gold Plan: Solar armor left leg Gold Plan: Solar armor right leg Gold Plan: Solar armor chest piece Gold Plan: Plasma caster true long barrel Gold Plan: Plasma caster true capacitor Gold Plan: Floater freezer grenade Gold Plan: Super mutant tube Gold Plan: Science chalkboards Gold Plan: Plasma cutter cryo blade Gold Plan: Plasma cutter flaming blade Gold Plan: Plasma cutter shock blade Gold Plan: Floater Tubes Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Purified Water (2)",
+      "title": "1ˢᵗ Chew some Bubblegum",
       "score": 250
     },
     {
@@ -14,32 +14,28 @@
       "score": 1000
     },
     {
-      "title": "Build a Bed, Table, or Stairs in a Workshop or C.A.M.P. (3)",
+      "title": "27.04.2022",
+      "score": 12
+    },
+    {
+      "title": "Craft Energy Ammo (15)",
       "score": 250
     },
     {
-      "title": "Craft Bulk Aluminum",
+      "title": "Craft or Scrap a Ranged Weapon (5)",
       "score": 250
     },
     {
-      "title": "21.01.2026",
-      "score": 4
-    },
-    {
-      "title": "03.01.2024",
-      "score": 6
-    },
-    {
-      "title": "Repair Armor, Weapons, or Power Armor (5)",
+      "title": "Deal a Critical Hit to an Enemy in VATS (5)",
       "score": 250
     },
     {
-      "title": "03.01.2024",
-      "score": 6
+      "title": "Kill an Enemy with any Energy Weapon (8)",
+      "score": 250
     },
     {
-      "title": "22.05.2023",
-      "score": 6
+      "title": "Mod an Energy Weapon",
+      "score": 250
     }
   ],
   "weekly": [
