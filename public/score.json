@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-10T13:53:19.868Z",
+  "fetchedAt": "2026-05-10T19:21:08.561Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Solar armor left arm Gold Plan: Solar armor right arm Gold Plan: Solar armor left leg Gold Plan: Solar armor right leg Gold Plan: Solar armor chest piece Gold Plan: Plasma caster true long barrel Gold Plan: Plasma caster true capacitor Gold Plan: Floater freezer grenade Gold Plan: Super mutant tube Gold Plan: Science chalkboards Gold Plan: Plasma cutter cryo blade Gold Plan: Plasma cutter flaming blade Gold Plan: Plasma cutter shock blade Gold Plan: Floater Tubes Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Craft Ballistic Ammo (25)",
+      "title": "Eat a Cobbler, which is not a Pie.",
       "score": 250
     },
     {
@@ -14,28 +14,32 @@
       "score": 1000
     },
     {
-      "title": "Collect any flavor of Nuka-Cola (5)",
+      "title": "Complete an Event while in a Team",
       "score": 250
     },
     {
-      "title": "Craft any Plushie at a Tinkerer's Bench",
+      "title": "Consume a \"Vintage\" Alcoholic Beverage",
       "score": 250
     },
     {
-      "title": "Drink Nuka-Cola (3)",
+      "title": "Drink Nuka-Cola Quantum (2)",
       "score": 250
     },
     {
-      "title": "11.11.2025",
-      "score": 12
-    },
-    {
-      "title": "30.11.2025",
-      "score": 10
-    },
-    {
-      "title": "22.05.2023",
+      "title": "03.01.2024",
       "score": 6
+    },
+    {
+      "title": "09.04.2026",
+      "score": 3
+    },
+    {
+      "title": "Kill an Enemy in the Savage Divide Region (5)",
+      "score": 250
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
     }
   ],
   "weekly": [
@@ -98,6 +102,10 @@
     {
       "title": "Th, 7th May 2026 (12:00) - Mo, 11th May 2026 (12:00)",
       "score": 6
+    },
+    {
+      "title": "Mo, 11th May 2026 (12:00) - We, 13th May 2026 (12:00)",
+      "score": 1
     }
   ]
 }
