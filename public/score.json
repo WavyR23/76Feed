@@ -1,45 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-11T15:33:59.171Z",
+  "fetchedAt": "2026-05-11T20:02:03.775Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Solar armor left arm Gold Plan: Solar armor right arm Gold Plan: Solar armor left leg Gold Plan: Solar armor right leg Gold Plan: Solar armor chest piece Gold Plan: Plasma caster true long barrel Gold Plan: Plasma caster true capacitor Gold Plan: Floater freezer grenade Gold Plan: Super mutant tube Gold Plan: Science chalkboards Gold Plan: Plasma cutter cryo blade Gold Plan: Plasma cutter flaming blade Gold Plan: Plasma cutter shock blade Gold Plan: Floater Tubes Gold",
   "daily": [
     {
-      "title": "Eat a Cobbler, which is not a Pie.",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 5
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Complete an Event while in a Team",
+      "title": "Collect Brain Fungus (5)",
       "score": 250
     },
     {
-      "title": "Consume a \"Vintage\" Alcoholic Beverage",
+      "title": "Cook Brain Fungus Soup",
       "score": 250
     },
     {
-      "title": "Drink Nuka-Cola Quantum (2)",
+      "title": "Eat a Plant-based Meal (10)",
       "score": 250
     },
     {
-      "title": "03.01.2024",
-      "score": 6
+      "title": "14.12.2025",
+      "score": 8
     },
     {
-      "title": "09.04.2026",
-      "score": 3
+      "title": "Kill a Mole Miner (10)",
+      "score": 250
     },
     {
-      "title": "11.11.2025",
-      "score": 12
-    },
-    {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "Sell a Black Powder Pistol to an NPC vendor",
+      "score": 250
     }
   ],
   "weekly": [
@@ -100,12 +96,12 @@
       "score": 20
     },
     {
-      "title": "Th, 7th May 2026 (12:00) - Mo, 11th May 2026 (12:00)",
-      "score": 6
-    },
-    {
       "title": "Mo, 11th May 2026 (12:00) - We, 13th May 2026 (12:00)",
       "score": 1
+    },
+    {
+      "title": "Th, 14th May 2026 (12:00) - Mo, 18th May 2026 (12:00)",
+      "score": 5
     }
   ]
 }
