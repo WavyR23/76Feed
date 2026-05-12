@@ -1,41 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-12T14:51:33.243Z",
+  "fetchedAt": "2026-05-12T20:05:46.030Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Solar armor left arm Gold Plan: Solar armor right arm Gold Plan: Solar armor left leg Gold Plan: Solar armor right leg Gold Plan: Solar armor chest piece Gold Plan: Plasma caster true long barrel Gold Plan: Plasma caster true capacitor Gold Plan: Floater freezer grenade Gold Plan: Super mutant tube Gold Plan: Science chalkboards Gold Plan: Plasma cutter cryo blade Gold Plan: Plasma cutter flaming blade Gold Plan: Plasma cutter shock blade Gold Plan: Floater Tubes Gold",
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "1ˢᵗ Eat a Cake, Pie, or Candy (10)",
+      "score": 250
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Collect Brain Fungus (5)",
+      "title": "Deal a Critical Hit to a Sentry Bot in VATS",
       "score": 250
     },
     {
-      "title": "Cook Brain Fungus Soup",
+      "title": "Harvest a Wild Plant or Fungi (12)",
       "score": 250
     },
     {
-      "title": "Eat a Plant-based Meal (10)",
-      "score": 250
+      "title": "11.11.2025",
+      "score": 12
     },
     {
-      "title": "14.12.2025",
-      "score": 8
+      "title": "19.01.2026",
+      "score": 5
     },
     {
-      "title": "Kill a Mole Miner (10)",
-      "score": 250
+      "title": "09.01.2024",
+      "score": 6
     },
     {
-      "title": "Sell a Black Powder Pistol to an NPC vendor",
-      "score": 250
+      "title": "22.05.2023",
+      "score": 6
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
     }
   ],
   "weekly": [
@@ -52,35 +56,31 @@
       "score": 300
     },
     {
-      "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P. (25)",
+      "title": "Build a Generator in a C.A.M.P. or Workshop (5)",
       "score": 1000
     },
     {
-      "title": "26.05.2025",
-      "score": 36
+      "title": "Collect Brain Fungus (25)",
+      "score": 1000
     },
     {
-      "title": "30.05.2025",
-      "score": 25
-    },
-    {
-      "title": "26.04.2022",
+      "title": "27.04.2022",
       "score": 12
     },
     {
-      "title": "25.10.2023",
-      "score": 10
-    },
-    {
-      "title": "Consume an Alcoholic Beverage (20)",
+      "title": "Deal a Critical Hit to a Radtoad in VATS (5)",
       "score": 1000
     },
     {
-      "title": "Destroy a Robot (30)",
+      "title": "Drink Nuka-Grape (5)",
       "score": 1000
     },
     {
-      "title": "Kill a Mole Miner (30)",
+      "title": "Kill a Canine (30)",
+      "score": 1000
+    },
+    {
+      "title": "Mod an Energy Weapon (5)",
       "score": 1000
     },
     {
@@ -88,12 +88,8 @@
       "score": 5
     },
     {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "Tu, 28th Apr 2026 (12:00) - Tu, 12th May 2026 (12:00)",
-      "score": 20
+      "title": "Sell Mirelurk Queen Steak to an NPC vendor",
+      "score": 1000
     },
     {
       "title": "Mo, 11th May 2026 (12:00) - We, 13th May 2026 (12:00)",
@@ -101,7 +97,11 @@
     },
     {
       "title": "Th, 14th May 2026 (12:00) - Mo, 18th May 2026 (12:00)",
-      "score": 5
+      "score": 6
+    },
+    {
+      "title": "Tu, 19th May 2026 (12:00) - Tu, 2nd Jun 2026 (12:00)",
+      "score": 20
     }
   ]
 }

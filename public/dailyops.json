@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-12T14:51:33.243Z",
+  "fetchedAt": "2026-05-12T20:05:46.030Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Watoga Raider Arena",
-    "enemy": "Super Mutants"
+    "location": null,
+    "enemy": null
   }
 }
