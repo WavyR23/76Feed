@@ -1,24 +1,32 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-13T15:12:38.714Z",
+  "fetchedAt": "2026-05-13T20:06:51.203Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": "Plan: Solar armor left arm Gold Plan: Solar armor right arm Gold Plan: Solar armor left leg Gold Plan: Solar armor right leg Gold Plan: Solar armor chest piece Gold Plan: Plasma caster true long barrel Gold Plan: Plasma caster true capacitor Gold Plan: Floater freezer grenade Gold Plan: Super mutant tube Gold Plan: Science chalkboards Gold Plan: Plasma cutter cryo blade Gold Plan: Plasma cutter flaming blade Gold Plan: Plasma cutter shock blade Gold Plan: Floater Tubes Gold",
+  "weeklyTimeLeft": "Offers from List 9ShowPlan: Asylum light Gold Plan: Crusader pistol Gold Plan: Dynamite bundle Gold Plan: Meat bag stash box Gold Plan: Plasma caster aligned sniper barrel Gold Plan: Plasma caster calibrated capacitor Gold Plan: Plasma caster pulse capacitor Gold Plan: T-65 helm Gold Plan: T-65 left arm Gold Plan: T-65 left leg Gold Plan: T-65 right arm Gold Plan: T-65 right leg Gold Plan: T-65 torso Gold Plan: Ghoul chair Gold Plan: Gorilla chair Gold Offers from List 10ShowPlan: Gauntlet Gold Plan: Gauss shotgun precise stock Gold Plan: Gauss shotgun vicious receiver Gold Plan: Gauss shotgun refined receiver Gold Plan: Gauss minigun triple barrel Gold Plan: Flare Gold Plan: Brotherhood recon pocketed armor limb Gold Plan: Brotherhood recon pocketed armor torso Gold Plan: Turbo-Fert fertilizer Gold Plan: Hellstorm missile launcher Gold Plan: Unstoppable Monster Gold Bauplan: Cowboy Chaps Gold Plan: Cowboy Duster Gold Bauplan: Cowboy Hat Gold Offers from List 11ShowPlan: Solar armor left arm Gold Plan: Solar armor right arm Gold Plan: Solar armor left leg Gold Plan: Solar armor right leg Gold Plan: Solar armor chest piece Gold Plan: Plasma caster true long barrel Gold Plan: Plasma caster true capacitor Gold Plan: Floater freezer grenade Gold Plan: Super mutant tube Gold Plan: Science chalkboards Gold Plan: Plasma cutter cryo blade Gold Plan: Plasma cutter flaming blade Gold Plan: Plasma cutter shock blade Gold Plan: Floater Tubes Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Eat a Cake, Pie, or Candy (10)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 5
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Deal a Critical Hit to a Sentry Bot in VATS",
+      "title": "Collect Mirelurk Eggs (3)",
       "score": 250
     },
     {
-      "title": "Harvest a Wild Plant or Fungi (12)",
+      "title": "27.04.2022",
+      "score": 12
+    },
+    {
+      "title": "Eat a Cooked Meal (10)",
+      "score": 250
+    },
+    {
+      "title": "Kill a Mirelurk (5)",
       "score": 250
     },
     {
@@ -26,20 +34,8 @@
       "score": 12
     },
     {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "09.01.2024",
-      "score": 6
-    },
-    {
-      "title": "22.05.2023",
-      "score": 6
-    },
-    {
-      "title": "22.05.2023",
-      "score": 6
+      "title": "Sell a Shotgun to an NPC vendor",
+      "score": 250
     }
   ],
   "weekly": [
@@ -92,16 +88,16 @@
       "score": 1000
     },
     {
-      "title": "Mo, 11th May 2026 (12:00) - We, 13th May 2026 (12:00)",
-      "score": 1
-    },
-    {
       "title": "Th, 14th May 2026 (12:00) - Mo, 18th May 2026 (12:00)",
       "score": 8
     },
     {
       "title": "Tu, 19th May 2026 (12:00) - Tu, 2nd Jun 2026 (12:00)",
       "score": 20
+    },
+    {
+      "title": "Th, 21st May 2026 (12:00) - Mo, 25th May 2026 (12:00)",
+      "score": 3
     }
   ]
 }
