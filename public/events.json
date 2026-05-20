@@ -1,12 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-20T15:53:40.988Z",
+  "fetchedAt": "2026-05-20T20:29:09.945Z",
   "source": "https://nukaknights.com/en/",
   "events": [
     {
       "name": "Mutated Public Events",
       "starts": "Su, 7th Jun 2026 (12:00)                                         - Mo, 15th Jun 2026 (12:00)",
       "ends": "Tu, 9th Jun 2026(12:00)                            Tu, 16th Jun 2026 (12:00)"
+    },
+    {
+      "name": "Treasure Hunter Weekend",
+      "starts": "Tu, 21st Jul 2026 (12:00)                                         - Tu, 4th Aug 2026 (12:00)",
+      "ends": "Th, 23rd Jul 2026(12:00)                            Mo, 27th Jul 2026 (12:00)"
+    },
+    {
+      "name": "Gold Rush and Double Mutations",
+      "starts": "Th, 6th Aug 2026 (12:00)                                         - Mo, 10th Aug 2026 (12:00)",
+      "ends": "Th, 13th Aug 2026(12:00)                            Mo, 17th Aug 2026 (12:00)"
+    },
+    {
+      "name": "Treasure Hunter and Double Mutations",
+      "starts": "Th, 17th Sep 2026 (12:00)                                         - Mo, 21st Sep 2026 (12:00)",
+      "ends": "Th, 24th Sep 2026(12:00)                            Mo, 28th Sep 2026 (12:00)"
     }
   ]
 }
