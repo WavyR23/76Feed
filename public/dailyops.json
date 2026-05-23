@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-23T14:00:41.893Z",
+  "fetchedAt": "2026-05-23T19:35:55.941Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Glassed Cavern",
-    "enemy": "Blood Eagles"
+    "location": "Uncanny Caverns",
+    "enemy": "Mole Miners"
   }
 }
