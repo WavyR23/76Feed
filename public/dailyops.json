@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-24T13:56:50.146Z",
+  "fetchedAt": "2026-05-24T19:38:29.505Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Uncanny Caverns",
-    "enemy": "Mole Miners"
+    "location": null,
+    "enemy": null
   }
 }
