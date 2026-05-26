@@ -1,11 +1,104 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-26T16:06:15.414Z",
+  "fetchedAt": "2026-05-26T20:24:30.338Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [],
+  "daily": [
+    {
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
+    {
+      "title": "Collect Mothman Eggs (3)",
+      "score": 250
+    },
+    {
+      "title": "15.05.2026",
+      "score": 18
+    },
+    {
+      "title": "14.12.2025",
+      "score": 8
+    },
+    {
+      "title": "26.10.2023",
+      "score": 8
+    },
+    {
+      "title": "06.08.2024",
+      "score": 3
+    },
+    {
+      "title": "Eat a Cooked Meal (10)",
+      "score": 250
+    },
+    {
+      "title": "03.01.2024",
+      "score": 6
+    },
+    {
+      "title": "Kill a Cultist (10)",
+      "score": 250
+    }
+  ],
   "weekly": [
+    {
+      "title": "Complete a Gold Star Daily Challenge! (3)",
+      "score": 1500
+    },
+    {
+      "title": "Repeatable Under Rank 100: Gain XP (10000)",
+      "score": 100
+    },
+    {
+      "title": "Repeatable at Rank 100 or above: Complete a Public Event (3)",
+      "score": 300
+    },
+    {
+      "title": "Buy an item from or Sell an item to another Player (15)",
+      "score": 1000
+    },
+    {
+      "title": "Collect Purified Water (25)",
+      "score": 1000
+    },
+    {
+      "title": "Collect Stimpaks or Chems (20)",
+      "score": 1000
+    },
+    {
+      "title": "Collect a Board Game (4)",
+      "score": 1000
+    },
+    {
+      "title": "Consume any Chems (9)",
+      "score": 1000
+    },
+    {
+      "title": "15.05.2026",
+      "score": 18
+    },
+    {
+      "title": "Kill a Cultist (25)",
+      "score": 1000
+    },
+    {
+      "title": "24.10.2025",
+      "score": 3
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "Sell Yao Guai Ribs to an NPC vendor",
+      "score": 1000
+    },
     {
       "title": "Tu, 19th May 2026 (12:00) - Tu, 2nd Jun 2026 (12:00)",
       "score": 32
