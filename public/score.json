@@ -1,92 +1,11 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-26T10:16:48.467Z",
+  "fetchedAt": "2026-05-26T16:06:15.414Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [
-    {
-      "title": "03.08.2024",
-      "score": 8
-    },
-    {
-      "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
-    },
-    {
-      "title": "Collect Mirelurk Eggs (3)",
-      "score": 250
-    },
-    {
-      "title": "30.12.2025",
-      "score": 13
-    },
-    {
-      "title": "Complete an Event",
-      "score": 250
-    },
-    {
-      "title": "Cook Roasted Mirelurk Meat (3)",
-      "score": 250
-    },
-    {
-      "title": "Kill a Mirelurk (5)",
-      "score": 250
-    },
-    {
-      "title": "15.05.2026",
-      "score": 18
-    }
-  ],
+  "daily": [],
   "weekly": [
-    {
-      "title": "Complete a Gold Star Daily Challenge! (3)",
-      "score": 1500
-    },
-    {
-      "title": "Repeatable Under Rank 100: Gain XP (10000)",
-      "score": 100
-    },
-    {
-      "title": "Repeatable at Rank 100 or above: Complete a Public Event (3)",
-      "score": 300
-    },
-    {
-      "title": "Build light sources in a Workshop or C.A.M.P. (9)",
-      "score": 1000
-    },
-    {
-      "title": "Collect Caps (2500)",
-      "score": 1000
-    },
-    {
-      "title": "03.08.2024",
-      "score": 8
-    },
-    {
-      "title": "30.12.2025",
-      "score": 13
-    },
-    {
-      "title": "15.05.2026",
-      "score": 18
-    },
-    {
-      "title": "Kill a Mirelurk (30)",
-      "score": 1000
-    },
-    {
-      "title": "15.05.2026",
-      "score": 18
-    },
-    {
-      "title": "Plant a Crop in a Workshop or C.A.M.P. (25)",
-      "score": 1000
-    },
-    {
-      "title": "Sell Scorchbeast Steak to an NPC vendor",
-      "score": 1000
-    },
     {
       "title": "Tu, 19th May 2026 (12:00) - Tu, 2nd Jun 2026 (12:00)",
       "score": 32
