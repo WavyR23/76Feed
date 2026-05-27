@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-27T10:17:59.023Z",
+  "fetchedAt": "2026-05-27T16:10:32.856Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
@@ -14,7 +14,15 @@
       "score": 1000
     },
     {
-      "title": "Collect Mothman Eggs (3)",
+      "title": "Collect Caps (250)",
+      "score": 250
+    },
+    {
+      "title": "14.03.2025",
+      "score": 13
+    },
+    {
+      "title": "Kill a Super Mutant (5)",
       "score": 250
     },
     {
@@ -22,27 +30,15 @@
       "score": 18
     },
     {
-      "title": "14.12.2025",
-      "score": 8
-    },
-    {
-      "title": "26.10.2023",
-      "score": 8
-    },
-    {
-      "title": "06.08.2024",
+      "title": "24.10.2025",
       "score": 3
     },
     {
-      "title": "Eat a Cooked Meal (10)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 5
     },
     {
-      "title": "03.01.2024",
-      "score": 6
-    },
-    {
-      "title": "Kill a Cultist (10)",
+      "title": "Sell Mutant Hound Chops to an NPC vendor",
       "score": 250
     }
   ],
