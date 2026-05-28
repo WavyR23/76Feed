@@ -1,10 +1,47 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-28T16:31:43.696Z",
+  "fetchedAt": "2026-05-28T20:36:03.546Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [],
+  "daily": [
+    {
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
+    {
+      "title": "15.05.2026",
+      "score": 18
+    },
+    {
+      "title": "Consume any Chems (2)",
+      "score": 250
+    },
+    {
+      "title": "Eat a Cake, Pie, or Candy (10)",
+      "score": 250
+    },
+    {
+      "title": "Kill a Mole Miner (10)",
+      "score": 250
+    },
+    {
+      "title": "26.10.2023",
+      "score": 8
+    },
+    {
+      "title": "21.06.2025",
+      "score": 7
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
+    }
+  ],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
