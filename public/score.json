@@ -1,47 +1,10 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-28T10:22:39.603Z",
+  "fetchedAt": "2026-05-28T16:31:43.696Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [
-    {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
-    },
-    {
-      "title": "Collect Caps (250)",
-      "score": 250
-    },
-    {
-      "title": "14.03.2025",
-      "score": 13
-    },
-    {
-      "title": "Kill a Super Mutant (5)",
-      "score": 250
-    },
-    {
-      "title": "15.05.2026",
-      "score": 18
-    },
-    {
-      "title": "24.10.2025",
-      "score": 3
-    },
-    {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "Sell Mutant Hound Chops to an NPC vendor",
-      "score": 250
-    }
-  ],
+  "daily": [],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
