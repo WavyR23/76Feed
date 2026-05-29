@@ -1,10 +1,43 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-29T16:06:51.361Z",
+  "fetchedAt": "2026-05-29T20:37:02.064Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [],
+  "daily": [
+    {
+      "title": "1ˢᵗ Cripple a Protectron or a Robobrain's Arm (2)",
+      "score": 250
+    },
+    {
+      "title": "Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
+    {
+      "title": "Build Defense, Appliance, or Crafting items in a Workshop or C.A.M.P. (3)",
+      "score": 250
+    },
+    {
+      "title": "Build light sources in a Workshop or C.A.M.P. (3)",
+      "score": 250
+    },
+    {
+      "title": "Kill a Feral Ghoul (10)",
+      "score": 250
+    },
+    {
+      "title": "15.05.2026",
+      "score": 18
+    },
+    {
+      "title": "Plant a Crop in a Workshop or C.A.M.P. (5)",
+      "score": 250
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
+    }
+  ],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
