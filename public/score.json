@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-30T14:02:33.028Z",
+  "fetchedAt": "2026-05-30T19:39:51.576Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Cripple a Protectron or a Robobrain's Arm (2)",
+      "title": "1ˢᵗ Cripple a Super Mutant's Head (2)",
       "score": 250
     },
     {
@@ -14,28 +14,28 @@
       "score": 1000
     },
     {
-      "title": "Build Defense, Appliance, or Crafting items in a Workshop or C.A.M.P. (3)",
-      "score": 250
-    },
-    {
-      "title": "Build light sources in a Workshop or C.A.M.P. (3)",
-      "score": 250
-    },
-    {
-      "title": "Kill a Feral Ghoul (10)",
-      "score": 250
+      "title": "19.03.2026",
+      "score": 4
     },
     {
       "title": "15.05.2026",
       "score": 18
     },
     {
-      "title": "Plant a Crop in a Workshop or C.A.M.P. (5)",
+      "title": "Eat Pre-war Food (5)",
       "score": 250
     },
     {
-      "title": "22.05.2023",
-      "score": 6
+      "title": "14.12.2025",
+      "score": 8
+    },
+    {
+      "title": "05.04.2026",
+      "score": 5
+    },
+    {
+      "title": "Scrap Pre-War Money (5)",
+      "score": 250
     }
   ],
   "weekly": [
