@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-05-31T14:09:03.343Z",
+  "fetchedAt": "2026-05-31T19:39:10.346Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Cripple a Super Mutant's Head (2)",
+      "title": "1ˢᵗ Cripple a Human's Head (2)",
       "score": 250
     },
     {
@@ -14,27 +14,27 @@
       "score": 1000
     },
     {
-      "title": "19.03.2026",
-      "score": 4
+      "title": "Collect any flavor of Nuka-Cola (5)",
+      "score": 250
+    },
+    {
+      "title": "Drink Nuka-Cola Wild (2)",
+      "score": 250
+    },
+    {
+      "title": "Drink Nuka-Grape (2)",
+      "score": 250
+    },
+    {
+      "title": "14.02.2024",
+      "score": 7
     },
     {
       "title": "15.05.2026",
       "score": 18
     },
     {
-      "title": "Eat Pre-war Food (5)",
-      "score": 250
-    },
-    {
-      "title": "14.12.2025",
-      "score": 8
-    },
-    {
-      "title": "05.04.2026",
-      "score": 5
-    },
-    {
-      "title": "Scrap Pre-War Money (5)",
+      "title": "Use Photomode to Take a Photo at Nuka-World On Tour",
       "score": 250
     }
   ],
