@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-01T12:07:48.204Z",
+  "fetchedAt": "2026-06-01T18:15:04.131Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Cripple a Human's Head (2)",
+      "title": "1ˢᵗ Consume an Alcoholic Beverage while on a Team (5)",
       "score": 250
     },
     {
@@ -14,27 +14,27 @@
       "score": 1000
     },
     {
-      "title": "Collect any flavor of Nuka-Cola (5)",
+      "title": "Collect a Board Game",
       "score": 250
     },
     {
-      "title": "Drink Nuka-Cola Wild (2)",
+      "title": "Complete an Event while in a Team",
       "score": 250
     },
     {
-      "title": "Drink Nuka-Grape (2)",
+      "title": "Drink Nuka-Cola Dark (2)",
       "score": 250
     },
     {
-      "title": "14.02.2024",
-      "score": 7
+      "title": "11.11.2025",
+      "score": 12
     },
     {
       "title": "15.05.2026",
       "score": 18
     },
     {
-      "title": "Use Photomode to Take a Photo at Nuka-World On Tour",
+      "title": "Scrap a Board Game",
       "score": 250
     }
   ],
@@ -96,8 +96,8 @@
       "score": 32
     },
     {
-      "title": "Th, 28th May 2026 (12:00) - Mo, 1st Jun 2026 (12:00)",
-      "score": 9
+      "title": "Tu, 2nd Jun 2026 (10:00)",
+      "score": 6
     }
   ]
 }
