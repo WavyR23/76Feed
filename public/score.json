@@ -1,14 +1,91 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-02T16:53:24.910Z",
+  "fetchedAt": "2026-06-02T21:22:44.758Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [],
+  "daily": [
+    {
+      "title": "1ˢᵗ Drink Nuka-Cola (3)",
+      "score": 250
+    },
+    {
+      "title": "Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
+    {
+      "title": "Build a Bed, Table, or Stairs in a Workshop or C.A.M.P. (3)",
+      "score": 250
+    },
+    {
+      "title": "17.03.2026",
+      "score": 12
+    },
+    {
+      "title": "30.05.2026",
+      "score": 8
+    },
+    {
+      "title": "Kill a Mirelurk (5)",
+      "score": 250
+    },
+    {
+      "title": "30.05.2026",
+      "score": 8
+    },
+    {
+      "title": "Scrap a Board Game",
+      "score": 250
+    }
+  ],
   "weekly": [
     {
-      "title": "Tu, 2nd Jun 2026 (10:00)",
-      "score": 10
+      "title": "Complete a Gold Star Daily Challenge! (3)",
+      "score": 1500
+    },
+    {
+      "title": "Repeatable Under Rank 100: Gain XP (10000)",
+      "score": 100
+    },
+    {
+      "title": "Repeatable at Rank 100 or above: Complete a Public Event (3)",
+      "score": 300
+    },
+    {
+      "title": "Build light sources in a Workshop or C.A.M.P. (9)",
+      "score": 1000
+    },
+    {
+      "title": "Collect a Board Game (4)",
+      "score": 1000
+    },
+    {
+      "title": "17.03.2026",
+      "score": 12
+    },
+    {
+      "title": "30.05.2026",
+      "score": 8
+    },
+    {
+      "title": "Craft Ammo at a Workbench (250)",
+      "score": 1000
+    },
+    {
+      "title": "Craft any Chems (6)",
+      "score": 1000
+    },
+    {
+      "title": "Kill a Mirelurk (30)",
+      "score": 1000
+    },
+    {
+      "title": "30.05.2026",
+      "score": 8
+    },
+    {
+      "title": "Sell a Weapon to an NPC vendor (15)",
+      "score": 1000
     },
     {
       "title": "Su, 7th Jun 2026 (12:00) - Mo, 15th Jun 2026 (12:00)",
