@@ -1,22 +1,22 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-02T10:53:48.597Z",
+  "fetchedAt": "2026-06-02T16:53:24.910Z",
   "source": "https://nukaknights.com/en/",
   "axolotlOfTheMonth": {
-    "month": "May 2026",
-    "name": "Purple Axolotl",
-    "start": "Start: 5th May 2026 12:00",
-    "end": "End: 2nd Jun 2026 11:59",
+    "month": "June 2026",
+    "name": "Banded Axolotl",
+    "start": "Start: 2nd Jun 2026 12:00",
+    "end": "End: 7th Jul 2026 11:59",
     "timezone": "America/New_York",
     "description": [
-      "Only in May in Skyline Valley & Cranberry Bog  Small Fish",
+      "Only in June in the Mire & Toxic Valley  Small Fish",
       "Axolotl & Map",
-      "100%",
-      "Only in May in Skyline Valley & Cranberry Bog",
-      "100%",
+      "0%",
+      "Only in June in the Mire & Toxic Valley",
+      "0%",
       "Axolotl & Map",
-      "Expected Changes for \"Infestations\" Update (Patch 68) on 2nd June 2026",
-      "30.05.2026"
+      "Seasonal Fish, new local Legend, new Recipes & Challenges (Patch 68)",
+      "29.05.2026"
     ]
   }
 }
