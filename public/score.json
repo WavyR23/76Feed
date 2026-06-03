@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-03T11:21:29.158Z",
+  "fetchedAt": "2026-06-03T17:13:53.426Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Drink Nuka-Cola (3)",
+      "title": "1ˢᵗ Rank up a Perk Card",
       "score": 250
     },
     {
@@ -14,27 +14,39 @@
       "score": 1000
     },
     {
-      "title": "Build a Bed, Table, or Stairs in a Workshop or C.A.M.P. (3)",
-      "score": 250
+      "title": "08.04.2026",
+      "score": 36
     },
     {
-      "title": "17.03.2026",
+      "title": "08.05.2026",
+      "score": 25
+    },
+    {
+      "title": "11.11.2025",
       "score": 12
     },
     {
-      "title": "30.05.2026",
-      "score": 9
-    },
-    {
-      "title": "Kill a Mirelurk (5)",
-      "score": 250
+      "title": "03.06.2026",
+      "score": 8
     },
     {
       "title": "30.05.2026",
       "score": 9
     },
     {
-      "title": "Scrap a Board Game",
+      "title": "30.05.2026",
+      "score": 9
+    },
+    {
+      "title": "11.11.2025",
+      "score": 12
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
+    },
+    {
+      "title": "Use Photomode while in a Team",
       "score": 250
     }
   ],
@@ -89,6 +101,10 @@
     },
     {
       "title": "Su, 7th Jun 2026 (12:00) - Mo, 15th Jun 2026 (12:00)",
+      "score": 5
+    },
+    {
+      "title": "Th, 11th Jun 2026 (12:00) - Mo, 15th Jun 2026 (12:00)",
       "score": 5
     }
   ]
