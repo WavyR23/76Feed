@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-04T15:38:46.365Z",
+  "fetchedAt": "2026-06-04T20:21:57.128Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Rank up a Perk Card",
+      "title": "1ˢᵗ Drink Purified Water (2)",
       "score": 250
     },
     {
@@ -34,6 +34,10 @@
       "score": 9
     },
     {
+      "title": "Harvest a Firecracker Berry (5)",
+      "score": 250
+    },
+    {
       "title": "30.05.2026",
       "score": 9
     },
@@ -46,8 +50,8 @@
       "score": 6
     },
     {
-      "title": "Use Photomode while in a Team",
-      "score": 250
+      "title": "11.11.2025",
+      "score": 12
     }
   ],
   "weekly": [
@@ -101,7 +105,7 @@
     },
     {
       "title": "Su, 7th Jun 2026 (12:00) - Mo, 15th Jun 2026 (12:00)",
-      "score": 7
+      "score": 8
     },
     {
       "title": "Th, 11th Jun 2026 (12:00) - Mo, 15th Jun 2026 (12:00)",
