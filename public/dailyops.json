@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-06T14:05:54.980Z",
+  "fetchedAt": "2026-06-06T19:44:58.863Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Uncanny Caverns",
-    "enemy": "Robots"
+    "location": null,
+    "enemy": null
   }
 }
