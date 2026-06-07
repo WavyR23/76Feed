@@ -1,12 +1,24 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-07T14:18:04.834Z",
+  "fetchedAt": "2026-06-07T19:44:23.841Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Drink Tea",
+      "title": "30.12.2025",
+      "score": 3
+    },
+    {
+      "title": "Complete a Daily Quest",
+      "score": 250
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
+    },
+    {
+      "title": "1ˢᵗ Collect Purified Water (5)",
       "score": 250
     },
     {
@@ -14,24 +26,16 @@
       "score": 1000
     },
     {
-      "title": "14.03.2025",
-      "score": 13
-    },
-    {
-      "title": "Consume any Chems (2)",
+      "title": "Harvest a Slipper Cactus (5)",
       "score": 250
     },
     {
-      "title": "06.02.2026",
-      "score": 15
+      "title": "Cripple enemy limbs (6)",
+      "score": 250
     },
     {
-      "title": "21.01.2026",
-      "score": 4
-    },
-    {
-      "title": "03.01.2024",
-      "score": 6
+      "title": "Scrap a Pipe Gun (3)",
+      "score": 250
     }
   ],
   "weekly": [
@@ -85,7 +89,7 @@
     },
     {
       "title": "Su, 7th Jun 2026 (12:00) - Mo, 15th Jun 2026 (12:00)",
-      "score": 10
+      "score": 13
     },
     {
       "title": "Mo, 8th Jun 2026 (10:00)",

@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-07T14:18:04.834Z",
+  "fetchedAt": "2026-06-07T19:44:23.841Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": null,
-    "enemy": null
+    "location": "The Burrows",
+    "enemy": "Mole Miners"
   }
 }
