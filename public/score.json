@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-07T09:33:23.651Z",
+  "fetchedAt": "2026-06-07T14:18:04.834Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
@@ -61,7 +61,7 @@
     },
     {
       "title": "30.05.2026",
-      "score": 11
+      "score": 12
     },
     {
       "title": "Craft Ammo at a Workbench (250)",
@@ -77,7 +77,7 @@
     },
     {
       "title": "30.05.2026",
-      "score": 11
+      "score": 12
     },
     {
       "title": "Sell a Weapon to an NPC vendor (15)",
@@ -89,6 +89,10 @@
     },
     {
       "title": "Mo, 8th Jun 2026 (10:00)",
+      "score": 2
+    },
+    {
+      "title": "Mo, 8th Jun 2026 (12:00) - We, 10th Jun 2026 (12:00)",
       "score": 1
     }
   ]
