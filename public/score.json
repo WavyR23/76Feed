@@ -1,10 +1,55 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-08T16:16:54.893Z",
+  "fetchedAt": "2026-06-08T20:31:32.388Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [],
+  "daily": [
+    {
+      "title": "1ˢᵗ Deal a Critical Hit to a Radtoad in VATS",
+      "score": 250
+    },
+    {
+      "title": "1ˢᵗ Eat a Cake, Pie, or Candy (10)",
+      "score": 250
+    },
+    {
+      "title": "Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
+    {
+      "title": "08.04.2026",
+      "score": 36
+    },
+    {
+      "title": "08.05.2026",
+      "score": 26
+    },
+    {
+      "title": "11.11.2025",
+      "score": 12
+    },
+    {
+      "title": "03.06.2026",
+      "score": 8
+    },
+    {
+      "title": "05.01.2026",
+      "score": 12
+    },
+    {
+      "title": "08.04.2026",
+      "score": 36
+    },
+    {
+      "title": "Kill a Mirelurk (5)",
+      "score": 250
+    },
+    {
+      "title": "07.12.2024",
+      "score": 23
+    }
+  ],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
