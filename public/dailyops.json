@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-09T15:25:25.244Z",
+  "fetchedAt": "2026-06-09T20:19:37.047Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": null,
-    "enemy": null
+    "location": "Charleston Capitol Building",
+    "enemy": "Blood Eagles"
   }
 }

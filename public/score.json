@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-09T15:25:25.244Z",
+  "fetchedAt": "2026-06-09T20:19:37.047Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Deal a Critical Hit to a Radtoad in VATS",
+      "title": "1ˢᵗ Build a Decoration in a Workshop or C.A.M.P. in Free Cam (5)",
       "score": 250
     },
     {
-      "title": "1ˢᵗ Eat a Cake, Pie, or Candy (10)",
+      "title": "1ˢᵗ Destroy a Robot (10)",
       "score": 250
     },
     {
@@ -18,36 +18,32 @@
       "score": 1000
     },
     {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "08.05.2026",
-      "score": 26
-    },
-    {
-      "title": "11.11.2025",
-      "score": 12
-    },
-    {
-      "title": "03.06.2026",
-      "score": 9
-    },
-    {
-      "title": "05.01.2026",
-      "score": 12
-    },
-    {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "Kill a Mirelurk (5)",
+      "title": "Collect RadAway or Rad-X (5)",
       "score": 250
     },
     {
-      "title": "07.12.2024",
-      "score": 23
+      "title": "25.11.2025",
+      "score": 15
+    },
+    {
+      "title": "Cripple a Human's Head (2)",
+      "score": 250
+    },
+    {
+      "title": "25.11.2025",
+      "score": 15
+    },
+    {
+      "title": "14.03.2025",
+      "score": 13
+    },
+    {
+      "title": "Mod an Energy Weapon",
+      "score": 250
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
     }
   ],
   "weekly": [
@@ -64,40 +60,44 @@
       "score": 300
     },
     {
-      "title": "Build light sources in a Workshop or C.A.M.P. (9)",
+      "title": "Build a Decoration in a Shelter (15)",
       "score": 1000
     },
     {
-      "title": "Collect a Board Game (4)",
+      "title": "Collect Pre-war Food (20)",
       "score": 1000
     },
     {
-      "title": "17.03.2026",
+      "title": "Collect RadAway or Rad-X (15)",
+      "score": 1000
+    },
+    {
+      "title": "05.01.2026",
       "score": 12
     },
     {
-      "title": "30.05.2026",
-      "score": 12
+      "title": "25.11.2025",
+      "score": 15
     },
     {
-      "title": "Craft Ammo at a Workbench (250)",
+      "title": "Cripple a Human's Head (25)",
       "score": 1000
     },
     {
-      "title": "Craft any Chems (6)",
+      "title": "25.11.2025",
+      "score": 15
+    },
+    {
+      "title": "14.03.2025",
+      "score": 13
+    },
+    {
+      "title": "Mod an Energy Weapon (5)",
       "score": 1000
     },
     {
-      "title": "Kill a Mirelurk (30)",
-      "score": 1000
-    },
-    {
-      "title": "30.05.2026",
-      "score": 12
-    },
-    {
-      "title": "Sell a Weapon to an NPC vendor (15)",
-      "score": 1000
+      "title": "19.01.2026",
+      "score": 5
     },
     {
       "title": "Su, 7th Jun 2026 (12:00) - Mo, 15th Jun 2026 (12:00)",
