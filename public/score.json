@@ -1,10 +1,51 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-10T16:05:08.134Z",
+  "fetchedAt": "2026-06-10T20:43:26.014Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": "Plan: Covert scout armor mask Gold Plan: Covert scout armor chest piece Gold Plan: Covert scout armor left arm Gold Plan: Covert scout armor left leg Gold Plan: Covert scout armor right arm Gold Plan: Covert scout armor right leg Gold Plan: Crusader pistol cryo receiver Gold Plan: Crusader pistol fusion receiver Gold Plan: Crusader pistol pyro receiver Gold Plan: Open neon sign Gold",
-  "daily": [],
+  "weeklyTimeLeft": null,
+  "daily": [
+    {
+      "title": "1ˢᵗ Chew some Bubblegum",
+      "score": 250
+    },
+    {
+      "title": "1ˢᵗ Mod a Weapon (3)",
+      "score": 250
+    },
+    {
+      "title": "Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
+    {
+      "title": "Collect Caps (250)",
+      "score": 250
+    },
+    {
+      "title": "14.03.2025",
+      "score": 13
+    },
+    {
+      "title": "Complete a Daily Quest",
+      "score": 250
+    },
+    {
+      "title": "03.04.2026",
+      "score": 7
+    },
+    {
+      "title": "14.12.2025",
+      "score": 8
+    },
+    {
+      "title": "Kill a Feral Ghoul (10)",
+      "score": 250
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
+    }
+  ],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
@@ -60,11 +101,15 @@
     },
     {
       "title": "Su, 7th Jun 2026 (12:00) - Mo, 15th Jun 2026 (12:00)",
-      "score": 13
+      "score": 14
     },
     {
       "title": "Th, 11th Jun 2026 (12:00) - Mo, 15th Jun 2026 (12:00)",
-      "score": 6
+      "score": 1
+    },
+    {
+      "title": "Th, 11th Jun 2026 (12:00) - Mo, 15th Jun 2026 (12:00)",
+      "score": 7
     }
   ]
 }
