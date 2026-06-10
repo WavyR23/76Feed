@@ -1,51 +1,10 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-10T10:21:26.289Z",
+  "fetchedAt": "2026-06-10T16:05:08.134Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": null,
-  "daily": [
-    {
-      "title": "1ˢᵗ Build a Decoration in a Workshop or C.A.M.P. in Free Cam (5)",
-      "score": 250
-    },
-    {
-      "title": "1ˢᵗ Destroy a Robot (10)",
-      "score": 250
-    },
-    {
-      "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
-    },
-    {
-      "title": "Collect RadAway or Rad-X (5)",
-      "score": 250
-    },
-    {
-      "title": "25.11.2025",
-      "score": 15
-    },
-    {
-      "title": "Cripple a Human's Head (2)",
-      "score": 250
-    },
-    {
-      "title": "25.11.2025",
-      "score": 15
-    },
-    {
-      "title": "14.03.2025",
-      "score": 13
-    },
-    {
-      "title": "Mod an Energy Weapon",
-      "score": 250
-    },
-    {
-      "title": "19.01.2026",
-      "score": 5
-    }
-  ],
+  "weeklyTimeLeft": "Plan: Covert scout armor mask Gold Plan: Covert scout armor chest piece Gold Plan: Covert scout armor left arm Gold Plan: Covert scout armor left leg Gold Plan: Covert scout armor right arm Gold Plan: Covert scout armor right leg Gold Plan: Crusader pistol cryo receiver Gold Plan: Crusader pistol fusion receiver Gold Plan: Crusader pistol pyro receiver Gold Plan: Open neon sign Gold",
+  "daily": [],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
@@ -102,10 +61,6 @@
     {
       "title": "Su, 7th Jun 2026 (12:00) - Mo, 15th Jun 2026 (12:00)",
       "score": 13
-    },
-    {
-      "title": "Mo, 8th Jun 2026 (12:00) - We, 10th Jun 2026 (12:00)",
-      "score": 2
     },
     {
       "title": "Th, 11th Jun 2026 (12:00) - Mo, 15th Jun 2026 (12:00)",
