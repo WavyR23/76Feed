@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-12T15:36:31.967Z",
+  "fetchedAt": "2026-06-12T20:23:42.111Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Covert scout armor mask Gold Plan: Covert scout armor chest piece Gold Plan: Covert scout armor left arm Gold Plan: Covert scout armor left leg Gold Plan: Covert scout armor right arm Gold Plan: Covert scout armor right leg Gold Plan: Crusader pistol cryo receiver Gold Plan: Crusader pistol fusion receiver Gold Plan: Crusader pistol pyro receiver Gold Plan: Open neon sign Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Nuka-Twist (2)",
+      "title": "1ˢᵗ Drink Nuka-Cherry (2)",
       "score": 250
     },
     {
@@ -14,32 +14,36 @@
       "score": 1000
     },
     {
-      "title": "1ˢᵗ Eat Dog Food (5)",
+      "title": "03.01.2024",
+      "score": 6
+    },
+    {
+      "title": "09.04.2026",
+      "score": 3
+    },
+    {
+      "title": "Build a Generator in a Shelter",
       "score": 250
     },
     {
-      "title": "Build a Bed, Table, or Stairs in a Workshop or C.A.M.P. (3)",
+      "title": "Complete an Event while in a Team",
       "score": 250
     },
     {
-      "title": "Complete an Event",
+      "title": "Cripple a Human's Head (2)",
       "score": 250
     },
     {
-      "title": "Craft Bulk Aluminum",
+      "title": "Kill a Human Enemy (10)",
       "score": 250
     },
     {
-      "title": "Kill a Canine (5)",
+      "title": "Mod an Energy Weapon",
       "score": 250
     },
     {
-      "title": "Kill a Creature (12)",
+      "title": "Visit your Shelter",
       "score": 250
-    },
-    {
-      "title": "21.03.2024",
-      "score": 5
     }
   ],
   "weekly": [
