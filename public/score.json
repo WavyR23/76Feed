@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-13T14:22:38.398Z",
+  "fetchedAt": "2026-06-13T19:52:21.973Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Covert scout armor mask Gold Plan: Covert scout armor chest piece Gold Plan: Covert scout armor left arm Gold Plan: Covert scout armor left leg Gold Plan: Covert scout armor right arm Gold Plan: Covert scout armor right leg Gold Plan: Crusader pistol cryo receiver Gold Plan: Crusader pistol fusion receiver Gold Plan: Crusader pistol pyro receiver Gold Plan: Open neon sign Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Nuka-Cherry (2)",
+      "title": "1ˢᵗ Build Anything in a Shelter (10)",
       "score": 250
     },
     {
@@ -14,35 +14,31 @@
       "score": 1000
     },
     {
-      "title": "03.01.2024",
-      "score": 6
+      "title": "04.09.2024",
+      "score": 5
     },
     {
-      "title": "09.04.2026",
-      "score": 3
+      "title": "07.12.2024",
+      "score": 23
     },
     {
-      "title": "Build a Generator in a Shelter",
+      "title": "Harvest Corn, Razorgrain, or a Tato Plant (12)",
       "score": 250
     },
     {
-      "title": "Complete an Event while in a Team",
+      "title": "Kill a Creature (12)",
       "score": 250
     },
     {
-      "title": "Cripple a Human's Head (2)",
+      "title": "Kill a Scorched (10)",
       "score": 250
     },
     {
-      "title": "Kill a Human Enemy (10)",
+      "title": "Plant a Crop in a Workshop or C.A.M.P. in Free Cam (10)",
       "score": 250
     },
     {
-      "title": "Mod an Energy Weapon",
-      "score": 250
-    },
-    {
-      "title": "Visit your Shelter",
+      "title": "Sell a Weapon to an NPC vendor (5)",
       "score": 250
     }
   ],
