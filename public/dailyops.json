@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-14T14:26:00.569Z",
+  "fetchedAt": "2026-06-15T12:39:35.452Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Community Center",
-    "enemy": "Robots"
+    "location": "Watoga High School",
+    "enemy": "Blood Eagles"
   }
 }
