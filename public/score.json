@@ -1,53 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-19T15:39:42.818Z",
+  "fetchedAt": "2026-06-19T20:01:41.929Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Offers from List 13ShowPlan: Gauss minigun Gold Plan: Gauss pistol suppressed barrel Gold Plan: Gauss pistol vicious receiver Gold Plan: Gauss pistol hardened receiver Gold Plan: Plasma cutter Gold Plan: Emmett Mountain Disposal signs Gold Plan: Hello neon sign Gold Plan: BoS medallion Gold Plan: Brotherhood recon jet pack Gold Plan: Steel Bust Gold Plan: Foundry Smelter Gold Plan: Caged Bulb Lights Gold Plan: Burrows Signs Gold Plan: Valley Galleria Signs Gold Offers from List 14ShowPlan: War glaive Gold Plan: Water well Gold Plan: Floater flamer grenade Gold Plan: Enclave medallion Gold Plan: Hellstorm missile launcher cryo payload Gold Plan: Hellstorm missile launcher napalm payload Gold Plan: Hellstorm missile launcher plasma payload Gold Plan: Medical Malpractice Gold Plan: Wendigo tube Gold Plan: Flatwoods Monster Tube Gold Offers from List 15ShowPlan: Covert scout armor mask Gold Plan: Covert scout armor chest piece Gold Plan: Covert scout armor left arm Gold Plan: Covert scout armor left leg Gold Plan: Covert scout armor right arm Gold Plan: Covert scout armor right leg Gold Plan: Crusader pistol cryo receiver Gold Plan: Crusader pistol fusion receiver Gold Plan: Crusader pistol pyro receiver Gold Plan: Open neon sign Gold",
   "daily": [
     {
-      "title": "05.09.2024",
-      "score": 5
+      "title": "1ˢᵗ Drink Nuka-Cola Wild (2)",
+      "score": 500
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 2000
     },
     {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "03.06.2026",
-      "score": 9
-    },
-    {
-      "title": "08.05.2026",
-      "score": 28
-    },
-    {
-      "title": "11.11.2025",
-      "score": 12
-    },
-    {
-      "title": "Consume an Alcoholic Beverage (5)",
+      "title": "Collect any flavor of Nuka-Cola (5)",
       "score": 500
     },
     {
-      "title": "Cripple a Mole Miner's Head (2)",
+      "title": "Drink Nuka-Cola (3)",
       "score": 500
     },
     {
-      "title": "07.12.2024",
-      "score": 23
+      "title": "Drink Nuka-Cola Quantum (2)",
+      "score": 500
     },
     {
-      "title": "09.01.2024",
+      "title": "Drink Nuka-Grape (2)",
+      "score": 500
+    },
+    {
+      "title": "Drink Nuka-Orange (2)",
+      "score": 500
+    },
+    {
+      "title": "22.05.2023",
       "score": 6
-    },
-    {
-      "title": "Drink Nuka-Cola Cranberry (2)",
-      "score": 500
     }
   ],
   "weekly": [
