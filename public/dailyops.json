@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-23T15:22:09.302Z",
+  "fetchedAt": "2026-06-23T20:20:28.833Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": null,
-    "enemy": null
+    "location": "West Tek",
+    "enemy": "Super Mutants"
   }
 }

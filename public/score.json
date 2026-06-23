@@ -1,41 +1,65 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-23T15:22:09.302Z",
+  "fetchedAt": "2026-06-23T20:20:28.833Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Offers from List 13ShowPlan: Gauss minigun Gold Plan: Gauss pistol suppressed barrel Gold Plan: Gauss pistol vicious receiver Gold Plan: Gauss pistol hardened receiver Gold Plan: Plasma cutter Gold Plan: Emmett Mountain Disposal signs Gold Plan: Hello neon sign Gold Plan: BoS medallion Gold Plan: Brotherhood recon jet pack Gold Plan: Steel Bust Gold Plan: Foundry Smelter Gold Plan: Caged Bulb Lights Gold Plan: Burrows Signs Gold Plan: Valley Galleria Signs Gold Offers from List 14ShowPlan: War glaive Gold Plan: Water well Gold Plan: Floater flamer grenade Gold Plan: Enclave medallion Gold Plan: Hellstorm missile launcher cryo payload Gold Plan: Hellstorm missile launcher napalm payload Gold Plan: Hellstorm missile launcher plasma payload Gold Plan: Medical Malpractice Gold Plan: Wendigo tube Gold Plan: Flatwoods Monster Tube Gold Offers from List 15ShowPlan: Covert scout armor mask Gold Plan: Covert scout armor chest piece Gold Plan: Covert scout armor left arm Gold Plan: Covert scout armor left leg Gold Plan: Covert scout armor right arm Gold Plan: Covert scout armor right leg Gold Plan: Crusader pistol cryo receiver Gold Plan: Crusader pistol fusion receiver Gold Plan: Crusader pistol pyro receiver Gold Plan: Open neon sign Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Build a Floor, Wall, or Roof in a Workshop or C.A.M.P. in Free Cam (10)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "25.01.2024",
+      "score": 3
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Collect Mirelurk Eggs (5)",
+      "title": "20.06.2026",
+      "score": 29
+    },
+    {
+      "title": "14.12.2025",
+      "score": 8
+    },
+    {
+      "title": "06.08.2024",
+      "score": 4
+    },
+    {
+      "title": "26.10.2023",
+      "score": 8
+    },
+    {
+      "title": "23.06.2026",
+      "score": 9
+    },
+    {
+      "title": "14.02.2024",
+      "score": 7
+    },
+    {
+      "title": "03.04.2026",
+      "score": 4
+    },
+    {
+      "title": "30.12.2025",
+      "score": 3
+    },
+    {
+      "title": "06.08.2024",
+      "score": 4
+    },
+    {
+      "title": "Sell Bloatfly Meat to an NPC vendor",
       "score": 250
     },
     {
-      "title": "14.03.2025",
-      "score": 13
-    },
-    {
-      "title": "Cook Roasted Mirelurk Meat (3)",
+      "title": "Sell a Shotgun to an NPC vendor",
       "score": 250
-    },
-    {
-      "title": "Kill a Mirelurk (5)",
-      "score": 250
-    },
-    {
-      "title": "Kill a Super Mutant (5)",
-      "score": 250
-    },
-    {
-      "title": "22.05.2023",
-      "score": 6
     }
   ],
   "weekly": [
@@ -52,31 +76,39 @@
       "score": 300
     },
     {
-      "title": "Buy an item from or Sell an item to another Player (15)",
-      "score": 1000
+      "title": "08.04.2026",
+      "score": 36
     },
     {
-      "title": "Collect Caps (2500)",
-      "score": 1000
+      "title": "08.05.2026",
+      "score": 28
     },
     {
-      "title": "17.12.2025",
-      "score": 7
+      "title": "23.06.2026",
+      "score": 9
     },
     {
-      "title": "21.04.2026",
-      "score": 6
+      "title": "08.04.2026",
+      "score": 36
     },
     {
-      "title": "Consume an Alcoholic Beverage (20)",
-      "score": 1000
+      "title": "08.05.2026",
+      "score": 28
     },
     {
-      "title": "Craft any Plushie at a Tinkerer's Bench (3)",
-      "score": 1000
+      "title": "23.06.2026",
+      "score": 9
     },
     {
-      "title": "Kill a Mole Miner (30)",
+      "title": "20.06.2026",
+      "score": 29
+    },
+    {
+      "title": "08.04.2026",
+      "score": 36
+    },
+    {
+      "title": "Cripple a Blood Eagle's Leg (18)",
       "score": 1000
     },
     {
@@ -84,12 +116,20 @@
       "score": 8
     },
     {
-      "title": "Mod an Energy Weapon (5)",
-      "score": 1000
+      "title": "06.08.2024",
+      "score": 4
     },
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "26.10.2023",
+      "score": 8
+    },
+    {
+      "title": "23.06.2026",
+      "score": 9
+    },
+    {
+      "title": "Scrap Pre-War Money (50)",
+      "score": 1000
     },
     {
       "title": "19.01.2026",
