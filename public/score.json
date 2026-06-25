@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-25T15:09:39.046Z",
+  "fetchedAt": "2026-06-25T20:20:36.910Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Offers from List 13ShowPlan: Gauss minigun Gold Plan: Gauss pistol suppressed barrel Gold Plan: Gauss pistol vicious receiver Gold Plan: Gauss pistol hardened receiver Gold Plan: Plasma cutter Gold Plan: Emmett Mountain Disposal signs Gold Plan: Hello neon sign Gold Plan: BoS medallion Gold Plan: Brotherhood recon jet pack Gold Plan: Steel Bust Gold Plan: Foundry Smelter Gold Plan: Caged Bulb Lights Gold Plan: Burrows Signs Gold Plan: Valley Galleria Signs Gold Offers from List 14ShowPlan: War glaive Gold Plan: Water well Gold Plan: Floater flamer grenade Gold Plan: Enclave medallion Gold Plan: Hellstorm missile launcher cryo payload Gold Plan: Hellstorm missile launcher napalm payload Gold Plan: Hellstorm missile launcher plasma payload Gold Plan: Medical Malpractice Gold Plan: Wendigo tube Gold Plan: Flatwoods Monster Tube Gold Offers from List 15ShowPlan: Covert scout armor mask Gold Plan: Covert scout armor chest piece Gold Plan: Covert scout armor left arm Gold Plan: Covert scout armor left leg Gold Plan: Covert scout armor right arm Gold Plan: Covert scout armor right leg Gold Plan: Crusader pistol cryo receiver Gold Plan: Crusader pistol fusion receiver Gold Plan: Crusader pistol pyro receiver Gold Plan: Open neon sign Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Scrap Pre-War Money (5)",
+      "title": "1ˢᵗ Collect Ballistic Ammo (20)",
       "score": 250
     },
     {
@@ -14,40 +14,36 @@
       "score": 1000
     },
     {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "08.05.2026",
-      "score": 28
-    },
-    {
-      "title": "11.11.2025",
-      "score": 12
-    },
-    {
-      "title": "23.06.2026",
-      "score": 10
-    },
-    {
       "title": "20.06.2026",
       "score": 29
     },
     {
-      "title": "Cook Yao Guai Ribs",
+      "title": "Craft any Flair at a Tinkerer's Bench",
       "score": 250
     },
     {
-      "title": "Kill a Yao Guai",
+      "title": "25.06.2026",
+      "score": 24
+    },
+    {
+      "title": "Kill a Mole Miner (10)",
       "score": 250
     },
     {
-      "title": "11.11.2025",
-      "score": 12
+      "title": "19.01.2026",
+      "score": 5
     },
     {
-      "title": "Use Photomode to Take a Photo in Camden Park",
-      "score": 250
+      "title": "24.10.2025",
+      "score": 3
+    },
+    {
+      "title": "21.03.2024",
+      "score": 4
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
     }
   ],
   "weekly": [
@@ -126,6 +122,10 @@
     {
       "title": "Tu, 23rd Jun 2026 (12:00) - Tu, 7th Jul 2026 (12:00)",
       "score": 21
+    },
+    {
+      "title": "Th, 25th Jun 2026 (12:00) - Fr, 26th Jun 2026 (11:59)",
+      "score": 2
     },
     {
       "title": "Th, 25th Jun 2026 (12:00) - Mo, 29th Jun 2026 (12:00)",
