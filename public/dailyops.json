@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-28T14:13:40.953Z",
+  "fetchedAt": "2026-06-28T19:43:31.813Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "The Burning Mine",
-    "enemy": "Super Mutants"
+    "location": "Arktos Pharma Biome Labs",
+    "enemy": "Blood Eagles"
   }
 }
