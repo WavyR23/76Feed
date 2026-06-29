@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-29T11:21:54.088Z",
+  "fetchedAt": "2026-06-29T16:07:48.280Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Arktos Pharma Biome Labs",
-    "enemy": "Blood Eagles"
+    "location": null,
+    "enemy": null
   }
 }
