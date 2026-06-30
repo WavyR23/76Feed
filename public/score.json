@@ -1,53 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-06-30T14:40:28.503Z",
+  "fetchedAt": "2026-06-30T20:17:03.107Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Cattle prod Gold Plan: Farmable dirt tiles Gold Plan: Gauss minigun gunner sights Gold Plan: Gauss minigun Tesla capacitor Gold Plan: Gauss minigun Tesla dynamo Gold Plan: Secret Service chest piece Gold Plan: Secret Service helmet Gold Plan: Secret Service left arm Gold Plan: Secret Service left leg Gold Plan: Secret Service right arm Gold Plan: Secret Service right leg Gold Plan: Super reactor Gold Plan: Sympto-Matic Gold Plan: War glaive Gold Plan: Chemist's Backpack Mod Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Eat a Cooked Meal in a Teammate's C.A.M.P. (5)",
-      "score": 250
+      "title": "03.08.2024",
+      "score": 8
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "08.05.2026",
-      "score": 28
-    },
-    {
-      "title": "11.11.2025",
-      "score": 12
-    },
-    {
-      "title": "23.06.2026",
-      "score": 10
-    },
-    {
       "title": "20.06.2026",
       "score": 29
     },
     {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "Kill a Cultist (10)",
+      "title": "Consume a \"Vintage\" Alcoholic Beverage",
       "score": 250
     },
     {
-      "title": "Kill a Feral Ghoul (10)",
+      "title": "Cripple a Scorched's Arm (2)",
       "score": 250
     },
     {
-      "title": "Sell Swamp Tofu to an NPC vendor",
+      "title": "14.12.2025",
+      "score": 8
+    },
+    {
+      "title": "Repair Armor, Weapons, or Power Armor (5)",
       "score": 250
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
     }
   ],
   "weekly": [
@@ -64,64 +52,52 @@
       "score": 300
     },
     {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "08.05.2026",
-      "score": 28
-    },
-    {
-      "title": "23.06.2026",
-      "score": 10
-    },
-    {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "08.05.2026",
-      "score": 28
-    },
-    {
-      "title": "23.06.2026",
-      "score": 10
-    },
-    {
-      "title": "20.06.2026",
-      "score": 29
-    },
-    {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "Cripple a Blood Eagle's Leg (18)",
+      "title": "Complete an Event while in a Team (5)",
       "score": 1000
     },
     {
-      "title": "14.12.2025",
-      "score": 8
+      "title": "Craft any Flair at a Tinkerer's Bench (3)",
+      "score": 1000
     },
     {
-      "title": "06.08.2024",
+      "title": "21.01.2026",
       "score": 4
     },
     {
-      "title": "26.10.2023",
-      "score": 8
+      "title": "03.01.2024",
+      "score": 6
     },
     {
-      "title": "23.06.2026",
-      "score": 10
-    },
-    {
-      "title": "Scrap Pre-War Money (50)",
-      "score": 1000
+      "title": "09.04.2026",
+      "score": 3
     },
     {
       "title": "19.01.2026",
       "score": 5
+    },
+    {
+      "title": "21.06.2025",
+      "score": 7
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "25.01.2024",
+      "score": 3
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "Collect Energy Ammo (40)",
+      "score": 1000
+    },
+    {
+      "title": "Deal a Critical Hit to an Enemy in VATS (25)",
+      "score": 1000
     },
     {
       "title": "Tu, 23rd Jun 2026 (12:00) - Tu, 7th Jul 2026 (12:00)",
@@ -130,6 +106,10 @@
     {
       "title": "Th, 2nd Jul 2026 (12:00) - Mo, 6th Jul 2026 (12:00)",
       "score": 4
+    },
+    {
+      "title": "Mo, 6th Jul 2026 (12:00) - We, 8th Jul 2026 (12:00)",
+      "score": 1
     }
   ]
 }
