@@ -1,8 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-02T14:26:44.015Z",
+  "fetchedAt": "2026-07-02T19:49:01.647Z",
   "source": "https://nukaknights.com/en/",
   "events": [
+    {
+      "name": "Mutated Public Events",
+      "starts": "Th, 9th Jul 2026 (12:00)                                         - Mo, 13th Jul 2026 (12:00)",
+      "ends": "Tu, 14th Jul 2026(12:00)                            Tu, 21st Jul 2026 (12:00)"
+    },
     {
       "name": "Treasure Hunter Weekend",
       "starts": "Tu, 21st Jul 2026 (12:00)                                         - Tu, 4th Aug 2026 (12:00)",
