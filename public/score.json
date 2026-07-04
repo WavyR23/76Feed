@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-04T13:55:29.014Z",
+  "fetchedAt": "2026-07-04T19:34:14.020Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Cattle prod Gold Plan: Farmable dirt tiles Gold Plan: Gauss minigun gunner sights Gold Plan: Gauss minigun Tesla capacitor Gold Plan: Gauss minigun Tesla dynamo Gold Plan: Secret Service chest piece Gold Plan: Secret Service helmet Gold Plan: Secret Service left arm Gold Plan: Secret Service left leg Gold Plan: Secret Service right arm Gold Plan: Secret Service right leg Gold Plan: Super reactor Gold Plan: Sympto-Matic Gold Plan: War glaive Gold Plan: Chemist's Backpack Mod Gold",
   "daily": [
     {
-      "title": "16.01.2026",
-      "score": 3
+      "title": "19.01.2026",
+      "score": 5
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
@@ -22,28 +22,36 @@
       "score": 28
     },
     {
-      "title": "23.06.2026",
-      "score": 10
+      "title": "11.11.2025",
+      "score": 12
     },
     {
-      "title": "Collect Wood (5)",
-      "score": 250
+      "title": "23.06.2026",
+      "score": 10
     },
     {
       "title": "20.06.2026",
       "score": 29
     },
     {
-      "title": "Deal a Critical Hit to an Enemy in VATS (5)",
+      "title": "Cripple a Scorched's Leg (2)",
       "score": 250
     },
     {
-      "title": "Harvest a Wild Plant or Fungi (12)",
-      "score": 250
+      "title": "11.11.2025",
+      "score": 12
     },
     {
-      "title": "09.01.2024",
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "22.05.2023",
       "score": 6
+    },
+    {
+      "title": "11.11.2025",
+      "score": 12
     }
   ],
   "weekly": [

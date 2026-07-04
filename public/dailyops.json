@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-04T13:55:29.014Z",
+  "fetchedAt": "2026-07-04T19:34:14.020Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Morgantown High School",
-    "enemy": "Robots"
+    "location": "Uncanny Caverns",
+    "enemy": "Mole Miners"
   }
 }
