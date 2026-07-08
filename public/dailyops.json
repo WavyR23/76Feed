@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-08T14:38:30.344Z",
+  "fetchedAt": "2026-07-08T19:53:00.686Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Morgantown High School",
-    "enemy": "Mole Miners"
+    "location": "Vault 94",
+    "enemy": "Robots"
   }
 }
