@@ -1,40 +1,40 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-10T14:49:02.427Z",
+  "fetchedAt": "2026-07-10T19:48:35.928Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Dynamite Gold Plan: Gauss pistol Gold Plan: Floater gnasher grenade Gold Plan: Resistant lining Secret Service underarmor Gold Plan: Scavenged solar panel Gold Plan: Strangler heart chest piece Gold Plan: Strangler heart helmet Gold Plan: Strangler heart left arm Gold Plan: Strangler heart left leg Gold Plan: Strangler heart right arm Gold Plan: Strangler heart right leg Gold Plan: Treated lining Secret Service underarmor Gold Plan: Sole Survivor Gold Plan: Grocer's Backpack Mod Gold Plan: X-01 Scorched Paint Gold",
   "daily": [
     {
-      "title": "25.01.2024",
-      "score": 3
+      "title": "Collect Brain Fungus (5)",
+      "score": 250
+    },
+    {
+      "title": "Collect a Fuel Tank or Gas Canister (2)",
+      "score": 250
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Collect Mothman Eggs (3)",
+      "title": "1ˢᵗ Destroy a Robot (10)",
       "score": 250
     },
     {
-      "title": "Collect Pre-war Food (5)",
+      "title": "Complete an Event",
       "score": 250
     },
     {
-      "title": "Cripple a Super Mutant's Head (2)",
+      "title": "Cook Brain Fungus Soup",
       "score": 250
     },
     {
-      "title": "08.07.2026",
-      "score": 3
-    },
-    {
-      "title": "Sell Mothman Egg Omelette to an NPC vendor",
+      "title": "Cripple a Super Mutant's Arm (2)",
       "score": 250
     },
     {
-      "title": "Sell Mutant Hound Chops to an NPC vendor",
+      "title": "Deal Fire Damage to Enemies (100)",
       "score": 250
     }
   ],

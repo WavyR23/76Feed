@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-10T14:49:02.427Z",
+  "fetchedAt": "2026-07-10T19:48:35.928Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": null,
-    "enemy": null
+    "location": "The Burning Mine",
+    "enemy": "Mole Miners"
   }
 }
