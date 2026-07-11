@@ -1,16 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-11T13:50:05.554Z",
+  "fetchedAt": "2026-07-11T19:29:05.810Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Dynamite Gold Plan: Gauss pistol Gold Plan: Floater gnasher grenade Gold Plan: Resistant lining Secret Service underarmor Gold Plan: Scavenged solar panel Gold Plan: Strangler heart chest piece Gold Plan: Strangler heart helmet Gold Plan: Strangler heart left arm Gold Plan: Strangler heart left leg Gold Plan: Strangler heart right arm Gold Plan: Strangler heart right leg Gold Plan: Treated lining Secret Service underarmor Gold Plan: Sole Survivor Gold Plan: Grocer's Backpack Mod Gold Plan: X-01 Scorched Paint Gold",
   "daily": [
     {
-      "title": "Collect Brain Fungus (5)",
-      "score": 250
-    },
-    {
-      "title": "Collect a Fuel Tank or Gas Canister (2)",
+      "title": "1ˢᵗ Drink Nuka-Cherry (2)",
       "score": 250
     },
     {
@@ -18,23 +14,27 @@
       "score": 1000
     },
     {
-      "title": "1ˢᵗ Destroy a Robot (10)",
+      "title": "Collect Energy Ammo (10)",
       "score": 250
     },
     {
-      "title": "Complete an Event",
+      "title": "Collect an audio Holotape",
       "score": 250
     },
     {
-      "title": "Cook Brain Fungus Soup",
+      "title": "Complete a Daily Quest",
       "score": 250
     },
     {
-      "title": "Cripple a Super Mutant's Arm (2)",
+      "title": "Kill a Brahmin (2)",
       "score": 250
     },
     {
-      "title": "Deal Fire Damage to Enemies (100)",
+      "title": "Kill an Enemy with any Energy Weapon (8)",
+      "score": 250
+    },
+    {
+      "title": "Mod an Energy Weapon",
       "score": 250
     }
   ],

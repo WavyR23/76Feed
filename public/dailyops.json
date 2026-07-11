@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-11T13:50:05.554Z",
+  "fetchedAt": "2026-07-11T19:29:05.810Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "The Burning Mine",
-    "enemy": "Mole Miners"
+    "location": "Arktos Pharma Biome Labs",
+    "enemy": "Robots"
   }
 }
