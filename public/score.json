@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-13T15:08:46.137Z",
+  "fetchedAt": "2026-07-13T19:45:35.573Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Dynamite Gold Plan: Gauss pistol Gold Plan: Floater gnasher grenade Gold Plan: Resistant lining Secret Service underarmor Gold Plan: Scavenged solar panel Gold Plan: Strangler heart chest piece Gold Plan: Strangler heart helmet Gold Plan: Strangler heart left arm Gold Plan: Strangler heart left leg Gold Plan: Strangler heart right arm Gold Plan: Strangler heart right leg Gold Plan: Treated lining Secret Service underarmor Gold Plan: Sole Survivor Gold Plan: Grocer's Backpack Mod Gold Plan: X-01 Scorched Paint Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Kill a Mole Miner (10)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 5
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "14.03.2025",
-      "score": 14
-    },
-    {
-      "title": "Cripple a Human's Head (2)",
+      "title": "Buy an item from or Sell an item to another Player",
       "score": 250
     },
     {
-      "title": "Eat a Vegetable (10)",
+      "title": "Collect RadAway or Rad-X (5)",
       "score": 250
     },
     {
-      "title": "Harvest Corn, Razorgrain, or a Tato Plant (12)",
+      "title": "Craft Ammo at a Workbench (50)",
       "score": 250
     },
     {
-      "title": "Kill a Creature (12)",
+      "title": "07.12.2024",
+      "score": 23
+    },
+    {
+      "title": "Kill a Legendary Enemy",
       "score": 250
     },
     {
-      "title": "Plant a Crop in a Workshop or C.A.M.P. (5)",
-      "score": 250
+      "title": "05.09.2024",
+      "score": 5
     }
   ],
   "weekly": [
@@ -86,10 +86,6 @@
     {
       "title": "Repeatable Under Rank 100: Gain XP (10000)",
       "score": 100
-    },
-    {
-      "title": "Th, 9th Jul 2026 (12:00) - Mo, 13th Jul 2026 (12:00)",
-      "score": 6
     },
     {
       "title": "Tu, 14th Jul 2026 (12:00) - Tu, 21st Jul 2026 (12:00)",
