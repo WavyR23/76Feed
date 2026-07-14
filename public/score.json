@@ -1,41 +1,53 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-14T14:09:48.448Z",
+  "fetchedAt": "2026-07-14T19:40:41.750Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Dynamite Gold Plan: Gauss pistol Gold Plan: Floater gnasher grenade Gold Plan: Resistant lining Secret Service underarmor Gold Plan: Scavenged solar panel Gold Plan: Strangler heart chest piece Gold Plan: Strangler heart helmet Gold Plan: Strangler heart left arm Gold Plan: Strangler heart left leg Gold Plan: Strangler heart right arm Gold Plan: Strangler heart right leg Gold Plan: Treated lining Secret Service underarmor Gold Plan: Sole Survivor Gold Plan: Grocer's Backpack Mod Gold Plan: X-01 Scorched Paint Gold",
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "1ˢᵗ Eat Dog Food (5)",
+      "score": 250
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Buy an item from or Sell an item to another Player",
+      "title": "08.04.2026",
+      "score": 36
+    },
+    {
+      "title": "08.05.2026",
+      "score": 28
+    },
+    {
+      "title": "11.11.2025",
+      "score": 12
+    },
+    {
+      "title": "23.06.2026",
+      "score": 10
+    },
+    {
+      "title": "Complete an Event",
       "score": 250
     },
     {
-      "title": "Collect RadAway or Rad-X (5)",
+      "title": "08.04.2026",
+      "score": 36
+    },
+    {
+      "title": "07.07.2026",
+      "score": 2
+    },
+    {
+      "title": "Kill a Creature while in a Team (10)",
       "score": 250
     },
     {
-      "title": "Craft Ammo at a Workbench (50)",
-      "score": 250
-    },
-    {
-      "title": "07.12.2024",
-      "score": 23
-    },
-    {
-      "title": "Kill a Legendary Enemy",
-      "score": 250
-    },
-    {
-      "title": "05.09.2024",
-      "score": 5
+      "title": "08.04.2026",
+      "score": 36
     }
   ],
   "weekly": [
@@ -44,48 +56,44 @@
       "score": 1500
     },
     {
-      "title": "Build a Turret or Trap in a Workshop or C.A.M.P. (10)",
-      "score": 1000
-    },
-    {
-      "title": "14.03.2025",
-      "score": 14
-    },
-    {
-      "title": "Craft Bulk Wood (3)",
-      "score": 1000
-    },
-    {
-      "title": "Craft a Throwable Weapon (20)",
-      "score": 1000
-    },
-    {
-      "title": "05.04.2026",
-      "score": 4
-    },
-    {
-      "title": "Harvest a Wild Plant or Fungi (30)",
-      "score": 1000
-    },
-    {
-      "title": "08.07.2026",
-      "score": 4
-    },
-    {
-      "title": "05.09.2024",
-      "score": 5
-    },
-    {
-      "title": "Repair Armor, Weapons, or Power Armor (10)",
-      "score": 1000
+      "title": "Repeatable Under Rank 100: Gain XP (10000)",
+      "score": 100
     },
     {
       "title": "Repeatable at Rank 100 or above: Complete a Public Event (3)",
       "score": 300
     },
     {
-      "title": "Repeatable Under Rank 100: Gain XP (10000)",
-      "score": 100
+      "title": "Build a Decoration in a Workshop or C.A.M.P. (25)",
+      "score": 1000
+    },
+    {
+      "title": "Collect Purified Water (25)",
+      "score": 1000
+    },
+    {
+      "title": "03.08.2024",
+      "score": 8
+    },
+    {
+      "title": "30.12.2025",
+      "score": 13
+    },
+    {
+      "title": "17.12.2025",
+      "score": 7
+    },
+    {
+      "title": "07.07.2026",
+      "score": 2
+    },
+    {
+      "title": "Kill a Canine (30)",
+      "score": 1000
+    },
+    {
+      "title": "Kill a Legendary Enemy (5)",
+      "score": 1000
     },
     {
       "title": "Tu, 14th Jul 2026 (12:00) - Tu, 21st Jul 2026 (12:00)",

@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-14T14:09:48.448Z",
+  "fetchedAt": "2026-07-14T19:40:41.750Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": null,
-    "enemy": null
+    "location": "Morgantown High School",
+    "enemy": "Robots"
   }
 }
