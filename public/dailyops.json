@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-15T14:06:32.779Z",
+  "fetchedAt": "2026-07-15T19:33:52.090Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Morgantown High School",
-    "enemy": "Robots"
+    "location": "Valley Galeria",
+    "enemy": "Blood Eagles"
   }
 }

@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-15T14:06:32.779Z",
+  "fetchedAt": "2026-07-15T19:33:52.090Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": "Plan: Dynamite Gold Plan: Gauss pistol Gold Plan: Floater gnasher grenade Gold Plan: Resistant lining Secret Service underarmor Gold Plan: Scavenged solar panel Gold Plan: Strangler heart chest piece Gold Plan: Strangler heart helmet Gold Plan: Strangler heart left arm Gold Plan: Strangler heart left leg Gold Plan: Strangler heart right arm Gold Plan: Strangler heart right leg Gold Plan: Treated lining Secret Service underarmor Gold Plan: Sole Survivor Gold Plan: Grocer's Backpack Mod Gold Plan: X-01 Scorched Paint Gold",
+  "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Eat Dog Food (5)",
+      "title": "1ˢᵗ Build a Turret or Trap in a Workshop or C.A.M.P. (3)",
       "score": 250
     },
     {
@@ -14,40 +14,28 @@
       "score": 1000
     },
     {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "08.05.2026",
-      "score": 28
-    },
-    {
-      "title": "11.11.2025",
-      "score": 12
-    },
-    {
-      "title": "23.06.2026",
-      "score": 10
-    },
-    {
-      "title": "Complete an Event",
+      "title": "Collect Pre-war Food (5)",
       "score": 250
     },
     {
-      "title": "08.04.2026",
-      "score": 36
+      "title": "14.03.2025",
+      "score": 14
     },
     {
       "title": "07.07.2026",
       "score": 2
     },
     {
-      "title": "Kill a Creature while in a Team (10)",
+      "title": "Eat Pre-war Food (5)",
       "score": 250
     },
     {
-      "title": "08.04.2026",
-      "score": 36
+      "title": "Kill a Human Enemy (10)",
+      "score": 250
+    },
+    {
+      "title": "Scrap Pre-War Money (5)",
+      "score": 250
     }
   ],
   "weekly": [
@@ -98,6 +86,10 @@
     {
       "title": "Tu, 14th Jul 2026 (12:00) - Tu, 21st Jul 2026 (12:00)",
       "score": 6
+    },
+    {
+      "title": "Tu, 21st Jul 2026 (12:00) - Tu, 4th Aug 2026 (12:00)",
+      "score": 10
     }
   ]
 }
