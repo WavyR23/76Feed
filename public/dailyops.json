@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-16T14:18:30.321Z",
+  "fetchedAt": "2026-07-16T19:32:27.459Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Valley Galeria",
-    "enemy": "Blood Eagles"
+    "location": null,
+    "enemy": null
   }
 }
