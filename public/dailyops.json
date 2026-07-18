@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-18T13:44:43.634Z",
+  "fetchedAt": "2026-07-18T19:22:02.054Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Uncanny Caverns",
-    "enemy": "Blood Eagles"
+    "location": null,
+    "enemy": null
   }
 }
