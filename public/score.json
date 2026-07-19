@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-19T08:31:41.560Z",
+  "fetchedAt": "2026-07-19T13:49:55.848Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
@@ -89,11 +89,15 @@
     },
     {
       "title": "Tu, 14th Jul 2026 (12:00) - Tu, 21st Jul 2026 (12:00)",
-      "score": 6
+      "score": 7
+    },
+    {
+      "title": "Mo, 20th Jul 2026 (12:00) - We, 22nd Jul 2026 (12:00)",
+      "score": 1
     },
     {
       "title": "Tu, 21st Jul 2026 (12:00) - Tu, 4th Aug 2026 (12:00)",
-      "score": 12
+      "score": 13
     }
   ]
 }
