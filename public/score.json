@@ -1,45 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-20T14:31:27.605Z",
+  "fetchedAt": "2026-07-20T19:54:25.791Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "22.05.2023",
-      "score": 6
-    },
-    {
-      "title": "11.11.2025",
-      "score": 12
+      "title": "1ˢᵗ Build a Decoration in a Shelter (5)",
+      "score": 250
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "30.12.2025",
-      "score": 13
-    },
-    {
-      "title": "Complete a Daily Quest",
+      "title": "Complete an Event",
       "score": 250
     },
     {
-      "title": "Craft or Scrap a Ranged Weapon (5)",
+      "title": "Craft or Scrap Armor (5)",
       "score": 250
     },
     {
-      "title": "Kill a Feral Ghoul (10)",
+      "title": "Cripple a Protectron or a Robobrain's Arm (2)",
       "score": 250
     },
     {
-      "title": "05.04.2026",
-      "score": 5
+      "title": "Kill a Scorched (10)",
+      "score": 250
     },
     {
-      "title": "Mod a Weapon (3)",
+      "title": "Mod a piece of Armor (5)",
       "score": 250
+    },
+    {
+      "title": "09.01.2024",
+      "score": 6
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
     }
   ],
   "weekly": [
@@ -96,8 +96,8 @@
       "score": 1
     },
     {
-      "title": "Tu, 21st Jul 2026 (12:00) - Tu, 4th Aug 2026 (12:00)",
-      "score": 14
+      "title": "Tu, 21st Jul 2026 (10:00)",
+      "score": 2
     }
   ]
 }
