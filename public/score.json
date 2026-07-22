@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-22T14:19:01.270Z",
+  "fetchedAt": "2026-07-22T19:40:32.299Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
@@ -14,52 +14,28 @@
       "score": 1000
     },
     {
-      "title": "Collect Mothman Eggs (3)",
+      "title": "30.12.2025",
+      "score": 13
+    },
+    {
+      "title": "Collect any flavor of Nuka-Cola (5)",
       "score": 250
     },
     {
-      "title": "14.12.2025",
-      "score": 8
-    },
-    {
-      "title": "06.08.2024",
-      "score": 4
-    },
-    {
-      "title": "26.10.2023",
-      "score": 8
-    },
-    {
-      "title": "23.06.2026",
-      "score": 10
-    },
-    {
-      "title": "05.07.2026",
-      "score": 3
-    },
-    {
-      "title": "05.07.2026",
-      "score": 5
-    },
-    {
-      "title": "Eat a Cooked Meal (10)",
+      "title": "Drink Nuka-Cola (3)",
       "score": 250
     },
     {
-      "title": "03.01.2024",
+      "title": "Kill a Feral Ghoul (10)",
+      "score": 250
+    },
+    {
+      "title": "Kill a Scorched (10)",
+      "score": 250
+    },
+    {
+      "title": "22.05.2023",
       "score": 6
-    },
-    {
-      "title": "05.04.2026",
-      "score": 5
-    },
-    {
-      "title": "08.07.2026",
-      "score": 5
-    },
-    {
-      "title": "Sell Mothman Egg Omelette to an NPC vendor",
-      "score": 250
     }
   ],
   "weekly": [
@@ -172,16 +148,16 @@
       "score": 6
     },
     {
-      "title": "Mo, 20th Jul 2026 (12:00) - We, 22nd Jul 2026 (12:00)",
-      "score": 1
-    },
-    {
       "title": "Tu, 21st Jul 2026 (12:00) - Tu, 4th Aug 2026 (12:00)",
       "score": 17
     },
     {
       "title": "Th, 23rd Jul 2026 (12:00) - Mo, 27th Jul 2026 (12:00)",
       "score": 4
+    },
+    {
+      "title": "Tu, 28th Jul 2026 (12:00) - Tu, 11th Aug 2026 (12:00)",
+      "score": 8
     }
   ]
 }
