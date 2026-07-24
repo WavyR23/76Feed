@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-24T14:08:24.114Z",
+  "fetchedAt": "2026-07-24T19:44:01.653Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Build a Decoration in a Workshop or C.A.M.P. (5)",
+      "title": "1ˢᵗ Drink Tea",
       "score": 250
     },
     {
@@ -14,32 +14,36 @@
       "score": 1000
     },
     {
-      "title": "25.01.2024",
-      "score": 3
+      "title": "Build a Bed, Table, or Stairs in a Workshop or C.A.M.P. (3)",
+      "score": 250
     },
     {
-      "title": "17.12.2025",
+      "title": "14.03.2025",
+      "score": 14
+    },
+    {
+      "title": "Craft or Scrap a piece of Power Armor",
+      "score": 250
+    },
+    {
+      "title": "Cripple a Ghoul's Leg (2)",
+      "score": 250
+    },
+    {
+      "title": "14.02.2024",
       "score": 7
     },
     {
-      "title": "21.04.2026",
-      "score": 6
+      "title": "30.12.2025",
+      "score": 3
     },
     {
-      "title": "Destroy a Robot (10)",
-      "score": 250
+      "title": "03.04.2026",
+      "score": 4
     },
     {
-      "title": "Drink Purified Water (2)",
-      "score": 250
-    },
-    {
-      "title": "03.07.2026",
+      "title": "19.01.2026",
       "score": 5
-    },
-    {
-      "title": "11.11.2025",
-      "score": 12
     }
   ],
   "weekly": [
