@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-25T13:59:04.661Z",
+  "fetchedAt": "2026-07-25T19:31:56.149Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Drink Tea",
+      "title": "1ˢᵗ Eat Dog Food (5)",
       "score": 250
     },
     {
@@ -14,35 +14,27 @@
       "score": 1000
     },
     {
-      "title": "Build a Bed, Table, or Stairs in a Workshop or C.A.M.P. (3)",
+      "title": "Build a Decoration in a Workshop or C.A.M.P. in Free Cam (5)",
       "score": 250
     },
     {
-      "title": "14.03.2025",
-      "score": 14
-    },
-    {
-      "title": "Craft or Scrap a piece of Power Armor",
+      "title": "Collect RadAway or Rad-X (5)",
       "score": 250
     },
     {
-      "title": "Cripple a Ghoul's Leg (2)",
+      "title": "Craft Ammo at a Workbench (50)",
       "score": 250
     },
     {
-      "title": "14.02.2024",
-      "score": 7
+      "title": "Cripple a Protectron or a Robobrain's Arm (2)",
+      "score": 250
     },
     {
-      "title": "30.12.2025",
-      "score": 3
+      "title": "07.12.2024",
+      "score": 23
     },
     {
-      "title": "03.04.2026",
-      "score": 4
-    },
-    {
-      "title": "19.01.2026",
+      "title": "05.04.2026",
       "score": 5
     }
   ],
