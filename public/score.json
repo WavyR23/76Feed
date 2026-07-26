@@ -1,41 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-26T13:53:07.255Z",
+  "fetchedAt": "2026-07-26T19:31:45.468Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Eat Dog Food (5)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 5
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Build a Decoration in a Workshop or C.A.M.P. in Free Cam (5)",
+      "title": "Consume a \"Vintage\" Alcoholic Beverage",
       "score": 250
     },
     {
-      "title": "Collect RadAway or Rad-X (5)",
+      "title": "Consume any Chems (3)",
       "score": 250
     },
     {
-      "title": "Craft Ammo at a Workbench (50)",
+      "title": "Eat a Cake, Pie, or Candy (5)",
       "score": 250
     },
     {
-      "title": "Cripple a Protectron or a Robobrain's Arm (2)",
+      "title": "Kill a Mole Miner (10)",
       "score": 250
     },
     {
-      "title": "07.12.2024",
-      "score": 23
+      "title": "26.10.2023",
+      "score": 8
     },
     {
-      "title": "05.04.2026",
+      "title": "19.01.2026",
       "score": 5
+    },
+    {
+      "title": "21.06.2025",
+      "score": 7
     }
   ],
   "weekly": [
