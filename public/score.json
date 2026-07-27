@@ -1,45 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-27T15:10:03.233Z",
+  "fetchedAt": "2026-07-27T19:51:33.331Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": null,
+  "weeklyTimeLeft": "Offers from List 17ShowPlan: Cattle prod188 Gold Plan: Farmable dirt tiles375 Gold Plan: Gauss minigun gunner sights38 Gold Plan: Gauss minigun Tesla capacitor75 Gold Plan: Gauss minigun Tesla dynamo75 Gold Plan: Secret Service chest piece938 Gold Plan: Secret Service helmet1238 Gold Plan: Secret Service left arm563 Gold Plan: Secret Service left leg563 Gold Plan: Secret Service right arm563 Gold Plan: Secret Service right leg563 Gold Plan: Super reactor1500 Gold Plan: Sympto-Matic1500 Gold Plan: War glaive2000 Gold Plan: Chemist's Backpack Mod263 Gold Offers from List 18ShowPlan: Dynamite75 Gold Plan: Gauss pistol188 Gold Plan: Floater gnasher grenade113 Gold Plan: Resistant lining Secret Service underarmor75 Gold Plan: Scavenged solar panel1500 Gold Plan: Strangler heart chest piece938 Gold Plan: Strangler heart helmet1238 Gold Plan: Strangler heart left arm750 Gold Plan: Strangler heart left leg750 Gold Plan: Strangler heart right arm750 Gold Plan: Strangler heart right leg750 Gold Plan: Treated lining Secret Service underarmor38 Gold Plan: Sole Survivor1333 Gold Plan: Grocer's Backpack Mod263 Gold Plan: X-01 Scorched Paint1500 Gold Offers from List 19ShowPlan: Chinese stealth armor3000 Gold Plan: Chinese stealth helmet1238 Gold Plan: Gauntlet188 Gold Plan: Secret Service jet pack armor1500 Gold Plan: Secret Service pocketed armor limb188 Gold Plan: T-65 medic pump188 Gold Plan: T-65 overdrive servos563 Gold Plan: T-65 Stealth Boy563 Gold Plan: War glaive cryo blade150 Gold Plan: War glaive plasma blade150 Gold Plan: Hellfire prototype power armor paint1500 Gold Plan: Mirelurk king tube2000 Gold Plan: Secret Service Pocketed Armor Torso225 Gold Plan: Long Aquarium Signs350 Gold Plan: Atlantic Emblem500 Gold Plan: Aquarium Signs250 Gold",
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "03.08.2024",
+      "score": 8
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Consume a \"Vintage\" Alcoholic Beverage",
+      "title": "Complete an Event or Activity",
       "score": 250
     },
     {
-      "title": "Consume any Chems (3)",
+      "title": "Drink Nuka-Cola Cranberry (2)",
       "score": 250
     },
     {
-      "title": "Eat a Cake, Pie, or Candy (5)",
+      "title": "Eat a Vegetable (10)",
       "score": 250
     },
     {
-      "title": "Kill a Mole Miner (10)",
+      "title": "Harvest Corn, Razorgrain, or a Tato Plant (12)",
       "score": 250
     },
     {
-      "title": "26.10.2023",
-      "score": 8
+      "title": "11.11.2025",
+      "score": 12
     },
     {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "21.06.2025",
-      "score": 7
+      "title": "Sell Glowing Fungus Soup to an NPC vendor",
+      "score": 250
     }
   ],
   "weekly": [
@@ -160,12 +156,12 @@
       "score": 17
     },
     {
-      "title": "Th, 23rd Jul 2026 (12:00) - Mo, 27th Jul 2026 (12:00)",
-      "score": 7
-    },
-    {
       "title": "Tu, 28th Jul 2026 (12:00) - Tu, 11th Aug 2026 (12:00)",
       "score": 9
+    },
+    {
+      "title": "Th, 30th Jul 2026 (12:00) - Mo, 3rd Aug 2026 (12:00)",
+      "score": 2
     }
   ]
 }
