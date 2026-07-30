@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-07-30T14:28:24.588Z",
+  "fetchedAt": "2026-07-30T19:48:31.976Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": null,
-    "enemy": null
+    "location": "The Burrows",
+    "enemy": "Blood Eagles"
   }
 }
