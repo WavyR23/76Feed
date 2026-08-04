@@ -1,22 +1,22 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-04T14:36:45.112Z",
+  "fetchedAt": "2026-08-04T19:54:08.631Z",
   "source": "https://nukaknights.com/en/",
   "axolotlOfTheMonth": {
-    "month": "July 2026",
-    "name": "Scaled Axolotl",
-    "start": "Start: 7th Jul 2026 12:00",
-    "end": "End: 4th Aug 2026 11:59",
+    "month": "August 2026",
+    "name": "Striped Axolotl",
+    "start": "Start: 4th Aug 2026 12:00",
+    "end": "End: 1st Sep 2026 11:59",
     "timezone": "America/New_York",
     "description": [
-      "Only in July in the Forest & Ash Heap  Small Fish",
+      "Only in August in the Mire & Skyline Valley  Small Fish",
       "Axolotl & Map",
-      "100%",
-      "Only in July in the Forest & Ash Heap",
-      "100%",
+      "0%",
+      "Only in August in the Mire & Skyline Valley",
+      "0%",
       "Axolotl & Map",
-      "Datamining Season 26 \"Beware the Blood Moon\"",
-      "29.06.2026"
+      "Atomic Shop Update 4th August 2026",
+      "04.08.2026"
     ]
   }
 }
