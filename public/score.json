@@ -1,57 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-06T14:32:22.084Z",
+  "fetchedAt": "2026-08-07T00:13:06.288Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "19.03.2026",
-      "score": 5
+      "title": "1ˢᵗ Drink Nuka-Cola (3)",
+      "score": 500
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
-    },
-    {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "08.05.2026",
-      "score": 28
-    },
-    {
-      "title": "11.11.2025",
-      "score": 12
-    },
-    {
-      "title": "23.06.2026",
-      "score": 10
-    },
-    {
-      "title": "Collect Ballistic Ammo (20)",
-      "score": 250
+      "score": 2000
     },
     {
       "title": "28.07.2026",
       "score": 47
     },
     {
-      "title": "Cripple a Mirelurk's Limb (2)",
-      "score": 250
+      "title": "05.07.2026",
+      "score": 5
     },
     {
-      "title": "Kill a Human Enemy (10)",
-      "score": 250
+      "title": "Destroy a Robot (10)",
+      "score": 500
     },
     {
-      "title": "22.05.2023",
-      "score": 6
+      "title": "05.07.2026",
+      "score": 5
     },
     {
-      "title": "11.11.2025",
-      "score": 12
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "Use Photomode while in a Team",
+      "score": 500
     }
   ],
   "weekly": [
@@ -101,7 +85,7 @@
     },
     {
       "title": "05.08.2026",
-      "score": 4
+      "score": 5
     },
     {
       "title": "19.01.2026",

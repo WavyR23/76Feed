@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-06T14:32:22.084Z",
+  "fetchedAt": "2026-08-07T00:13:06.288Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": null,
-    "enemy": null
+    "location": "Valley Galeria",
+    "enemy": "Robots"
   }
 }
