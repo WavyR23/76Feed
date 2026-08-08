@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-08T13:09:37.027Z",
+  "fetchedAt": "2026-08-08T18:55:16.153Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "Vault 96",
-    "enemy": "Super Mutants"
+    "location": "The Burning Mine",
+    "enemy": "Blood Eagles"
   }
 }

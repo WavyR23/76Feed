@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-08T13:09:37.027Z",
+  "fetchedAt": "2026-08-08T18:55:16.153Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Gauss minigun563 Gold Plan: Gauss pistol aligned short barrel113 Gold Plan: Gauss Pistol Drum Magazine75 Gold Plan: Gauss pistol refined receiver150 Gold Plan: Protective lining Secret Service underarmor113 Gold Plan: Shielded lining Secret Service underarmor150 Gold Plan: Thorn armor chest piece750 Gold Plan: Thorn armor left arm563 Gold Plan: Thorn armor left leg563 Gold Plan: Thorn armor right arm563 Gold Plan: Thorn armor right leg563 Gold Plan: Mechanic's Best Friend1333 Gold Plan: Medium supply crate1000 Gold Plan: Intergalactic Handmade Skin250 Gold",
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "1ˢᵗ Drink Nuka-Cherry (2)",
+      "score": 500
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
@@ -18,24 +18,32 @@
       "score": 47
     },
     {
-      "title": "05.04.2026",
+      "title": "Cook a Meal with Plants or Fungi (5)",
+      "score": 500
+    },
+    {
+      "title": "Craft or Scrap a Ranged Weapon (5)",
+      "score": 500
+    },
+    {
+      "title": "Harvest a Wild Plant or Fungi (12)",
+      "score": 500
+    },
+    {
+      "title": "14.02.2024",
+      "score": 7
+    },
+    {
+      "title": "30.12.2025",
+      "score": 3
+    },
+    {
+      "title": "03.04.2026",
       "score": 4
     },
     {
-      "title": "Eat a Vegetable (10)",
-      "score": 500
-    },
-    {
-      "title": "Harvest Corn, Razorgrain, or a Tato Plant (12)",
-      "score": 500
-    },
-    {
-      "title": "Kill a Feral Ghoul (10)",
-      "score": 500
-    },
-    {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "09.01.2024",
+      "score": 6
     }
   ],
   "weekly": [
