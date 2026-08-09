@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-09T13:12:28.253Z",
+  "fetchedAt": "2026-08-09T18:58:22.321Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
     "mode": null,
     "mutations": [],
-    "location": "The Burning Mine",
-    "enemy": "Blood Eagles"
+    "location": null,
+    "enemy": null
   }
 }
