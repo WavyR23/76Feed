@@ -1,12 +1,15 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-12T07:48:19.314Z",
+  "fetchedAt": "2026-08-12T13:42:03.069Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
     "timezone": null,
-    "mode": null,
-    "mutations": [],
+    "mode": "Uplink",
+    "mutations": [
+      "Decryption",
+      "Mutation"
+    ],
     "location": null,
     "enemy": null
   }
