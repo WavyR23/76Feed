@@ -1,10 +1,18 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-12T13:42:03.069Z",
+  "fetchedAt": "2026-08-12T19:17:11.055Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": "Plan: Gauss minigun563 Gold Plan: Gauss pistol aligned short barrel113 Gold Plan: Gauss Pistol Drum Magazine75 Gold Plan: Gauss pistol refined receiver150 Gold Plan: Protective lining Secret Service underarmor113 Gold Plan: Shielded lining Secret Service underarmor150 Gold Plan: Thorn armor chest piece750 Gold Plan: Thorn armor left arm563 Gold Plan: Thorn armor left leg563 Gold Plan: Thorn armor right arm563 Gold Plan: Thorn armor right leg563 Gold Plan: Mechanic's Best Friend1333 Gold Plan: Medium supply crate1000 Gold Plan: Intergalactic Handmade Skin250 Gold",
+  "weeklyTimeLeft": null,
   "daily": [
+    {
+      "title": "08.04.2026",
+      "score": 36
+    },
+    {
+      "title": "Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
     {
       "title": "08.04.2026",
       "score": 36
@@ -14,40 +22,32 @@
       "score": 28
     },
     {
+      "title": "11.11.2025",
+      "score": 12
+    },
+    {
       "title": "23.06.2026",
       "score": 10
     },
     {
-      "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
+      "title": "14.03.2025",
+      "score": 14
     },
     {
-      "title": "Complete a Daily Quest",
+      "title": "08.04.2026",
+      "score": 36
+    },
+    {
+      "title": "Cripple a Mirelurk's Limb (2)",
       "score": 250
     },
     {
-      "title": "Kill a Canine (5)",
-      "score": 250
+      "title": "11.11.2025",
+      "score": 12
     },
     {
-      "title": "03.01.2024",
-      "score": 6
-    },
-    {
-      "title": "03.07.2026",
-      "score": 4
-    },
-    {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "22.05.2023",
-      "score": 6
-    },
-    {
-      "title": "Use Photomode to Take a Photo",
-      "score": 250
+      "title": "08.04.2026",
+      "score": 36
     }
   ],
   "weekly": [
@@ -104,12 +104,12 @@
       "score": 6
     },
     {
-      "title": "Mo, 10th Aug 2026 (12:00) - We, 12th Aug 2026 (12:00)",
-      "score": 1
-    },
-    {
       "title": "Th, 13th Aug 2026 (12:00) - Mo, 17th Aug 2026 (12:00)",
       "score": 5
+    },
+    {
+      "title": "Tu, 18th Aug 2026 (12:00) - Tu, 1st Sep 2026 (12:00)",
+      "score": 6
     }
   ]
 }
