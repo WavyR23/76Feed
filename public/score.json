@@ -1,55 +1,10 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-13T13:42:55.749Z",
+  "fetchedAt": "2026-08-13T19:16:48.167Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [
-    {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
-    },
-    {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "08.05.2026",
-      "score": 28
-    },
-    {
-      "title": "11.11.2025",
-      "score": 12
-    },
-    {
-      "title": "23.06.2026",
-      "score": 10
-    },
-    {
-      "title": "14.03.2025",
-      "score": 14
-    },
-    {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "Cripple a Mirelurk's Limb (2)",
-      "score": 250
-    },
-    {
-      "title": "11.11.2025",
-      "score": 12
-    },
-    {
-      "title": "08.04.2026",
-      "score": 36
-    }
-  ],
+  "daily": [],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
