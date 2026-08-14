@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-14T13:37:42.262Z",
+  "fetchedAt": "2026-08-14T19:11:01.385Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Sell a Ski Sword to an NPC vendor",
+      "title": "1ˢᵗ Collect Caps (250)",
       "score": 250
     },
     {
@@ -30,32 +30,24 @@
       "score": 10
     },
     {
-      "title": "17.12.2025",
-      "score": 7
+      "title": "26.10.2023",
+      "score": 9
     },
     {
-      "title": "21.04.2026",
-      "score": 6
+      "title": "07.12.2024",
+      "score": 23
     },
     {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "09.08.2026",
-      "score": 4
+      "title": "26.10.2023",
+      "score": 9
     },
     {
       "title": "11.11.2025",
       "score": 12
     },
     {
-      "title": "22.05.2023",
-      "score": 6
-    },
-    {
-      "title": "11.11.2025",
-      "score": 12
+      "title": "19.01.2026",
+      "score": 5
     }
   ],
   "weekly": [

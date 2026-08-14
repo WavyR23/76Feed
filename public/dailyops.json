@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-14T13:37:42.262Z",
+  "fetchedAt": "2026-08-14T19:11:01.385Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
@@ -10,7 +10,7 @@
       "Decryption",
       "Mutation"
     ],
-    "location": "Charleston Capitol Building",
-    "enemy": "Super Mutants"
+    "location": null,
+    "enemy": null
   }
 }
