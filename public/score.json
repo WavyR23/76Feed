@@ -1,55 +1,10 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-15T12:56:26.509Z",
+  "fetchedAt": "2026-08-15T18:45:27.941Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [
-    {
-      "title": "1ˢᵗ Collect Caps (250)",
-      "score": 250
-    },
-    {
-      "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
-    },
-    {
-      "title": "08.04.2026",
-      "score": 36
-    },
-    {
-      "title": "08.05.2026",
-      "score": 28
-    },
-    {
-      "title": "11.11.2025",
-      "score": 12
-    },
-    {
-      "title": "23.06.2026",
-      "score": 10
-    },
-    {
-      "title": "26.10.2023",
-      "score": 9
-    },
-    {
-      "title": "07.12.2024",
-      "score": 23
-    },
-    {
-      "title": "26.10.2023",
-      "score": 9
-    },
-    {
-      "title": "11.11.2025",
-      "score": 12
-    },
-    {
-      "title": "19.01.2026",
-      "score": 5
-    }
-  ],
+  "daily": [],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
