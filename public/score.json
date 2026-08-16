@@ -1,10 +1,55 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-15T18:45:27.941Z",
+  "fetchedAt": "2026-08-16T01:54:54.187Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [],
+  "daily": [
+    {
+      "title": "17.03.2026",
+      "score": 12
+    },
+    {
+      "title": "Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
+    {
+      "title": "08.04.2026",
+      "score": 36
+    },
+    {
+      "title": "08.05.2026",
+      "score": 28
+    },
+    {
+      "title": "11.11.2025",
+      "score": 12
+    },
+    {
+      "title": "23.06.2026",
+      "score": 10
+    },
+    {
+      "title": "16.01.2026",
+      "score": 3
+    },
+    {
+      "title": "Complete an Event or Activity",
+      "score": 250
+    },
+    {
+      "title": "11.11.2025",
+      "score": 12
+    },
+    {
+      "title": "11.11.2025",
+      "score": 12
+    },
+    {
+      "title": "23.04.2026",
+      "score": 10
+    }
+  ],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
