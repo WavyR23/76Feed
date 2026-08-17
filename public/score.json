@@ -1,40 +1,40 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-17T13:03:10.070Z",
+  "fetchedAt": "2026-08-17T18:54:57.253Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Chew some Bubblegum",
-      "score": 250
+      "title": "05.08.2026",
+      "score": 5
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Build light sources in a Workshop or C.A.M.P. (3)",
+      "title": "Build a Bed, Table, or Stairs in a Workshop or C.A.M.P. (3)",
       "score": 250
     },
     {
-      "title": "14.03.2025",
-      "score": 14
-    },
-    {
-      "title": "Cook Roasted Mirelurk Meat (3)",
+      "title": "Craft a Grenade, Mine, or Thrown Weapon (5)",
       "score": 250
     },
     {
-      "title": "Destroy a Robot (10)",
+      "title": "Craft any Chems (2)",
       "score": 250
     },
     {
-      "title": "11.11.2025",
-      "score": 12
+      "title": "07.07.2026",
+      "score": 3
     },
     {
-      "title": "Use Photomode to Take a Photo at Nuka-World On Tour",
+      "title": "14.12.2025",
+      "score": 8
+    },
+    {
+      "title": "Use Photomode in your own C.A.M.P.",
       "score": 250
     }
   ],
@@ -92,12 +92,12 @@
       "score": 6
     },
     {
-      "title": "Th, 13th Aug 2026 (12:00) - Mo, 17th Aug 2026 (12:00)",
-      "score": 5
-    },
-    {
       "title": "Tu, 18th Aug 2026 (12:00) - Tu, 1st Sep 2026 (12:00)",
       "score": 7
+    },
+    {
+      "title": "Th, 20th Aug 2026 (12:00) - Mo, 24th Aug 2026 (12:00)",
+      "score": 1
     }
   ]
 }
