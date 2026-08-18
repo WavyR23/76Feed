@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-18T13:05:17.373Z",
+  "fetchedAt": "2026-08-18T18:53:46.319Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
@@ -10,7 +10,7 @@
       "Decryption",
       "Mutation"
     ],
-    "location": "Vault 94",
-    "enemy": "Robots"
+    "location": null,
+    "enemy": null
   }
 }
