@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-20T13:08:29.225Z",
+  "fetchedAt": "2026-08-20T18:55:56.628Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Gauss minigun563 Gold Plan: Crusader pistol2000 Gold Plan: Meat bag stash box750 Gold Plan: Wendigo tube1500 Gold Plan: Arctic marine armor helmet2000 Gold Plan: Arctic marine left arm1000 Gold Plan: Arctic marine left leg1000 Gold Plan: Arctic marine right arm1000 Gold Plan: Arctic marine right leg1000 Gold Plan: Arctic marine torso1500 Gold Plan: Brotherhood of Steel minigun paint1000 Gold Plan: Slocum Joe's power armor paint1500 Gold Plan: Alien Backpack375 Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Craft Bulk Steel",
+      "title": "1ˢᵗ Collect Energy Ammo (10)",
       "score": 250
     },
     {
@@ -18,32 +18,24 @@
       "score": 30
     },
     {
-      "title": "20.10.2025",
+      "title": "Craft Ballistic Ammo (25)",
+      "score": 250
+    },
+    {
+      "title": "Craft or Scrap Armor (5)",
+      "score": 250
+    },
+    {
+      "title": "Kill a Canine (5)",
+      "score": 250
+    },
+    {
+      "title": "23.04.2026",
       "score": 10
     },
     {
-      "title": "Craft an Alcoholic Beverage",
+      "title": "Use Photomode in a Teammate's C.A.M.P.",
       "score": 250
-    },
-    {
-      "title": "Cripple a Protectron or a Robobrain's Arm (2)",
-      "score": 250
-    },
-    {
-      "title": "03.01.2024",
-      "score": 6
-    },
-    {
-      "title": "05.04.2026",
-      "score": 5
-    },
-    {
-      "title": "22.05.2023",
-      "score": 6
-    },
-    {
-      "title": "19.08.2026",
-      "score": 30
     }
   ],
   "weekly": [
