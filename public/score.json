@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-23T12:59:16.045Z",
+  "fetchedAt": "2026-08-23T18:45:58.339Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Gauss minigun563 Gold Plan: Crusader pistol2000 Gold Plan: Meat bag stash box750 Gold Plan: Wendigo tube1500 Gold Plan: Arctic marine armor helmet2000 Gold Plan: Arctic marine left arm1000 Gold Plan: Arctic marine left leg1000 Gold Plan: Arctic marine right arm1000 Gold Plan: Arctic marine right leg1000 Gold Plan: Arctic marine torso1500 Gold Plan: Brotherhood of Steel minigun paint1000 Gold Plan: Slocum Joe's power armor paint1500 Gold Plan: Alien Backpack375 Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Kill a Mutant Hound (3)",
+      "title": "1ˢᵗ Plant a Crop in a Workshop or C.A.M.P. (5)",
       "score": 250
     },
     {
@@ -14,28 +14,32 @@
       "score": 1000
     },
     {
-      "title": "Collect Brain Fungus (5)",
+      "title": "Collect a Fuel Tank or Gas Canister (2)",
       "score": 250
     },
     {
       "title": "19.08.2026",
-      "score": 30
+      "score": 31
     },
     {
-      "title": "Cook Brain Fungus Soup",
+      "title": "Deal a Critical Hit to an Enemy in VATS (5)",
       "score": 250
     },
     {
-      "title": "Destroy a Robot (10)",
+      "title": "07.07.2026",
+      "score": 3
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
+    },
+    {
+      "title": "19.08.2026",
+      "score": 31
+    },
+    {
+      "title": "Visit another Player's Shelter",
       "score": 250
-    },
-    {
-      "title": "15.08.2024",
-      "score": 5
-    },
-    {
-      "title": "19.01.2026",
-      "score": 5
     }
   ],
   "weekly": [
@@ -61,7 +65,7 @@
     },
     {
       "title": "19.08.2026",
-      "score": 30
+      "score": 31
     },
     {
       "title": "Drink Nuka-Grape (5)",
