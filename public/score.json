@@ -1,10 +1,47 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-25T13:08:41.493Z",
+  "fetchedAt": "2026-08-25T18:54:37.852Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Gauss minigun563 Gold Plan: Crusader pistol2000 Gold Plan: Meat bag stash box750 Gold Plan: Wendigo tube1500 Gold Plan: Arctic marine armor helmet2000 Gold Plan: Arctic marine left arm1000 Gold Plan: Arctic marine left leg1000 Gold Plan: Arctic marine right arm1000 Gold Plan: Arctic marine right leg1000 Gold Plan: Arctic marine torso1500 Gold Plan: Brotherhood of Steel minigun paint1000 Gold Plan: Slocum Joe's power armor paint1500 Gold Plan: Alien Backpack375 Gold",
-  "daily": [],
+  "daily": [
+    {
+      "title": "1ˢᵗ Visit your Shelter",
+      "score": 250
+    },
+    {
+      "title": "Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
+    {
+      "title": "31.05.2024",
+      "score": 5
+    },
+    {
+      "title": "19.08.2026",
+      "score": 31
+    },
+    {
+      "title": "09.08.2026",
+      "score": 6
+    },
+    {
+      "title": "21.01.2026",
+      "score": 4
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
+    },
+    {
+      "title": "19.08.2026",
+      "score": 31
+    }
+  ],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
@@ -19,31 +56,39 @@
       "score": 300
     },
     {
-      "title": "Collect Purified Water (25)",
+      "title": "Complete an Event or Activity (3)",
       "score": 1000
     },
     {
-      "title": "Collect any flavor of Nuka-Cola (20)",
+      "title": "Drink Nuka-Cola Quantum (5)",
       "score": 1000
     },
     {
-      "title": "19.08.2026",
-      "score": 31
-    },
-    {
-      "title": "Drink Nuka-Grape (5)",
+      "title": "Drink Purified Water (15)",
       "score": 1000
     },
     {
-      "title": "Drink Nuka-Orange (5)",
-      "score": 1000
-    },
-    {
-      "title": "21.01.2026",
-      "score": 4
+      "title": "07.07.2026",
+      "score": 3
     },
     {
       "title": "09.08.2026",
+      "score": 6
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "21.06.2025",
+      "score": 7
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "31.05.2024",
       "score": 5
     },
     {
@@ -51,8 +96,8 @@
       "score": 5
     },
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "Visit another Player's Shelter (5)",
+      "score": 1000
     },
     {
       "title": "Tu, 18th Aug 2026 (12:00) - Tu, 1st Sep 2026 (12:00)",
@@ -60,7 +105,7 @@
     },
     {
       "title": "Th, 27th Aug 2026 (12:00) - Mo, 31st Aug 2026 (12:00)",
-      "score": 1
+      "score": 2
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-25T13:08:41.493Z",
+  "fetchedAt": "2026-08-25T18:54:37.852Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
@@ -10,7 +10,7 @@
       "Decryption",
       "Mutation"
     ],
-    "location": "Valley Galeria",
-    "enemy": "Super Mutants"
+    "location": "Morgantown High School",
+    "enemy": "Robots"
   }
 }
