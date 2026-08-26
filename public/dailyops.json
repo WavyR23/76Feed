@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-26T13:13:08.461Z",
+  "fetchedAt": "2026-08-26T20:00:39.586Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
@@ -10,7 +10,7 @@
       "Decryption",
       "Mutation"
     ],
-    "location": "Morgantown High School",
-    "enemy": "Robots"
+    "location": "Glassed Cavern",
+    "enemy": "Blood Eagles"
   }
 }
