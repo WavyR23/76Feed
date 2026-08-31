@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-31T13:41:28.588Z",
+  "fetchedAt": "2026-08-31T22:47:29.630Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Offers from List 21ShowPlan: Gauss minigun563 Gold Plan: Gauss pistol aligned short barrel113 Gold Plan: Gauss Pistol Drum Magazine75 Gold Plan: Gauss pistol refined receiver150 Gold Plan: Protective lining Secret Service underarmor113 Gold Plan: Shielded lining Secret Service underarmor150 Gold Plan: Thorn armor chest piece750 Gold Plan: Thorn armor left arm563 Gold Plan: Thorn armor left leg563 Gold Plan: Thorn armor right arm563 Gold Plan: Thorn armor right leg563 Gold Plan: Mechanic's Best Friend1333 Gold Plan: Medium supply crate1000 Gold Plan: Intergalactic Handmade Skin250 Gold Offers from List 22ShowPlan: Lighter build Secret Service armor limbs188 Gold Plan: Plasma caster563 Gold Plan: Secret Service underarmor188 Gold Plan: T-65 calibrated shocks563 Gold Plan: T-65 rusty knuckles188 Gold Plan: T-65 jet pack1500 Gold Plan: The Gutter1000 Gold Plan: Ultra-light build Secret Service armor limbs375 Gold Plan: War glaive flaming blade150 Gold Plan: War glaive shock blade150 Gold Plan: Water well563 Gold Plan: Whistle in the Dark1000 Gold Plan: Hot Rod Flames Handmade Skin350 Gold Offers from List 23ShowPlan: Gauss minigun563 Gold Plan: Crusader pistol2000 Gold Plan: Meat bag stash box750 Gold Plan: Wendigo tube1500 Gold Plan: Arctic marine armor helmet2000 Gold Plan: Arctic marine left arm1000 Gold Plan: Arctic marine left leg1000 Gold Plan: Arctic marine right arm1000 Gold Plan: Arctic marine right leg1000 Gold Plan: Arctic marine torso1500 Gold Plan: Brotherhood of Steel minigun paint1000 Gold Plan: Slocum Joe's power armor paint1500 Gold Plan: Alien Backpack375 Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Nuka-Twist (2)",
+      "title": "1ˢᵗ Craft Energy Ammo (15)",
       "score": 250
     },
     {
@@ -18,15 +18,11 @@
       "score": 31
     },
     {
-      "title": "09.08.2026",
-      "score": 5
-    },
-    {
-      "title": "Eat a Plant-based Meal (10)",
+      "title": "Deal a Critical Hit to an Enemy using Automatic Weapons in VATS (5)",
       "score": 250
     },
     {
-      "title": "Kill a Mutant Hound (3)",
+      "title": "Kill a Brahmin (2)",
       "score": 250
     },
     {
@@ -34,12 +30,20 @@
       "score": 5
     },
     {
+      "title": "24.10.2025",
+      "score": 3
+    },
+    {
+      "title": "Scrap junk to produce Rubber (5)",
+      "score": 250
+    },
+    {
       "title": "22.05.2023",
       "score": 6
     },
     {
-      "title": "11.11.2025",
-      "score": 13
+      "title": "19.08.2026",
+      "score": 31
     }
   ],
   "weekly": [
@@ -104,12 +108,12 @@
       "score": 11
     },
     {
-      "title": "Th, 27th Aug 2026 (12:00) - Mo, 31st Aug 2026 (12:00)",
-      "score": 3
-    },
-    {
       "title": "Th, 3rd Sep 2026 (12:00) - Mo, 7th Sep 2026 (12:00)",
       "score": 5
+    },
+    {
+      "title": "Tu, 8th Sep 2026 (12:00) - Tu, 22nd Sep 2026 (12:00)",
+      "score": 9
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-08-31T13:41:28.588Z",
+  "fetchedAt": "2026-08-31T22:47:29.630Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
@@ -10,7 +10,7 @@
       "Decryption",
       "Mutation"
     ],
-    "location": "Vault 94",
-    "enemy": "Super Mutants"
+    "location": "West Tek",
+    "enemy": "Blood Eagles"
   }
 }
