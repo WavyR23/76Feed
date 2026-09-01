@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-01T11:34:45.720Z",
+  "fetchedAt": "2026-09-01T16:35:45.277Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
@@ -10,7 +10,7 @@
       "Decryption",
       "Mutation"
     ],
-    "location": "West Tek",
-    "enemy": "Blood Eagles"
+    "location": null,
+    "enemy": null
   }
 }
