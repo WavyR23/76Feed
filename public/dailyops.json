@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-02T11:12:55.656Z",
+  "fetchedAt": "2026-09-02T16:31:25.597Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
@@ -10,7 +10,7 @@
       "Decryption",
       "Mutation"
     ],
-    "location": null,
-    "enemy": null
+    "location": "Watoga Raider Arena",
+    "enemy": "Blood Eagles"
   }
 }
