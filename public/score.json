@@ -1,49 +1,49 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-08T11:12:30.544Z",
+  "fetchedAt": "2026-09-08T16:35:14.733Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Cattle prod188 Gold Plan: Farmable dirt tiles375 Gold Plan: Gauss minigun gunner sights38 Gold Plan: Gauss minigun Tesla capacitor75 Gold Plan: Gauss minigun Tesla dynamo75 Gold Plan: Secret Service chest piece938 Gold Plan: Secret Service helmet1238 Gold Plan: Secret Service left arm563 Gold Plan: Secret Service left leg563 Gold Plan: Secret Service right arm563 Gold Plan: Secret Service right leg563 Gold Plan: Super reactor1500 Gold Plan: Sympto-Matic1500 Gold Plan: War glaive2000 Gold Plan: Chemist's Backpack Mod263 Gold Plan: Face Breaker750 Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Cripple enemy limbs (6)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "26.02.2024",
+      "score": 5
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "14.12.2025",
-      "score": 9
-    },
-    {
-      "title": "Kill a Canine (5)",
+      "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P. in Free Cam (10)",
       "score": 250
     },
     {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "25.01.2024",
-      "score": 3
-    },
-    {
-      "title": "Sell Wolf Ribs to an NPC vendor",
+      "title": "Collect Stimpaks or Chems (5)",
       "score": 250
     },
     {
-      "title": "22.05.2023",
+      "title": "05.04.2026",
+      "score": 4
+    },
+    {
+      "title": "05.09.2024",
       "score": 6
     },
     {
-      "title": "14.12.2025",
-      "score": 9
+      "title": "Plant a Crop in a Workshop or C.A.M.P. in Free Cam (10)",
+      "score": 250
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "17.12.2025",
+      "score": 13
     }
   ],
   "weekly": [
@@ -60,48 +60,36 @@
       "score": 300
     },
     {
+      "title": "05.01.2026",
+      "score": 12
+    },
+    {
+      "title": "Collect a Board Game (4)",
+      "score": 1000
+    },
+    {
       "title": "08.04.2026",
       "score": 37
     },
     {
-      "title": "08.05.2026",
-      "score": 31
-    },
-    {
-      "title": "28.08.2026",
-      "score": 12
-    },
-    {
-      "title": "17.03.2026",
-      "score": 13
-    },
-    {
-      "title": "25.01.2024",
-      "score": 3
-    },
-    {
-      "title": "Craft any Plushie at a Tinkerer's Bench (3)",
+      "title": "Craft or Scrap Clothing, Armor or a Weapon (25)",
       "score": 1000
     },
     {
-      "title": "05.04.2026",
-      "score": 4
-    },
-    {
-      "title": "Drink Nuka-Cherry (5)",
+      "title": "Eat Pre-war Food (25)",
       "score": 1000
     },
     {
-      "title": "Kill a Human Enemy (30)",
+      "title": "14.02.2024",
+      "score": 7
+    },
+    {
+      "title": "14.12.2025",
+      "score": 9
+    },
+    {
+      "title": "Sell Pumpkin Pie to an NPC vendor",
       "score": 1000
-    },
-    {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "05.04.2026",
-      "score": 5
     },
     {
       "title": "Th, 10th Sep 2026 (12:00) - Mo, 14th Sep 2026 (12:00)",
