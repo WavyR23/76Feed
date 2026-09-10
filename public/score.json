@@ -1,10 +1,43 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-09T20:53:49.143Z",
+  "fetchedAt": "2026-09-10T04:36:41.587Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Cattle prod188 Gold Plan: Farmable dirt tiles375 Gold Plan: Gauss minigun gunner sights38 Gold Plan: Gauss minigun Tesla capacitor75 Gold Plan: Gauss minigun Tesla dynamo75 Gold Plan: Secret Service chest piece938 Gold Plan: Secret Service helmet1238 Gold Plan: Secret Service left arm563 Gold Plan: Secret Service left leg563 Gold Plan: Secret Service right arm563 Gold Plan: Secret Service right leg563 Gold Plan: Super reactor1500 Gold Plan: Sympto-Matic1500 Gold Plan: War glaive2000 Gold Plan: Chemist's Backpack Mod263 Gold Plan: Face Breaker750 Gold",
-  "daily": [],
+  "daily": [
+    {
+      "title": "1ˢᵗ Mod a piece of Armor (5)",
+      "score": 250
+    },
+    {
+      "title": "Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
+    {
+      "title": "Build a Floor, Wall, or Roof in a Shelter in Free Cam (10)",
+      "score": 250
+    },
+    {
+      "title": "Kill a Brahmin (2)",
+      "score": 250
+    },
+    {
+      "title": "Kill a Human Enemy (10)",
+      "score": 250
+    },
+    {
+      "title": "Mod an Energy Weapon",
+      "score": 250
+    },
+    {
+      "title": "22.05.2023",
+      "score": 6
+    },
+    {
+      "title": "Craft any Chems (2)",
+      "score": 250
+    }
+  ],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
