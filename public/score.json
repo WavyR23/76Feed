@@ -1,10 +1,43 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-18T16:21:02.663Z",
+  "fetchedAt": "2026-09-18T20:51:45.295Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Dynamite75 Gold Plan: Gauss pistol188 Gold Plan: Floater gnasher grenade113 Gold Plan: Resistant lining Secret Service underarmor75 Gold Plan: Scavenged solar panel1500 Gold Plan: Strangler heart chest piece938 Gold Plan: Strangler heart helmet1238 Gold Plan: Strangler heart left arm750 Gold Plan: Strangler heart left leg750 Gold Plan: Strangler heart right arm750 Gold Plan: Strangler heart right leg750 Gold Plan: Treated lining Secret Service underarmor38 Gold Plan: Grocer's Backpack Mod263 Gold Plan: Auto Grenade Launcher Blood Eagle Paint263 Gold",
-  "daily": [],
+  "daily": [
+    {
+      "title": "1ˢᵗ Collect any flavor of Nuka-Cola (5)",
+      "score": 250
+    },
+    {
+      "title": "Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
+    {
+      "title": "Collect a piece of Bone (3)",
+      "score": 250
+    },
+    {
+      "title": "Collect a tin of Cram",
+      "score": 250
+    },
+    {
+      "title": "Complete a Daily Quest",
+      "score": 250
+    },
+    {
+      "title": "Eat a tin of Cram",
+      "score": 250
+    },
+    {
+      "title": "09.01.2024",
+      "score": 6
+    },
+    {
+      "title": "17.09.2026",
+      "score": 13
+    }
+  ],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
