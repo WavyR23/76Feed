@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-19T15:50:29.721Z",
+  "fetchedAt": "2026-09-19T20:35:35.058Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Dynamite75 Gold Plan: Gauss pistol188 Gold Plan: Floater gnasher grenade113 Gold Plan: Resistant lining Secret Service underarmor75 Gold Plan: Scavenged solar panel1500 Gold Plan: Strangler heart chest piece938 Gold Plan: Strangler heart helmet1238 Gold Plan: Strangler heart left arm750 Gold Plan: Strangler heart left leg750 Gold Plan: Strangler heart right arm750 Gold Plan: Strangler heart right leg750 Gold Plan: Treated lining Secret Service underarmor38 Gold Plan: Grocer's Backpack Mod263 Gold Plan: Auto Grenade Launcher Blood Eagle Paint263 Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Collect any flavor of Nuka-Cola (5)",
+      "title": "1ˢᵗ Eat Dog Food (5)",
       "score": 250
     },
     {
@@ -14,24 +14,28 @@
       "score": 1000
     },
     {
-      "title": "24.10.2025",
-      "score": 3
-    },
-    {
-      "title": "Collect a tin of Cram",
+      "title": "Build a Decoration in a Shelter (5)",
       "score": 250
     },
     {
-      "title": "Complete a Daily Quest",
+      "title": "Collect a block of Vegetarian Ham (2)",
       "score": 250
     },
     {
-      "title": "Eat a tin of Cram",
+      "title": "Eat a block of Vegetarian Ham",
       "score": 250
     },
     {
-      "title": "09.01.2024",
-      "score": 6
+      "title": "Join a Team with another Player",
+      "score": 250
+    },
+    {
+      "title": "03.04.2026",
+      "score": 4
+    },
+    {
+      "title": "14.02.2024",
+      "score": 7
     },
     {
       "title": "17.09.2026",
@@ -93,7 +97,7 @@
     },
     {
       "title": "Th, 17th Sep 2026 (12:00) - Mo, 21st Sep 2026 (12:00)",
-      "score": 10
+      "score": 11
     },
     {
       "title": "Mo, 21st Sep 2026 (12:00) - We, 23rd Sep 2026 (12:00)",
