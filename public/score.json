@@ -1,10 +1,39 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-20T16:00:43.072Z",
+  "fetchedAt": "2026-09-20T20:45:40.050Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Dynamite75 Gold Plan: Gauss pistol188 Gold Plan: Floater gnasher grenade113 Gold Plan: Resistant lining Secret Service underarmor75 Gold Plan: Scavenged solar panel1500 Gold Plan: Strangler heart chest piece938 Gold Plan: Strangler heart helmet1238 Gold Plan: Strangler heart left arm750 Gold Plan: Strangler heart left leg750 Gold Plan: Strangler heart right arm750 Gold Plan: Strangler heart right leg750 Gold Plan: Treated lining Secret Service underarmor38 Gold Plan: Grocer's Backpack Mod263 Gold Plan: Auto Grenade Launcher Blood Eagle Paint263 Gold",
-  "daily": [],
+  "daily": [
+    {
+      "title": "1ˢᵗ Collect Purified Water (5)",
+      "score": 250
+    },
+    {
+      "title": "Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
+    {
+      "title": "Complete an Event or Activity while in a Team",
+      "score": 250
+    },
+    {
+      "title": "Consume an Alcoholic Beverage while on a Team (5)",
+      "score": 250
+    },
+    {
+      "title": "Cook a meal at a Teammate's C.A.M.P. (5)",
+      "score": 250
+    },
+    {
+      "title": "Eat a Cooked Meal in a Teammate's C.A.M.P. (5)",
+      "score": 250
+    },
+    {
+      "title": "Kill a Human while under the effects of Psycho (6)",
+      "score": 250
+    }
+  ],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
