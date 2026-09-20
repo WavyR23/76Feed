@@ -1,47 +1,10 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-20T11:17:24.792Z",
+  "fetchedAt": "2026-09-20T16:00:43.072Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Dynamite75 Gold Plan: Gauss pistol188 Gold Plan: Floater gnasher grenade113 Gold Plan: Resistant lining Secret Service underarmor75 Gold Plan: Scavenged solar panel1500 Gold Plan: Strangler heart chest piece938 Gold Plan: Strangler heart helmet1238 Gold Plan: Strangler heart left arm750 Gold Plan: Strangler heart left leg750 Gold Plan: Strangler heart right arm750 Gold Plan: Strangler heart right leg750 Gold Plan: Treated lining Secret Service underarmor38 Gold Plan: Grocer's Backpack Mod263 Gold Plan: Auto Grenade Launcher Blood Eagle Paint263 Gold",
-  "daily": [
-    {
-      "title": "1ˢᵗ Eat Dog Food (5)",
-      "score": 250
-    },
-    {
-      "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
-    },
-    {
-      "title": "Build a Decoration in a Shelter (5)",
-      "score": 250
-    },
-    {
-      "title": "Collect a block of Vegetarian Ham (2)",
-      "score": 250
-    },
-    {
-      "title": "Eat a block of Vegetarian Ham",
-      "score": 250
-    },
-    {
-      "title": "Join a Team with another Player",
-      "score": 250
-    },
-    {
-      "title": "03.04.2026",
-      "score": 4
-    },
-    {
-      "title": "14.02.2024",
-      "score": 7
-    },
-    {
-      "title": "17.09.2026",
-      "score": 13
-    }
-  ],
+  "daily": [],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
@@ -101,11 +64,11 @@
     },
     {
       "title": "Mo, 21st Sep 2026 (12:00) - We, 23rd Sep 2026 (12:00)",
-      "score": 2
+      "score": 3
     },
     {
       "title": "Th, 24th Sep 2026 (12:00) - Mo, 28th Sep 2026 (12:00)",
-      "score": 7
+      "score": 9
     }
   ]
 }
