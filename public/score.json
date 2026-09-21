@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-21T12:41:58.679Z",
+  "fetchedAt": "2026-09-21T21:56:41.529Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Dynamite75 Gold Plan: Gauss pistol188 Gold Plan: Floater gnasher grenade113 Gold Plan: Resistant lining Secret Service underarmor75 Gold Plan: Scavenged solar panel1500 Gold Plan: Strangler heart chest piece938 Gold Plan: Strangler heart helmet1238 Gold Plan: Strangler heart left arm750 Gold Plan: Strangler heart left leg750 Gold Plan: Strangler heart right arm750 Gold Plan: Strangler heart right leg750 Gold Plan: Treated lining Secret Service underarmor38 Gold Plan: Grocer's Backpack Mod263 Gold Plan: Auto Grenade Launcher Blood Eagle Paint263 Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Collect Purified Water (5)",
+      "title": "1ˢᵗ Collect Stimpaks or Chems (5)",
       "score": 250
     },
     {
@@ -14,7 +14,11 @@
       "score": 1000
     },
     {
-      "title": "Complete an Event or Activity while in a Team",
+      "title": "Build a Decoration in a Workshop or C.A.M.P. in Free Cam (5)",
+      "score": 250
+    },
+    {
+      "title": "Collect Ballistic Ammo (20)",
       "score": 250
     },
     {
@@ -22,16 +26,16 @@
       "score": 250
     },
     {
-      "title": "Cook a meal at a Teammate's C.A.M.P. (5)",
-      "score": 250
+      "title": "07.12.2024",
+      "score": 23
     },
     {
-      "title": "Eat a Cooked Meal in a Teammate's C.A.M.P. (5)",
-      "score": 250
+      "title": "05.04.2026",
+      "score": 5
     },
     {
-      "title": "Kill a Human while under the effects of Psycho (6)",
-      "score": 250
+      "title": "17.09.2026",
+      "score": 13
     }
   ],
   "weekly": [
@@ -86,10 +90,6 @@
     {
       "title": "Sell Pumpkin Pie to an NPC vendor",
       "score": 1000
-    },
-    {
-      "title": "Th, 17th Sep 2026 (12:00) - Mo, 21st Sep 2026 (12:00)",
-      "score": 11
     },
     {
       "title": "Mo, 21st Sep 2026 (12:00) - We, 23rd Sep 2026 (12:00)",
