@@ -1,96 +1,11 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-22T11:32:21.489Z",
+  "fetchedAt": "2026-09-22T16:53:46.213Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Dynamite75 Gold Plan: Gauss pistol188 Gold Plan: Floater gnasher grenade113 Gold Plan: Resistant lining Secret Service underarmor75 Gold Plan: Scavenged solar panel1500 Gold Plan: Strangler heart chest piece938 Gold Plan: Strangler heart helmet1238 Gold Plan: Strangler heart left arm750 Gold Plan: Strangler heart left leg750 Gold Plan: Strangler heart right arm750 Gold Plan: Strangler heart right leg750 Gold Plan: Treated lining Secret Service underarmor38 Gold Plan: Grocer's Backpack Mod263 Gold Plan: Auto Grenade Launcher Blood Eagle Paint263 Gold",
-  "daily": [
-    {
-      "title": "1ˢᵗ Collect Stimpaks or Chems (5)",
-      "score": 250
-    },
-    {
-      "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
-    },
-    {
-      "title": "Build a Decoration in a Workshop or C.A.M.P. in Free Cam (5)",
-      "score": 250
-    },
-    {
-      "title": "Collect Ballistic Ammo (20)",
-      "score": 250
-    },
-    {
-      "title": "Consume an Alcoholic Beverage while on a Team (5)",
-      "score": 250
-    },
-    {
-      "title": "07.12.2024",
-      "score": 23
-    },
-    {
-      "title": "05.04.2026",
-      "score": 5
-    },
-    {
-      "title": "17.09.2026",
-      "score": 13
-    }
-  ],
+  "daily": [],
   "weekly": [
-    {
-      "title": "Complete a Gold Star Daily Challenge! (3)",
-      "score": 1500
-    },
-    {
-      "title": "Repeatable Under Rank 100: Gain XP (10000)",
-      "score": 100
-    },
-    {
-      "title": "Repeatable at Rank 100 or above: Complete a Public Event (3)",
-      "score": 300
-    },
-    {
-      "title": "Collect Pre-war Food (20)",
-      "score": 1000
-    },
-    {
-      "title": "Complete an Event or Activity (3)",
-      "score": 1000
-    },
-    {
-      "title": "Eat Pre-war Food (25)",
-      "score": 1000
-    },
-    {
-      "title": "17.09.2026",
-      "score": 13
-    },
-    {
-      "title": "14.12.2025",
-      "score": 10
-    },
-    {
-      "title": "Kill a Scorched (30)",
-      "score": 1000
-    },
-    {
-      "title": "05.08.2026",
-      "score": 7
-    },
-    {
-      "title": "19.01.2026",
-      "score": 5
-    },
-    {
-      "title": "24.10.2025",
-      "score": 3
-    },
-    {
-      "title": "Sell Pumpkin Pie to an NPC vendor",
-      "score": 1000
-    },
     {
       "title": "Mo, 21st Sep 2026 (12:00) - We, 23rd Sep 2026 (12:00)",
       "score": 3
