@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-23T11:29:07.461Z",
+  "fetchedAt": "2026-09-23T16:53:31.745Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": "Plan: Dynamite75 Gold Plan: Gauss pistol188 Gold Plan: Floater gnasher grenade113 Gold Plan: Resistant lining Secret Service underarmor75 Gold Plan: Scavenged solar panel1500 Gold Plan: Strangler heart chest piece938 Gold Plan: Strangler heart helmet1238 Gold Plan: Strangler heart left arm750 Gold Plan: Strangler heart left leg750 Gold Plan: Strangler heart right arm750 Gold Plan: Strangler heart right leg750 Gold Plan: Treated lining Secret Service underarmor38 Gold Plan: Grocer's Backpack Mod263 Gold Plan: Auto Grenade Launcher Blood Eagle Paint263 Gold",
+  "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Buy an item from or Sell an item to another Player",
+      "title": "1ˢᵗ Collect Wood (5)",
       "score": 250
     },
     {
@@ -14,11 +14,27 @@
       "score": 1000
     },
     {
-      "title": "Build a Floor, Wall, or Roof in a Shelter in Free Cam (10)",
-      "score": 250
+      "title": "08.04.2026",
+      "score": 37
     },
     {
-      "title": "Complete an Event or Activity",
+      "title": "08.05.2026",
+      "score": 33
+    },
+    {
+      "title": "11.11.2025",
+      "score": 14
+    },
+    {
+      "title": "15.09.2026",
+      "score": 15
+    },
+    {
+      "title": "17.09.2026",
+      "score": 13
+    },
+    {
+      "title": "Kill a Mutant Hound (3)",
       "score": 250
     },
     {
@@ -26,16 +42,16 @@
       "score": 13
     },
     {
-      "title": "Drink Nuka-Cherry (2)",
+      "title": "Sell Mutant Hound Chops to an NPC vendor",
       "score": 250
     },
     {
-      "title": "17.09.2026",
-      "score": 13
+      "title": "22.05.2023",
+      "score": 6
     },
     {
-      "title": "23.04.2026",
-      "score": 11
+      "title": "11.11.2025",
+      "score": 14
     }
   ],
   "weekly": [
@@ -92,12 +108,12 @@
       "score": 13
     },
     {
-      "title": "Mo, 21st Sep 2026 (12:00) - We, 23rd Sep 2026 (12:00)",
-      "score": 3
-    },
-    {
       "title": "Th, 24th Sep 2026 (12:00) - Mo, 28th Sep 2026 (12:00)",
       "score": 9
+    },
+    {
+      "title": "Tu, 29th Sep 2026 (12:00) - Tu, 6th Oct 2026 (12:00)",
+      "score": 7
     }
   ]
 }
