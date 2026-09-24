@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-24T11:39:54.996Z",
+  "fetchedAt": "2026-09-24T17:06:22.161Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Collect Wood (5)",
+      "title": "1ˢᵗ Collect Energy Ammo (20)",
       "score": 250
     },
     {
@@ -14,27 +14,7 @@
       "score": 1000
     },
     {
-      "title": "08.04.2026",
-      "score": 37
-    },
-    {
-      "title": "08.05.2026",
-      "score": 33
-    },
-    {
-      "title": "11.11.2025",
-      "score": 15
-    },
-    {
-      "title": "15.09.2026",
-      "score": 15
-    },
-    {
-      "title": "17.09.2026",
-      "score": 13
-    },
-    {
-      "title": "Kill a Mutant Hound (3)",
+      "title": "Collect a Nuka-Cola Quantum",
       "score": 250
     },
     {
@@ -42,16 +22,20 @@
       "score": 13
     },
     {
-      "title": "Sell Mutant Hound Chops to an NPC vendor",
+      "title": "Drink Nuka-Cola Quantum (2)",
       "score": 250
     },
     {
-      "title": "22.05.2023",
-      "score": 6
+      "title": "14.12.2025",
+      "score": 10
     },
     {
-      "title": "11.11.2025",
-      "score": 15
+      "title": "Kill a Mirelurk (5)",
+      "score": 250
+    },
+    {
+      "title": "Travel on foot (KM) (10)",
+      "score": 250
     }
   ],
   "weekly": [
