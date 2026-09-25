@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-25T11:45:54.217Z",
+  "fetchedAt": "2026-09-25T17:06:40.032Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Collect Energy Ammo (20)",
+      "title": "1ˢᵗ Collect Caps (250)",
       "score": 250
     },
     {
@@ -14,28 +14,28 @@
       "score": 1000
     },
     {
-      "title": "Collect a Nuka-Cola Quantum",
+      "title": "Collect a Nuka-Orange (2)",
       "score": 250
+    },
+    {
+      "title": "30.12.2025",
+      "score": 13
+    },
+    {
+      "title": "11.09.2026",
+      "score": 16
+    },
+    {
+      "title": "Drink Nuka-Orange (2)",
+      "score": 250
+    },
+    {
+      "title": "11.09.2026",
+      "score": 16
     },
     {
       "title": "17.09.2026",
       "score": 14
-    },
-    {
-      "title": "Drink Nuka-Cola Quantum (2)",
-      "score": 250
-    },
-    {
-      "title": "14.12.2025",
-      "score": 10
-    },
-    {
-      "title": "Kill a Mirelurk (5)",
-      "score": 250
-    },
-    {
-      "title": "Travel on foot (KM) (10)",
-      "score": 250
     }
   ],
   "weekly": [
