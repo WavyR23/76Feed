@@ -1,45 +1,57 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-28T13:46:42.167Z",
+  "fetchedAt": "2026-09-28T23:13:05.594Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "1ˢᵗ Collect a Blood pack (3)",
+      "score": 250
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Drink Nuka-Grape (2)",
+      "title": "08.04.2026",
+      "score": 37
+    },
+    {
+      "title": "08.05.2026",
+      "score": 33
+    },
+    {
+      "title": "11.11.2025",
+      "score": 15
+    },
+    {
+      "title": "15.09.2026",
+      "score": 16
+    },
+    {
+      "title": "17.03.2026",
+      "score": 13
+    },
+    {
+      "title": "17.09.2026",
+      "score": 16
+    },
+    {
+      "title": "Drink Nuka-Cola Wild (2)",
       "score": 250
     },
     {
-      "title": "21.04.2026",
-      "score": 6
+      "title": "03.04.2026",
+      "score": 4
     },
     {
-      "title": "17.12.2025",
-      "score": 8
+      "title": "14.02.2024",
+      "score": 7
     },
     {
-      "title": "17.09.2026",
-      "score": 16
-    },
-    {
-      "title": "09.01.2024",
-      "score": 6
-    },
-    {
-      "title": "17.09.2026",
-      "score": 16
-    },
-    {
-      "title": "22.09.2026",
-      "score": 12
+      "title": "11.11.2025",
+      "score": 15
     }
   ],
   "weekly": [
@@ -96,12 +108,12 @@
       "score": 16
     },
     {
-      "title": "Th, 24th Sep 2026 (12:00) - Mo, 28th Sep 2026 (12:00)",
-      "score": 12
-    },
-    {
       "title": "Tu, 29th Sep 2026 (10:00)",
       "score": 2
+    },
+    {
+      "title": "Tu, 29th Sep 2026 (12:00) - Tu, 6th Oct 2026 (12:00)",
+      "score": 7
     }
   ]
 }
