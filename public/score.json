@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-29T12:46:23.448Z",
+  "fetchedAt": "2026-09-29T22:11:21.386Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Collect a Blood pack (3)",
+      "title": "1ˢᵗ Cripple a Mirelurk's Limb (2)",
       "score": 250
     },
     {
@@ -14,44 +14,32 @@
       "score": 1000
     },
     {
-      "title": "08.04.2026",
-      "score": 37
-    },
-    {
-      "title": "08.05.2026",
-      "score": 33
-    },
-    {
-      "title": "11.11.2025",
-      "score": 15
-    },
-    {
-      "title": "15.09.2026",
-      "score": 16
-    },
-    {
-      "title": "17.03.2026",
+      "title": "30.12.2025",
       "score": 13
+    },
+    {
+      "title": "Collect a can of Cajun Rice & Beans (2)",
+      "score": 250
+    },
+    {
+      "title": "Cripple a Ghoul's Leg (2)",
+      "score": 250
+    },
+    {
+      "title": "Eat a can of Cajun Rice & Beans (2)",
+      "score": 250
+    },
+    {
+      "title": "11.09.2026",
+      "score": 17
     },
     {
       "title": "17.09.2026",
       "score": 16
     },
     {
-      "title": "Drink Nuka-Cola Wild (2)",
+      "title": "Sell a Sweet Roll to an NPC vendor",
       "score": 250
-    },
-    {
-      "title": "03.04.2026",
-      "score": 4
-    },
-    {
-      "title": "14.02.2024",
-      "score": 7
-    },
-    {
-      "title": "11.11.2025",
-      "score": 15
     }
   ],
   "weekly": [
@@ -68,40 +56,48 @@
       "score": 300
     },
     {
-      "title": "Build Anything in a Workshop or C.A.M.P. (25)",
+      "title": "Build a Decoration in a Shelter (25)",
       "score": 1000
     },
     {
-      "title": "17.12.2025",
-      "score": 13
+      "title": "08.04.2026",
+      "score": 37
     },
     {
-      "title": "Collect any flavor of Nuka-Cola (20)",
+      "title": "08.05.2026",
+      "score": 33
+    },
+    {
+      "title": "15.09.2026",
+      "score": 16
+    },
+    {
+      "title": "Collect RadAway or Rad-X (15)",
       "score": 1000
     },
     {
-      "title": "17.12.2025",
-      "score": 8
-    },
-    {
-      "title": "17.09.2026",
-      "score": 16
-    },
-    {
-      "title": "Drink Nuka-Cola (25)",
-      "score": 1000
-    },
-    {
-      "title": "17.09.2026",
-      "score": 16
-    },
-    {
-      "title": "17.09.2026",
-      "score": 16
-    },
-    {
-      "title": "22.09.2026",
+      "title": "05.01.2026",
       "score": 12
+    },
+    {
+      "title": "Collect a Board Game (4)",
+      "score": 1000
+    },
+    {
+      "title": "Eat a Vegetable (25)",
+      "score": 1000
+    },
+    {
+      "title": "11.09.2026",
+      "score": 17
+    },
+    {
+      "title": "17.09.2026",
+      "score": 16
+    },
+    {
+      "title": "16.08.2026",
+      "score": 14
     },
     {
       "title": "17.09.2026",
@@ -113,7 +109,7 @@
     },
     {
       "title": "Th, 1st Oct 2026 (10:00)",
-      "score": 3
+      "score": 4
     }
   ]
 }
