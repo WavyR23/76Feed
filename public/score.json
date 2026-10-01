@@ -1,45 +1,49 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-01T13:06:07.114Z",
+  "fetchedAt": "2026-10-01T22:37:59.833Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "07.07.2026",
-      "score": 3
+      "title": "1ˢᵗ Collect a tin of Cram",
+      "score": 500
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
+      "score": 2000
     },
     {
-      "title": "Collect a tin of Imitation Seafood (2)",
-      "score": 250
+      "title": "Collect a box of Blamco Brand Mac and Cheese",
+      "score": 500
     },
     {
-      "title": "11.09.2026",
-      "score": 17
-    },
-    {
-      "title": "Cripple a Human's Head (2)",
-      "score": 250
-    },
-    {
-      "title": "Eat a tin of Imitation Seafood",
-      "score": 250
-    },
-    {
-      "title": "11.09.2026",
-      "score": 17
+      "title": "Complete an Event or Activity",
+      "score": 500
     },
     {
       "title": "17.09.2026",
       "score": 16
     },
     {
-      "title": "22.05.2023",
+      "title": "Eat a box of Blamco Brand Mac and Cheese",
+      "score": 500
+    },
+    {
+      "title": "16.08.2026",
+      "score": 14
+    },
+    {
+      "title": "17.09.2026",
+      "score": 16
+    },
+    {
+      "title": "03.01.2024",
       "score": 6
+    },
+    {
+      "title": "09.04.2026",
+      "score": 3
     }
   ],
   "weekly": [
@@ -108,12 +112,12 @@
       "score": 7
     },
     {
-      "title": "Th, 1st Oct 2026 (10:00)",
-      "score": 4
+      "title": "Th, 1st Oct 2026 (12:00) - Mo, 5th Oct 2026 (12:00)",
+      "score": 5
     },
     {
-      "title": "Th, 1st Oct 2026 (12:00) - Mo, 5th Oct 2026 (12:00)",
-      "score": 4
+      "title": "Fr, 2nd Oct 2026 (12:00) - Tu, 20th Oct 2026 (12:00)",
+      "score": 6
     }
   ]
 }
