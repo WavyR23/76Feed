@@ -1,47 +1,10 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-03T11:35:13.073Z",
+  "fetchedAt": "2026-10-03T16:14:01.944Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [
-    {
-      "title": "19.03.2026",
-      "score": 7
-    },
-    {
-      "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 2000
-    },
-    {
-      "title": "16.01.2026",
-      "score": 4
-    },
-    {
-      "title": "03.10.2026",
-      "score": 6
-    },
-    {
-      "title": "Complete a Daily Quest",
-      "score": 500
-    },
-    {
-      "title": "Cripple a Protectron or a Robobrain's Arm (2)",
-      "score": 500
-    },
-    {
-      "title": "Kill a Creature (12)",
-      "score": 500
-    },
-    {
-      "title": "16.08.2026",
-      "score": 15
-    },
-    {
-      "title": "17.09.2026",
-      "score": 16
-    }
-  ],
+  "daily": [],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
@@ -117,7 +80,7 @@
     },
     {
       "title": "Tu, 6th Oct 2026 (12:00) - Tu, 20th Oct 2026 (12:00)",
-      "score": 6
+      "score": 7
     }
   ]
 }
