@@ -1,10 +1,47 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-03T16:14:01.944Z",
+  "fetchedAt": "2026-10-03T21:10:59.034Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [],
+  "daily": [
+    {
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "Gold Star: Complete a Daily Challenge (6)",
+      "score": 2000
+    },
+    {
+      "title": "Collect a Board Game",
+      "score": 500
+    },
+    {
+      "title": "Kill a Legendary Enemy",
+      "score": 500
+    },
+    {
+      "title": "11.09.2026",
+      "score": 17
+    },
+    {
+      "title": "17.09.2026",
+      "score": 16
+    },
+    {
+      "title": "19.01.2026",
+      "score": 5
+    },
+    {
+      "title": "Travel on foot (KM) (10)",
+      "score": 500
+    },
+    {
+      "title": "Use Photomode while in a Team",
+      "score": 500
+    }
+  ],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
