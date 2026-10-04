@@ -1,45 +1,57 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-04T12:16:33.392Z",
+  "fetchedAt": "2026-10-04T21:19:47.458Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "1ˢᵗ Craft or Scrap a Melee Weapon (5)",
+      "score": 500
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 2000
     },
     {
-      "title": "Collect a Board Game",
-      "score": 500
+      "title": "08.04.2026",
+      "score": 37
     },
     {
-      "title": "Kill a Legendary Enemy",
-      "score": 500
+      "title": "08.05.2026",
+      "score": 33
     },
     {
-      "title": "11.09.2026",
-      "score": 17
-    },
-    {
-      "title": "17.09.2026",
+      "title": "15.09.2026",
       "score": 16
     },
     {
-      "title": "19.01.2026",
-      "score": 5
+      "title": "08.04.2026",
+      "score": 37
     },
     {
-      "title": "Travel on foot (KM) (10)",
+      "title": "07.07.2026",
+      "score": 3
+    },
+    {
+      "title": "16.08.2026",
+      "score": 15
+    },
+    {
+      "title": "04.10.2026",
+      "score": 17
+    },
+    {
+      "title": "Sell a Shotgun to an NPC vendor",
       "score": 500
     },
     {
-      "title": "Use Photomode while in a Team",
-      "score": 500
+      "title": "22.05.2023",
+      "score": 6
+    },
+    {
+      "title": "11.11.2025",
+      "score": 15
     }
   ],
   "weekly": [
@@ -88,20 +100,20 @@
       "score": 1000
     },
     {
-      "title": "11.09.2026",
+      "title": "04.10.2026",
       "score": 17
     },
     {
-      "title": "17.09.2026",
-      "score": 16
+      "title": "11.09.2026",
+      "score": 17
     },
     {
       "title": "16.08.2026",
       "score": 15
     },
     {
-      "title": "17.09.2026",
-      "score": 16
+      "title": "04.10.2026",
+      "score": 17
     },
     {
       "title": "Tu, 29th Sep 2026 (12:00) - Tu, 6th Oct 2026 (12:00)",
@@ -117,7 +129,7 @@
     },
     {
       "title": "Tu, 6th Oct 2026 (12:00) - Tu, 20th Oct 2026 (12:00)",
-      "score": 8
+      "score": 9
     }
   ]
 }
