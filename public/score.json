@@ -1,57 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-05T14:29:11.833Z",
+  "fetchedAt": "2026-10-06T00:00:12.031Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Craft or Scrap a Melee Weapon (5)",
-      "score": 500
+      "title": "19.01.2026",
+      "score": 5
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 2000
+      "score": 1000
     },
     {
-      "title": "08.04.2026",
-      "score": 37
+      "title": "Craft or Scrap Armor (5)",
+      "score": 250
     },
     {
-      "title": "08.05.2026",
-      "score": 33
+      "title": "Craft or Scrap a Ranged Weapon (5)",
+      "score": 250
     },
     {
-      "title": "15.09.2026",
-      "score": 16
+      "title": "07.12.2024",
+      "score": 23
     },
     {
-      "title": "08.04.2026",
-      "score": 37
-    },
-    {
-      "title": "07.07.2026",
-      "score": 3
-    },
-    {
-      "title": "16.08.2026",
-      "score": 15
+      "title": "Kill a Canine (5)",
+      "score": 250
     },
     {
       "title": "04.10.2026",
       "score": 17
     },
     {
-      "title": "Sell a Shotgun to an NPC vendor",
-      "score": 500
-    },
-    {
-      "title": "22.05.2023",
-      "score": 6
-    },
-    {
-      "title": "11.11.2025",
-      "score": 15
+      "title": "11.09.2026",
+      "score": 17
     }
   ],
   "weekly": [
@@ -120,16 +104,12 @@
       "score": 8
     },
     {
-      "title": "Th, 1st Oct 2026 (12:00) - Mo, 5th Oct 2026 (12:00)",
-      "score": 5
-    },
-    {
       "title": "Fr, 2nd Oct 2026 (12:00) - Mo, 26th Oct 2026 (13:00)",
       "score": 7
     },
     {
       "title": "Tu, 6th Oct 2026 (12:00) - Tu, 20th Oct 2026 (12:00)",
-      "score": 9
+      "score": 11
     }
   ]
 }
