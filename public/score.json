@@ -1,33 +1,33 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-06T13:20:27.727Z",
+  "fetchedAt": "2026-10-06T22:37:34.334Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": null,
+  "weeklyTimeLeft": "Offers from List 1ShowPlan: Cattle prod188 Gold Plan: Farmable dirt tiles375 Gold Plan: Gauss minigun gunner sights38 Gold Plan: Gauss minigun Tesla capacitor75 Gold Plan: Gauss minigun Tesla dynamo75 Gold Plan: Secret Service chest piece938 Gold Plan: Secret Service helmet1238 Gold Plan: Secret Service left arm563 Gold Plan: Secret Service left leg563 Gold Plan: Secret Service right arm563 Gold Plan: Secret Service right leg563 Gold Plan: Super reactor1500 Gold Plan: Sympto-Matic1500 Gold Plan: War glaive2000 Gold Plan: Chemist's Backpack Mod263 Gold Plan: Face Breaker750 Gold Offers from List 2ShowPlan: Dynamite75 Gold Plan: Gauss pistol188 Gold Plan: Floater gnasher grenade113 Gold Plan: Resistant lining Secret Service underarmor75 Gold Plan: Scavenged solar panel1500 Gold Plan: Strangler heart chest piece938 Gold Plan: Strangler heart helmet1238 Gold Plan: Strangler heart left arm750 Gold Plan: Strangler heart left leg750 Gold Plan: Strangler heart right arm750 Gold Plan: Strangler heart right leg750 Gold Plan: Treated lining Secret Service underarmor38 Gold Plan: Grocer's Backpack Mod263 Gold Plan: Auto Grenade Launcher Blood Eagle Paint263 Gold Offers from List 3ShowPlan: Chinese stealth armor3000 Gold Plan: Chinese stealth helmet1238 Gold Plan: Gauntlet188 Gold Plan: Secret Service jet pack armor1500 Gold Plan: Secret Service pocketed armor limb188 Gold Plan: Secret Service pocketed armor torso188 Gold Plan: T-65 medic pump188 Gold Plan: T-65 overdrive servos563 Gold Plan: T-65 Stealth Boy563 Gold Plan: War glaive cryo blade150 Gold Plan: War glaive plasma blade150 Gold Plan: Chicken coop563 Gold",
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 6
+      "title": "03.10.2026",
+      "score": 7
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Craft or Scrap Armor (5)",
+      "title": "Collect Pre-War Money (10)",
       "score": 250
     },
     {
-      "title": "Craft or Scrap a Ranged Weapon (5)",
-      "score": 250
+      "title": "25.01.2024",
+      "score": 4
     },
     {
-      "title": "07.12.2024",
-      "score": 24
+      "title": "04.10.2026",
+      "score": 23
     },
     {
-      "title": "Kill a Canine (5)",
-      "score": 250
+      "title": "04.10.2026",
+      "score": 23
     },
     {
       "title": "04.10.2026",
@@ -36,6 +36,10 @@
     {
       "title": "11.09.2026",
       "score": 17
+    },
+    {
+      "title": "05.08.2026",
+      "score": 8
     }
   ],
   "weekly": [
@@ -52,36 +56,12 @@
       "score": 300
     },
     {
-      "title": "Build a Decoration in a Shelter (25)",
+      "title": "Drink Tea (5)",
       "score": 1000
     },
     {
-      "title": "08.04.2026",
-      "score": 37
-    },
-    {
-      "title": "08.05.2026",
-      "score": 34
-    },
-    {
-      "title": "15.09.2026",
-      "score": 16
-    },
-    {
-      "title": "Collect RadAway or Rad-X (15)",
-      "score": 1000
-    },
-    {
-      "title": "05.01.2026",
-      "score": 13
-    },
-    {
-      "title": "Collect a Board Game (4)",
-      "score": 1000
-    },
-    {
-      "title": "Eat a Vegetable (25)",
-      "score": 1000
+      "title": "09.08.2026",
+      "score": 5
     },
     {
       "title": "04.10.2026",
@@ -92,16 +72,36 @@
       "score": 17
     },
     {
-      "title": "16.08.2026",
-      "score": 15
+      "title": "14.12.2025",
+      "score": 11
     },
     {
       "title": "04.10.2026",
       "score": 17
     },
     {
-      "title": "Tu, 29th Sep 2026 (12:00) - Tu, 6th Oct 2026 (12:00)",
-      "score": 10
+      "title": "04.10.2026",
+      "score": 23
+    },
+    {
+      "title": "19.01.2026",
+      "score": 6
+    },
+    {
+      "title": "19.01.2026",
+      "score": 6
+    },
+    {
+      "title": "21.06.2025",
+      "score": 8
+    },
+    {
+      "title": "Sell Mirelurk Queen Steak to an NPC vendor",
+      "score": 1000
+    },
+    {
+      "title": "Travel on foot (KM) (50)",
+      "score": 1000
     },
     {
       "title": "Fr, 2nd Oct 2026 (12:00) - Mo, 26th Oct 2026 (13:00)",
@@ -109,7 +109,11 @@
     },
     {
       "title": "Tu, 6th Oct 2026 (12:00) - Tu, 20th Oct 2026 (12:00)",
-      "score": 13
+      "score": 15
+    },
+    {
+      "title": "Th, 8th Oct 2026 (12:00) - Mo, 12th Oct 2026 (12:00)",
+      "score": 2
     }
   ]
 }
