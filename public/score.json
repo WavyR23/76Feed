@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-06T00:00:12.031Z",
+  "fetchedAt": "2026-10-06T06:14:50.012Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
       "title": "19.01.2026",
-      "score": 5
+      "score": 6
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
@@ -23,7 +23,7 @@
     },
     {
       "title": "07.12.2024",
-      "score": 23
+      "score": 24
     },
     {
       "title": "Kill a Canine (5)",
@@ -61,7 +61,7 @@
     },
     {
       "title": "08.05.2026",
-      "score": 33
+      "score": 34
     },
     {
       "title": "15.09.2026",
@@ -73,7 +73,7 @@
     },
     {
       "title": "05.01.2026",
-      "score": 12
+      "score": 13
     },
     {
       "title": "Collect a Board Game (4)",
@@ -109,7 +109,7 @@
     },
     {
       "title": "Tu, 6th Oct 2026 (12:00) - Tu, 20th Oct 2026 (12:00)",
-      "score": 11
+      "score": 12
     }
   ]
 }
