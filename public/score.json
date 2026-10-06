@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-06T06:14:50.012Z",
+  "fetchedAt": "2026-10-06T13:20:27.727Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
@@ -101,7 +101,7 @@
     },
     {
       "title": "Tu, 29th Sep 2026 (12:00) - Tu, 6th Oct 2026 (12:00)",
-      "score": 8
+      "score": 10
     },
     {
       "title": "Fr, 2nd Oct 2026 (12:00) - Mo, 26th Oct 2026 (13:00)",
@@ -109,7 +109,7 @@
     },
     {
       "title": "Tu, 6th Oct 2026 (12:00) - Tu, 20th Oct 2026 (12:00)",
-      "score": 12
+      "score": 13
     }
   ]
 }
