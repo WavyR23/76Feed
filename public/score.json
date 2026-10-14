@@ -1,47 +1,10 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-14T11:45:29.200Z",
+  "fetchedAt": "2026-10-14T17:05:54.047Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [
-    {
-      "title": "03.07.2026",
-      "score": 8
-    },
-    {
-      "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
-    },
-    {
-      "title": "Collect Brain Fungus (5)",
-      "score": 250
-    },
-    {
-      "title": "Collect Deathclaw eggs",
-      "score": 250
-    },
-    {
-      "title": "10.10.2026",
-      "score": 24
-    },
-    {
-      "title": "Cook Brain Fungus Soup",
-      "score": 250
-    },
-    {
-      "title": "10.10.2026",
-      "score": 24
-    },
-    {
-      "title": "16.08.2026",
-      "score": 15
-    },
-    {
-      "title": "10.10.2026",
-      "score": 17
-    }
-  ],
+  "daily": [],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
