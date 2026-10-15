@@ -1,43 +1,10 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-15T11:21:37.798Z",
+  "fetchedAt": "2026-10-15T16:55:28.535Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": null,
-  "daily": [
-    {
-      "title": "06.02.2026",
-      "score": 16
-    },
-    {
-      "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
-    },
-    {
-      "title": "16.01.2026",
-      "score": 5
-    },
-    {
-      "title": "11.09.2026",
-      "score": 18
-    },
-    {
-      "title": "03.10.2026",
-      "score": 7
-    },
-    {
-      "title": "22.09.2026",
-      "score": 12
-    },
-    {
-      "title": "11.09.2026",
-      "score": 18
-    },
-    {
-      "title": "19.01.2026",
-      "score": 6
-    }
-  ],
+  "weeklyTimeLeft": "Plan: Gauss minigun563 Gold Plan: Gauss pistol aligned short barrel113 Gold Plan: Gauss Pistol Drum Magazine75 Gold Plan: Gauss pistol refined receiver150 Gold Plan: Protective lining Secret Service underarmor113 Gold Plan: Shielded lining Secret Service underarmor150 Gold Plan: Thorn armor chest piece750 Gold Plan: Thorn armor left arm563 Gold Plan: Thorn armor left leg563 Gold Plan: Thorn armor right arm563 Gold Plan: Thorn armor right leg563 Gold",
+  "daily": [],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
