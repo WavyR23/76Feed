@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-17T15:28:50.621Z",
+  "fetchedAt": "2026-10-17T20:31:59.559Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
@@ -10,7 +10,7 @@
       "Decryption",
       "Mutation"
     ],
-    "location": null,
-    "enemy": null
+    "location": "Glassed Cavern",
+    "enemy": "Robots"
   }
 }
