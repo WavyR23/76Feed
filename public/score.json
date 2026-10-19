@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-19T13:03:29.084Z",
+  "fetchedAt": "2026-10-19T22:18:15.084Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Gauss minigun563 Gold Plan: Gauss pistol aligned short barrel113 Gold Plan: Gauss Pistol Drum Magazine75 Gold Plan: Gauss pistol refined receiver150 Gold Plan: Protective lining Secret Service underarmor113 Gold Plan: Shielded lining Secret Service underarmor150 Gold Plan: Thorn armor chest piece750 Gold Plan: Thorn armor left arm563 Gold Plan: Thorn armor left leg563 Gold Plan: Thorn armor right arm563 Gold Plan: Thorn armor right leg563 Gold",
@@ -14,32 +14,32 @@
       "score": 1000
     },
     {
+      "title": "16.08.2026",
+      "score": 15
+    },
+    {
       "title": "08.04.2026",
       "score": 37
     },
     {
-      "title": "08.05.2026",
-      "score": 34
-    },
-    {
-      "title": "15.09.2026",
-      "score": 17
-    },
-    {
-      "title": "11.09.2026",
-      "score": 18
-    },
-    {
-      "title": "Cripple enemy limbs (6)",
-      "score": 250
-    },
-    {
-      "title": "Destroy a Robot (10)",
+      "title": "Deal Fire Damage to Enemies (100)",
       "score": 250
     },
     {
       "title": "08.04.2026",
       "score": 37
+    },
+    {
+      "title": "19.03.2026",
+      "score": 8
+    },
+    {
+      "title": "03.10.2026",
+      "score": 7
+    },
+    {
+      "title": "22.09.2026",
+      "score": 12
     },
     {
       "title": "10.10.2026",
@@ -118,6 +118,10 @@
     {
       "title": "Tu, 6th Oct 2026 (12:00) - Tu, 20th Oct 2026 (12:00)",
       "score": 19
+    },
+    {
+      "title": "Tu, 20th Oct 2026 (10:00)",
+      "score": 1
     }
   ]
 }
