@@ -1,127 +1,22 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-20T11:29:33.741Z",
+  "fetchedAt": "2026-10-20T16:57:52.509Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Gauss minigun563 Gold Plan: Gauss pistol aligned short barrel113 Gold Plan: Gauss Pistol Drum Magazine75 Gold Plan: Gauss pistol refined receiver150 Gold Plan: Protective lining Secret Service underarmor113 Gold Plan: Shielded lining Secret Service underarmor150 Gold Plan: Thorn armor chest piece750 Gold Plan: Thorn armor left arm563 Gold Plan: Thorn armor left leg563 Gold Plan: Thorn armor right arm563 Gold Plan: Thorn armor right leg563 Gold",
-  "daily": [
-    {
-      "title": "09.08.2026",
-      "score": 6
-    },
-    {
-      "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
-    },
-    {
-      "title": "16.08.2026",
-      "score": 15
-    },
-    {
-      "title": "08.04.2026",
-      "score": 37
-    },
-    {
-      "title": "Deal Fire Damage to Enemies (100)",
-      "score": 250
-    },
-    {
-      "title": "08.04.2026",
-      "score": 37
-    },
-    {
-      "title": "19.03.2026",
-      "score": 8
-    },
-    {
-      "title": "03.10.2026",
-      "score": 8
-    },
-    {
-      "title": "22.09.2026",
-      "score": 12
-    },
-    {
-      "title": "10.10.2026",
-      "score": 17
-    }
-  ],
+  "daily": [],
   "weekly": [
-    {
-      "title": "Complete a Gold Star Daily Challenge! (3)",
-      "score": 1500
-    },
-    {
-      "title": "Repeatable Under Rank 100: Gain XP (10000)",
-      "score": 100
-    },
-    {
-      "title": "Repeatable at Rank 100 or above: Complete a Public Event (3)",
-      "score": 300
-    },
-    {
-      "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P. (25)",
-      "score": 1000
-    },
-    {
-      "title": "08.04.2026",
-      "score": 37
-    },
-    {
-      "title": "08.05.2026",
-      "score": 34
-    },
-    {
-      "title": "15.09.2026",
-      "score": 17
-    },
-    {
-      "title": "16.08.2026",
-      "score": 15
-    },
-    {
-      "title": "08.04.2026",
-      "score": 37
-    },
-    {
-      "title": "Destroy a Robot (30)",
-      "score": 1000
-    },
-    {
-      "title": "03.10.2026",
-      "score": 8
-    },
-    {
-      "title": "21.01.2026",
-      "score": 5
-    },
-    {
-      "title": "16.08.2026",
-      "score": 15
-    },
-    {
-      "title": "10.10.2026",
-      "score": 17
-    },
-    {
-      "title": "10.10.2026",
-      "score": 24
-    },
-    {
-      "title": "10.10.2026",
-      "score": 17
-    },
     {
       "title": "Fr, 2nd Oct 2026 (12:00) - Mo, 26th Oct 2026 (13:00)",
       "score": 7
     },
     {
-      "title": "Tu, 6th Oct 2026 (12:00) - Tu, 20th Oct 2026 (12:00)",
-      "score": 19
+      "title": "Tu, 20th Oct 2026 (10:00)",
+      "score": 4
     },
     {
-      "title": "Tu, 20th Oct 2026 (10:00)",
-      "score": 2
+      "title": "Tu, 20th Oct 2026 (12:00) - Tu, 3rd Nov 2026 (12:00)",
+      "score": 8
     }
   ]
 }
