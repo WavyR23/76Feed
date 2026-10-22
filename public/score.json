@@ -1,51 +1,10 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-22T11:44:38.775Z",
+  "fetchedAt": "2026-10-22T17:06:05.285Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [
-    {
-      "title": "03.10.2026",
-      "score": 8
-    },
-    {
-      "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
-    },
-    {
-      "title": "Build a Heavy Cryo Turret in a Workshop or C.A.M.P. (3)",
-      "score": 250
-    },
-    {
-      "title": "09.08.2026",
-      "score": 12
-    },
-    {
-      "title": "05.04.2026",
-      "score": 6
-    },
-    {
-      "title": "11.11.2025",
-      "score": 16
-    },
-    {
-      "title": "19.01.2026",
-      "score": 6
-    },
-    {
-      "title": "21.06.2025",
-      "score": 8
-    },
-    {
-      "title": "22.05.2023",
-      "score": 7
-    },
-    {
-      "title": "14.12.2025",
-      "score": 11
-    }
-  ],
+  "daily": [],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
@@ -153,7 +112,7 @@
     },
     {
       "title": "Tu, 20th Oct 2026 (12:00) - Tu, 3rd Nov 2026 (12:00)",
-      "score": 10
+      "score": 11
     },
     {
       "title": "Th, 22nd Oct 2026 (12:00) - Mo, 26th Oct 2026 (13:00)",
