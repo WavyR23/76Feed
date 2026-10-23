@@ -1,53 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-23T11:31:59.984Z",
+  "fetchedAt": "2026-10-23T17:02:02.392Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 6
+      "title": "1ˢᵗ Drink Purified Water (2)",
+      "score": 250
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "30.12.2025",
-      "score": 4
-    },
-    {
-      "title": "03.04.2026",
-      "score": 5
-    },
-    {
-      "title": "14.02.2024",
-      "score": 8
-    },
-    {
-      "title": "25.01.2024",
-      "score": 4
-    },
-    {
-      "title": "26.10.2023",
-      "score": 10
-    },
-    {
-      "title": "03.10.2026",
-      "score": 8
-    },
-    {
-      "title": "22.09.2026",
-      "score": 12
-    },
-    {
-      "title": "26.10.2023",
-      "score": 10
-    },
-    {
-      "title": "Visit your Shelter",
+      "title": "Build a Floor, Wall, or Roof in a Workshop or C.A.M.P. (5)",
       "score": 250
+    },
+    {
+      "title": "Collect Purified Water (5)",
+      "score": 250
+    },
+    {
+      "title": "07.12.2024",
+      "score": 24
+    },
+    {
+      "title": "Kill a Feral Ghoul (10)",
+      "score": 250
+    },
+    {
+      "title": "21.10.2026",
+      "score": 31
+    },
+    {
+      "title": "21.03.2024",
+      "score": 7
     }
   ],
   "weekly": [
