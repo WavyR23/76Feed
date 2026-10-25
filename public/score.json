@@ -1,43 +1,10 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-25T11:18:28.878Z",
+  "fetchedAt": "2026-10-25T16:09:26.393Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [
-    {
-      "title": "03.10.2026",
-      "score": 8
-    },
-    {
-      "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
-    },
-    {
-      "title": "Build Anything in a Shelter (10)",
-      "score": 250
-    },
-    {
-      "title": "30.12.2025",
-      "score": 14
-    },
-    {
-      "title": "Kill a Creature while in a Team (10)",
-      "score": 250
-    },
-    {
-      "title": "24.01.2024",
-      "score": 7
-    },
-    {
-      "title": "19.01.2026",
-      "score": 6
-    },
-    {
-      "title": "Use Photomode in your own C.A.M.P.",
-      "score": 250
-    }
-  ],
+  "daily": [],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
