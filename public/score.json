@@ -1,10 +1,43 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-25T16:09:26.393Z",
+  "fetchedAt": "2026-10-25T20:46:20.759Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
-  "daily": [],
+  "daily": [
+    {
+      "title": "1ˢᵗ Drink Nuka-Cola Dark (2)",
+      "score": 250
+    },
+    {
+      "title": "Gold Star: Complete a Daily Challenge (6)",
+      "score": 1000
+    },
+    {
+      "title": "Complete a Daily Quest",
+      "score": 250
+    },
+    {
+      "title": "Craft a Grenade, Mine, or Thrown Weapon (5)",
+      "score": 250
+    },
+    {
+      "title": "Drink Canned Coffee",
+      "score": 250
+    },
+    {
+      "title": "Kill a Human while under the effects of Psycho (6)",
+      "score": 250
+    },
+    {
+      "title": "21.10.2026",
+      "score": 32
+    },
+    {
+      "title": "Sell a Tesla Rifle to an NPC vendor",
+      "score": 250
+    }
+  ],
   "weekly": [
     {
       "title": "Complete a Gold Star Daily Challenge! (3)",
