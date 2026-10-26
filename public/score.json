@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-26T12:52:55.385Z",
+  "fetchedAt": "2026-10-26T22:36:46.348Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Drink Nuka-Cola Dark (2)",
+      "title": "1ˢᵗ Consume an Alcoholic Beverage (5)",
       "score": 250
     },
     {
@@ -14,27 +14,27 @@
       "score": 1000
     },
     {
-      "title": "Complete a Daily Quest",
+      "title": "Build a Generator in a C.A.M.P. or Workshop",
       "score": 250
     },
     {
-      "title": "Craft a Grenade, Mine, or Thrown Weapon (5)",
+      "title": "Collect Pre-War Money (10)",
       "score": 250
     },
     {
-      "title": "Drink Canned Coffee",
-      "score": 250
+      "title": "03.10.2026",
+      "score": 8
     },
     {
-      "title": "Kill a Human while under the effects of Psycho (6)",
-      "score": 250
+      "title": "11.09.2026",
+      "score": 18
     },
     {
-      "title": "21.10.2026",
-      "score": 32
+      "title": "09.08.2026",
+      "score": 6
     },
     {
-      "title": "Sell a Tesla Rifle to an NPC vendor",
+      "title": "Kill an Enemy with any Energy Weapon (8)",
       "score": 250
     }
   ],
@@ -140,16 +140,12 @@
       "score": 35
     },
     {
-      "title": "Fr, 2nd Oct 2026 (12:00) - Mo, 26th Oct 2026 (13:00)",
-      "score": 7
-    },
-    {
       "title": "Tu, 20th Oct 2026 (12:00) - Tu, 3rd Nov 2026 (12:00)",
-      "score": 13
+      "score": 14
     },
     {
-      "title": "Th, 22nd Oct 2026 (12:00) - Mo, 26th Oct 2026 (13:00)",
-      "score": 5
+      "title": "Th, 29th Oct 2026 (13:00) - Mo, 2nd Nov 2026 (12:00)",
+      "score": 8
     }
   ]
 }
