@@ -1,24 +1,24 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-27T12:04:09.528Z",
+  "fetchedAt": "2026-10-27T17:56:55.974Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Consume an Alcoholic Beverage (5)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 6
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Build a Generator in a C.A.M.P. or Workshop",
-      "score": 250
+      "title": "21.10.2026",
+      "score": 32
     },
     {
-      "title": "Collect Pre-War Money (10)",
+      "title": "Eat a Plant-based Meal (10)",
       "score": 250
     },
     {
@@ -26,15 +26,15 @@
       "score": 8
     },
     {
-      "title": "11.09.2026",
-      "score": 18
+      "title": "07.12.2024",
+      "score": 24
     },
     {
-      "title": "09.08.2026",
+      "title": "19.01.2026",
       "score": 6
     },
     {
-      "title": "Kill an Enemy with any Energy Weapon (8)",
+      "title": "Sell Mutant Hound Chops to an NPC vendor",
       "score": 250
     }
   ],
@@ -52,31 +52,31 @@
       "score": 300
     },
     {
-      "title": "Collect Caps (2500)",
+      "title": "Collect a Fuel Tank or Gas Canister (5)",
       "score": 1000
-    },
-    {
-      "title": "17.12.2025",
-      "score": 14
     },
     {
       "title": "11.09.2026",
       "score": 18
     },
     {
-      "title": "21.04.2026",
-      "score": 6
-    },
-    {
-      "title": "17.12.2025",
-      "score": 8
-    },
-    {
-      "title": "Destroy a Robot (30)",
+      "title": "Craft any Plushie at a Tinkerer's Bench (3)",
       "score": 1000
     },
     {
-      "title": "Harvest a Wild Plant or Fungi (30)",
+      "title": "21.10.2026",
+      "score": 32
+    },
+    {
+      "title": "Drink Nuka-Grape (5)",
+      "score": 1000
+    },
+    {
+      "title": "Drink Nuka-Orange (5)",
+      "score": 1000
+    },
+    {
+      "title": "Kill a Creature (25)",
       "score": 1000
     },
     {
@@ -84,46 +84,30 @@
       "score": 12
     },
     {
-      "title": "10.10.2026",
-      "score": 17
-    },
-    {
-      "title": "Kill a Scorched (30)",
+      "title": "Take a Chem (9)",
       "score": 1000
-    },
-    {
-      "title": "19.01.2026",
-      "score": 6
-    },
-    {
-      "title": "Build a Candy Bowl and give out Candy from your C.A.M.P.",
-      "score": 5
-    },
-    {
-      "title": "Complete a Trick or Treat and Give Out Candy Completion Challenge (4)",
-      "score": 100
-    },
-    {
-      "title": "Harvest a Pumpkin (15)",
-      "score": 10
-    },
-    {
-      "title": "22.09.2026",
-      "score": 12
-    },
-    {
-      "title": "Take a Camera Picture at the Pumpkin House",
-      "score": 10
-    },
-    {
-      "title": "22.09.2026",
-      "score": 12
     },
     {
       "title": "Trick or Treat from another Players' Candy Bowl (3)",
       "score": 5
     },
     {
+      "title": "Build a Candy Bowl and give out Candy from your C.A.M.P.",
+      "score": 5
+    },
+    {
+      "title": "Collect Toilet Paper (15)",
+      "score": 10
+    },
+    {
+      "title": "22.09.2026",
+      "score": 12
+    },
+    {
+      "title": "Cook Pumpkin Soup (15)",
+      "score": 10
+    },
+    {
       "title": "22.09.2026",
       "score": 12
     },
@@ -132,19 +116,27 @@
       "score": 12
     },
     {
-      "title": "Week 1: Complete a Give out Candy Challenge (5)",
+      "title": "22.09.2026",
+      "score": 12
+    },
+    {
+      "title": "Week 2: Complete a Trick or Treat Challenge (5)",
       "score": 35
     },
     {
-      "title": "Week 1: Complete a Trick or Treat Challenge (5)",
+      "title": "Week 2: Complete a Give out Candy Challenge (5)",
       "score": 35
+    },
+    {
+      "title": "Complete a Trick or Treat and Give Out Candy Completion Challenge (4)",
+      "score": 100
     },
     {
       "title": "Tu, 20th Oct 2026 (12:00) - Tu, 3rd Nov 2026 (12:00)",
       "score": 14
     },
     {
-      "title": "Th, 29th Oct 2026 (13:00) - Mo, 2nd Nov 2026 (12:00)",
+      "title": "Th, 29th Oct 2026 (12:00) - Mo, 2nd Nov 2026 (12:00)",
       "score": 8
     }
   ]
