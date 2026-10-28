@@ -1,41 +1,49 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-28T12:44:35.590Z",
+  "fetchedAt": "2026-10-28T22:30:35.930Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": null,
+  "weeklyTimeLeft": "Plan: Ammo Converter938 Gold Plan: Floater flamer grenade113 Gold Plan: Gauss shotgun375 Gold Plan: Gauss shotgun extended barrel113 Gold Plan: Gauss shotgun extended magazine75 Gold Plan: Gauss shotgun hardened receiver150 Gold Plan: Brotherhood recon chest piece1500 Gold Plan: Brotherhood recon helmet2000 Gold Plan: Brotherhood recon left arm1000 Gold Plan: Brotherhood recon left leg1000 Gold Plan: Brotherhood recon right arm1000 Gold Plan: Brotherhood recon right leg1000 Gold Plan: Kids truck bed375 Gold Plan: Umbrella hat75 Gold",
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 6
+      "title": "1ˢᵗ Craft Ammo at a Workbench (50)",
+      "score": 250
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "21.10.2026",
-      "score": 32
+      "title": "Build a Trap in a Workshop or C.A.M.P. (5)",
+      "score": 250
     },
     {
-      "title": "Eat a Plant-based Meal (10)",
+      "title": "05.01.2026",
+      "score": 13
+    },
+    {
+      "title": "Craft or Scrap a Melee Weapon (5)",
       "score": 250
+    },
+    {
+      "title": "Deal a Critical Hit to a Radtoad in VATS",
+      "score": 250
+    },
+    {
+      "title": "19.03.2026",
+      "score": 8
     },
     {
       "title": "03.10.2026",
       "score": 8
     },
     {
-      "title": "07.12.2024",
-      "score": 24
+      "title": "22.05.2023",
+      "score": 7
     },
     {
-      "title": "19.01.2026",
+      "title": "09.08.2026",
       "score": 6
-    },
-    {
-      "title": "Sell Mutant Hound Chops to an NPC vendor",
-      "score": 250
     }
   ],
   "weekly": [
@@ -137,7 +145,7 @@
     },
     {
       "title": "Th, 29th Oct 2026 (12:00) - Mo, 2nd Nov 2026 (12:00)",
-      "score": 8
+      "score": 9
     }
   ]
 }
