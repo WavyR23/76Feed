@@ -1,49 +1,49 @@
 {
   "version": 1,
-  "fetchedAt": "2026-10-29T12:54:09.470Z",
+  "fetchedAt": "2026-10-29T22:41:47.739Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Ammo Converter938 Gold Plan: Floater flamer grenade113 Gold Plan: Gauss shotgun375 Gold Plan: Gauss shotgun extended barrel113 Gold Plan: Gauss shotgun extended magazine75 Gold Plan: Gauss shotgun hardened receiver150 Gold Plan: Brotherhood recon chest piece1500 Gold Plan: Brotherhood recon helmet2000 Gold Plan: Brotherhood recon left arm1000 Gold Plan: Brotherhood recon left leg1000 Gold Plan: Brotherhood recon right arm1000 Gold Plan: Brotherhood recon right leg1000 Gold Plan: Kids truck bed375 Gold Plan: Umbrella hat75 Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Craft Ammo at a Workbench (50)",
-      "score": 250
+      "title": "08.04.2026",
+      "score": 37
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Build a Trap in a Workshop or C.A.M.P. (5)",
+      "title": "08.04.2026",
+      "score": 37
+    },
+    {
+      "title": "08.05.2026",
+      "score": 34
+    },
+    {
+      "title": "15.09.2026",
+      "score": 17
+    },
+    {
+      "title": "Complete a Daily Quest",
       "score": 250
     },
     {
-      "title": "05.01.2026",
-      "score": 13
+      "title": "08.04.2026",
+      "score": 37
     },
     {
-      "title": "Craft or Scrap a Melee Weapon (5)",
-      "score": 250
+      "title": "22.09.2026",
+      "score": 12
     },
     {
-      "title": "Deal a Critical Hit to a Radtoad in VATS",
-      "score": 250
+      "title": "21.10.2026",
+      "score": 32
     },
     {
-      "title": "19.03.2026",
-      "score": 8
-    },
-    {
-      "title": "03.10.2026",
-      "score": 8
-    },
-    {
-      "title": "22.05.2023",
-      "score": 7
-    },
-    {
-      "title": "09.08.2026",
-      "score": 6
+      "title": "08.04.2026",
+      "score": 37
     }
   ],
   "weekly": [
@@ -145,7 +145,7 @@
     },
     {
       "title": "Th, 29th Oct 2026 (12:00) - Mo, 2nd Nov 2026 (12:00)",
-      "score": 10
+      "score": 12
     }
   ]
 }
