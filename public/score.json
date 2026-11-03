@@ -1,57 +1,53 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-03T14:03:39.303Z",
+  "fetchedAt": "2026-11-03T23:16:03.116Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Ammo Converter938 Gold Plan: Floater flamer grenade113 Gold Plan: Gauss shotgun375 Gold Plan: Gauss shotgun extended barrel113 Gold Plan: Gauss shotgun extended magazine75 Gold Plan: Gauss shotgun hardened receiver150 Gold Plan: Brotherhood recon chest piece1500 Gold Plan: Brotherhood recon helmet2000 Gold Plan: Brotherhood recon left arm1000 Gold Plan: Brotherhood recon left leg1000 Gold Plan: Brotherhood recon right arm1000 Gold Plan: Brotherhood recon right leg1000 Gold Plan: Kids truck bed375 Gold Plan: Umbrella hat75 Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Collect Gold Bullion (20)",
-      "score": 250
+      "title": "19.01.2026",
+      "score": 6
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Build a Decoration in a Workshop or C.A.M.P. (5)",
-      "score": 250
-    },
-    {
-      "title": "08.04.2026",
-      "score": 37
-    },
-    {
-      "title": "08.05.2026",
-      "score": 35
-    },
-    {
-      "title": "11.11.2025",
-      "score": 16
-    },
-    {
-      "title": "15.09.2026",
-      "score": 17
-    },
-    {
-      "title": "Complete an Event or Activity",
-      "score": 250
-    },
-    {
-      "title": "09.08.2026",
+      "title": "31.05.2024",
       "score": 6
     },
     {
-      "title": "11.11.2025",
-      "score": 16
+      "title": "Craft any Flair at a Tinkerer's Bench",
+      "score": 250
     },
     {
-      "title": "19.01.2026",
-      "score": 6
-    },
-    {
-      "title": "24.10.2025",
+      "title": "07.07.2026",
       "score": 4
+    },
+    {
+      "title": "03.04.2026",
+      "score": 5
+    },
+    {
+      "title": "14.02.2024",
+      "score": 8
+    },
+    {
+      "title": "22.09.2026",
+      "score": 12
+    },
+    {
+      "title": "10.10.2026",
+      "score": 18
+    },
+    {
+      "title": "22.05.2023",
+      "score": 7
+    },
+    {
+      "title": "11.11.2025",
+      "score": 16
     }
   ],
   "weekly": [
@@ -68,88 +64,44 @@
       "score": 300
     },
     {
-      "title": "Collect a Fuel Tank or Gas Canister (5)",
+      "title": "Build Anything in a Workshop or C.A.M.P. (25)",
       "score": 1000
     },
     {
-      "title": "11.09.2026",
-      "score": 18
-    },
-    {
-      "title": "Craft any Plushie at a Tinkerer's Bench (3)",
+      "title": "Collect Ballistic Ammo (60)",
       "score": 1000
     },
     {
-      "title": "21.10.2026",
-      "score": 32
-    },
-    {
-      "title": "Drink Nuka-Grape (5)",
+      "title": "Craft Bulk Steel (3)",
       "score": 1000
     },
     {
-      "title": "Drink Nuka-Orange (5)",
+      "title": "Craft Bulk Wood (3)",
       "score": 1000
     },
     {
-      "title": "Kill a Creature (25)",
+      "title": "09.08.2026",
+      "score": 6
+    },
+    {
+      "title": "17.12.2025",
+      "score": 8
+    },
+    {
+      "title": "19.01.2026",
+      "score": 6
+    },
+    {
+      "title": "Sell a Weapon to an NPC vendor (15)",
       "score": 1000
     },
     {
-      "title": "22.09.2026",
-      "score": 12
-    },
-    {
-      "title": "Take a Chem (9)",
-      "score": 1000
-    },
-    {
-      "title": "Trick or Treat from another Players' Candy Bowl (3)",
+      "title": "09.08.2026",
       "score": 5
     },
     {
-      "title": "Build a Candy Bowl and give out Candy from your C.A.M.P.",
-      "score": 5
-    },
-    {
-      "title": "Collect Toilet Paper (15)",
-      "score": 10
-    },
-    {
-      "title": "22.09.2026",
-      "score": 12
-    },
-    {
-      "title": "Cook Pumpkin Soup (15)",
-      "score": 10
-    },
-    {
-      "title": "22.09.2026",
-      "score": 12
-    },
-    {
-      "title": "22.09.2026",
-      "score": 12
-    },
-    {
-      "title": "22.09.2026",
-      "score": 12
-    },
-    {
-      "title": "Week 2: Complete a Trick or Treat Challenge (5)",
-      "score": 35
-    },
-    {
-      "title": "Week 2: Complete a Give out Candy Challenge (5)",
-      "score": 35
-    },
-    {
-      "title": "Complete a Trick or Treat and Give Out Candy Completion Challenge (4)",
-      "score": 100
-    },
-    {
-      "title": "Tu, 20th Oct 2026 (12:00) - Tu, 3rd Nov 2026 (12:00)",
-      "score": 15
+      "title": "Tu, 10th Nov 2026 (12:00) - Tu, 17th Nov 2026 (12:00)",
+      "score": 16
     }
   ]
 }
