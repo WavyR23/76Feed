@@ -1,45 +1,57 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-02T15:40:44.186Z",
+  "fetchedAt": "2026-11-03T00:54:48.180Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Ammo Converter938 Gold Plan: Floater flamer grenade113 Gold Plan: Gauss shotgun375 Gold Plan: Gauss shotgun extended barrel113 Gold Plan: Gauss shotgun extended magazine75 Gold Plan: Gauss shotgun hardened receiver150 Gold Plan: Brotherhood recon chest piece1500 Gold Plan: Brotherhood recon helmet2000 Gold Plan: Brotherhood recon left arm1000 Gold Plan: Brotherhood recon left leg1000 Gold Plan: Brotherhood recon right arm1000 Gold Plan: Brotherhood recon right leg1000 Gold Plan: Kids truck bed375 Gold Plan: Umbrella hat75 Gold",
   "daily": [
     {
-      "title": "08.04.2026",
-      "score": 37
+      "title": "1ˢᵗ Collect Gold Bullion (20)",
+      "score": 250
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Collect Wood (5)",
+      "title": "Build a Decoration in a Workshop or C.A.M.P. (5)",
       "score": 250
     },
     {
-      "title": "11.09.2026",
-      "score": 18
+      "title": "08.04.2026",
+      "score": 37
     },
     {
-      "title": "Deal a Critical Hit to an Enemy in VATS (10)",
+      "title": "08.05.2026",
+      "score": 35
+    },
+    {
+      "title": "11.11.2025",
+      "score": 16
+    },
+    {
+      "title": "15.09.2026",
+      "score": 17
+    },
+    {
+      "title": "Complete an Event or Activity",
       "score": 250
     },
     {
-      "title": "26.10.2023",
-      "score": 10
+      "title": "09.08.2026",
+      "score": 6
     },
     {
-      "title": "22.09.2026",
-      "score": 12
+      "title": "11.11.2025",
+      "score": 16
     },
     {
-      "title": "10.10.2026",
-      "score": 18
+      "title": "19.01.2026",
+      "score": 6
     },
     {
-      "title": "Use Photomode while in a Team",
-      "score": 250
+      "title": "24.10.2025",
+      "score": 4
     }
   ],
   "weekly": [
@@ -138,10 +150,6 @@
     {
       "title": "Tu, 20th Oct 2026 (12:00) - Tu, 3rd Nov 2026 (12:00)",
       "score": 15
-    },
-    {
-      "title": "Th, 29th Oct 2026 (12:00) - Mo, 2nd Nov 2026 (12:00)",
-      "score": 12
     }
   ]
 }
