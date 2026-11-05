@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-05T06:37:30.004Z",
+  "fetchedAt": "2026-11-05T19:53:17.530Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Offers from List 5ShowPlan: Gauss minigun563 Gold Plan: Gauss pistol aligned short barrel113 Gold Plan: Gauss Pistol Drum Magazine75 Gold Plan: Gauss pistol refined receiver150 Gold Plan: Protective lining Secret Service underarmor113 Gold Plan: Shielded lining Secret Service underarmor150 Gold Plan: Thorn armor chest piece750 Gold Plan: Thorn armor left arm563 Gold Plan: Thorn armor left leg563 Gold Plan: Thorn armor right arm563 Gold Plan: Thorn armor right leg563 Gold Offers from List 6ShowPlan: Lighter build Secret Service armor limbs188 Gold Plan: Plasma caster563 Gold Plan: Secret Service underarmor188 Gold Plan: T-65 calibrated shocks563 Gold Plan: T-65 rusty knuckles188 Gold Plan: T-65 jet pack1500 Gold Plan: The Gutter1000 Gold Plan: Ultra-light build Secret Service armor limbs375 Gold Plan: War glaive flaming blade150 Gold Plan: War glaive shock blade150 Gold Plan: Water well563 Gold Plan: Whistle in the Dark1000 Gold Offers from List 7ShowPlan: Ammo Converter938 Gold Plan: Floater flamer grenade113 Gold Plan: Gauss shotgun375 Gold Plan: Gauss shotgun extended barrel113 Gold Plan: Gauss shotgun extended magazine75 Gold Plan: Gauss shotgun hardened receiver150 Gold Plan: Brotherhood recon chest piece1500 Gold Plan: Brotherhood recon helmet2000 Gold Plan: Brotherhood recon left arm1000 Gold Plan: Brotherhood recon left leg1000 Gold Plan: Brotherhood recon right arm1000 Gold Plan: Brotherhood recon right leg1000 Gold Plan: Kids truck bed375 Gold Plan: Umbrella hat75 Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Eat a Cooked Meal (10)",
-      "score": 250
+      "title": "1ˢᵗ Sell a Ski Sword to an NPC vendor",
+      "score": 500
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
-      "score": 1000
+      "score": 2000
     },
     {
-      "title": "25.01.2024",
-      "score": 4
+      "title": "17.03.2026",
+      "score": 14
     },
     {
-      "title": "24.10.2025",
-      "score": 4
-    },
-    {
-      "title": "10.10.2026",
+      "title": "11.09.2026",
       "score": 18
     },
     {
-      "title": "17.12.2025",
-      "score": 8
+      "title": "Cripple a Human's Head (2)",
+      "score": 500
     },
     {
-      "title": "10.10.2026",
-      "score": 18
+      "title": "03.04.2026",
+      "score": 9
     },
     {
-      "title": "Use Photomode while in a Team",
-      "score": 250
+      "title": "22.09.2026",
+      "score": 12
+    },
+    {
+      "title": "Visit another Player's Shelter",
+      "score": 500
     }
   ],
   "weekly": [
@@ -89,7 +89,7 @@
     },
     {
       "title": "Tu, 10th Nov 2026 (12:00) - Tu, 17th Nov 2026 (12:00)",
-      "score": 16
+      "score": 17
     }
   ]
 }
