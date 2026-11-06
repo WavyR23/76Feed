@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-06T06:33:30.085Z",
+  "fetchedAt": "2026-11-06T19:18:45.788Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
@@ -10,7 +10,7 @@
       "Decryption",
       "Mutation"
     ],
-    "location": "Vault 94",
-    "enemy": "Mole Miners"
+    "location": null,
+    "enemy": null
   }
 }
