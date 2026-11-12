@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-12T15:04:46.213Z",
+  "fetchedAt": "2026-11-12T23:32:36.866Z",
   "source": "https://nukaknights.com/en/",
   "dailyOps": {
     "since": null,
@@ -10,7 +10,7 @@
       "Decryption",
       "Mutation"
     ],
-    "location": null,
-    "enemy": null
+    "location": "Charleston Capitol Building",
+    "enemy": "Robots"
   }
 }
