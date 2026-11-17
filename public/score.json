@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-17T07:48:56.934Z",
+  "fetchedAt": "2026-11-17T20:50:05.926Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Asylum light750 Gold Plan: Crusader pistol2000 Gold Plan: Dynamite bundle150 Gold Plan: Meat bag stash box750 Gold Plan: Plasma caster aligned sniper barrel113 Gold Plan: Plasma caster calibrated capacitor150 Gold Plan: Plasma caster pulse capacitor150 Gold Plan: T-65 helm1238 Gold Plan: T-65 left arm750 Gold Plan: T-65 left leg750 Gold Plan: T-65 right arm750 Gold Plan: T-65 right leg750 Gold Plan: T-65 torso938 Gold Plan: Ghoul chair375 Gold Plan: Gorilla chair375 Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Tea",
+      "title": "1ˢᵗ Consume an Alcoholic Beverage (5)",
       "score": 250
     },
     {
@@ -14,35 +14,35 @@
       "score": 1000
     },
     {
-      "title": "Collect Brain Fungus (5)",
+      "title": "Collect Caps (250)",
       "score": 250
     },
     {
-      "title": "16.11.2026",
-      "score": 19
-    },
-    {
-      "title": "Craft a Flower Crown",
+      "title": "Collect Energy Ammo (10)",
       "score": 250
     },
     {
-      "title": "03.07.2026",
-      "score": 9
+      "title": "Collect a Blood pack (3)",
+      "score": 250
     },
     {
-      "title": "16.11.2026",
-      "score": 19
+      "title": "11.11.2025",
+      "score": 16
     },
     {
-      "title": "16.11.2026",
-      "score": 19
+      "title": "11.11.2025",
+      "score": 16
+    },
+    {
+      "title": "17.12.2025",
+      "score": 14
+    },
+    {
+      "title": "19.01.2026",
+      "score": 6
     }
   ],
   "weekly": [
-    {
-      "title": "Complete a Gold Star Daily Challenge! (3)",
-      "score": 1500
-    },
     {
       "title": "Repeatable Under Rank 100: Gain XP (10000)",
       "score": 100
@@ -52,24 +52,28 @@
       "score": 300
     },
     {
-      "title": "Epic - Destroy Robots with an Energy Weapon (15)",
+      "title": "Complete a Gold Star Daily Challenge! (3)",
       "score": 1500
     },
     {
-      "title": "Collect Energy Ammo (40)",
+      "title": "Build a Turret or Trap in a Workshop or C.A.M.P. (10)",
       "score": 1000
     },
     {
-      "title": "Collect a Board Game (4)",
+      "title": "Harvest a Prickeye (25)",
       "score": 1000
     },
     {
-      "title": "Destroy a Robot (30)",
-      "score": 1000
+      "title": "30.12.2025",
+      "score": 4
     },
     {
-      "title": "Harvest a Wild Plant or Fungi (30)",
-      "score": 1000
+      "title": "03.04.2026",
+      "score": 5
+    },
+    {
+      "title": "14.02.2024",
+      "score": 8
     },
     {
       "title": "17.12.2025",
@@ -80,24 +84,36 @@
       "score": 18
     },
     {
-      "title": "Sell Pumpkin Pie to an NPC vendor",
+      "title": "09.08.2026",
+      "score": 7
+    },
+    {
+      "title": "Repair Armor, Weapons, or Power Armor (10)",
       "score": 1000
     },
     {
-      "title": "Sell a Weapon to an NPC vendor (15)",
-      "score": 1000
+      "title": "19.01.2026",
+      "score": 6
     },
     {
-      "title": "Visit another Player's Shelter (5)",
-      "score": 1000
+      "title": "21.03.2024",
+      "score": 5
     },
     {
-      "title": "Tu, 10th Nov 2026 (12:00) - Tu, 17th Nov 2026 (12:00)",
-      "score": 31
+      "title": "19.01.2026",
+      "score": 6
+    },
+    {
+      "title": "Travel on foot (KM) (50)",
+      "score": 1000
     },
     {
       "title": "Th, 19th Nov 2026 (12:00) - Mo, 23rd Nov 2026 (12:00)",
       "score": 4
+    },
+    {
+      "title": "Tu, 24th Nov 2026 (12:00) - Tu, 1st Dec 2026 (12:00)",
+      "score": 5
     }
   ]
 }
