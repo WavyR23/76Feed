@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-18T07:19:09.263Z",
+  "fetchedAt": "2026-11-18T20:26:08.616Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Asylum light750 Gold Plan: Crusader pistol2000 Gold Plan: Dynamite bundle150 Gold Plan: Meat bag stash box750 Gold Plan: Plasma caster aligned sniper barrel113 Gold Plan: Plasma caster calibrated capacitor150 Gold Plan: Plasma caster pulse capacitor150 Gold Plan: T-65 helm1238 Gold Plan: T-65 left arm750 Gold Plan: T-65 left leg750 Gold Plan: T-65 right arm750 Gold Plan: T-65 right leg750 Gold Plan: T-65 torso938 Gold Plan: Ghoul chair375 Gold Plan: Gorilla chair375 Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Consume an Alcoholic Beverage (5)",
+      "title": "1ˢᵗ Collect an audio Holotape",
       "score": 250
     },
     {
@@ -14,32 +14,28 @@
       "score": 1000
     },
     {
-      "title": "Collect Caps (250)",
+      "title": "Build Anything in a Shelter (10)",
       "score": 250
     },
     {
-      "title": "Collect Energy Ammo (10)",
-      "score": 250
-    },
-    {
-      "title": "Collect a Blood pack (3)",
-      "score": 250
-    },
-    {
-      "title": "11.11.2025",
-      "score": 16
-    },
-    {
-      "title": "11.11.2025",
-      "score": 16
-    },
-    {
-      "title": "17.12.2025",
+      "title": "17.03.2026",
       "score": 14
     },
     {
-      "title": "19.01.2026",
-      "score": 6
+      "title": "11.09.2026",
+      "score": 18
+    },
+    {
+      "title": "08.02.2024",
+      "score": 4
+    },
+    {
+      "title": "10.10.2026",
+      "score": 19
+    },
+    {
+      "title": "21.03.2024",
+      "score": 7
     }
   ],
   "weekly": [
