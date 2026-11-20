@@ -1,40 +1,44 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-20T07:05:21.714Z",
+  "fetchedAt": "2026-11-20T20:05:33.386Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Asylum light750 Gold Plan: Crusader pistol2000 Gold Plan: Dynamite bundle150 Gold Plan: Meat bag stash box750 Gold Plan: Plasma caster aligned sniper barrel113 Gold Plan: Plasma caster calibrated capacitor150 Gold Plan: Plasma caster pulse capacitor150 Gold Plan: T-65 helm1238 Gold Plan: T-65 left arm750 Gold Plan: T-65 left leg750 Gold Plan: T-65 right arm750 Gold Plan: T-65 right leg750 Gold Plan: T-65 torso938 Gold Plan: Ghoul chair375 Gold Plan: Gorilla chair375 Gold",
   "daily": [
     {
-      "title": "07.12.2024",
-      "score": 24
+      "title": "1ˢᵗ Drink Purified Water (2)",
+      "score": 250
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Collect Legendary Scrip (50)",
+      "title": "Collect Stimpaks or Chems (5)",
       "score": 250
     },
     {
-      "title": "Drink Nuka-Grape (2)",
+      "title": "Cripple a Ghoul's Leg (2)",
       "score": 250
+    },
+    {
+      "title": "Drink Nuka-Orange (2)",
+      "score": 250
+    },
+    {
+      "title": "10.10.2026",
+      "score": 19
+    },
+    {
+      "title": "22.05.2023",
+      "score": 7
     },
     {
       "title": "14.12.2025",
       "score": 11
     },
     {
-      "title": "11.09.2026",
-      "score": 18
-    },
-    {
-      "title": "Sell a Weapon to an NPC vendor (5)",
-      "score": 250
-    },
-    {
-      "title": "Use Photomode in a Teammate's C.A.M.P.",
+      "title": "Visit your Shelter",
       "score": 250
     }
   ],
