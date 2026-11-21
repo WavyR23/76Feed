@@ -1,45 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-21T06:58:32.979Z",
+  "fetchedAt": "2026-11-21T19:08:30.372Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": "Plan: Asylum light750 Gold Plan: Crusader pistol2000 Gold Plan: Dynamite bundle150 Gold Plan: Meat bag stash box750 Gold Plan: Plasma caster aligned sniper barrel113 Gold Plan: Plasma caster calibrated capacitor150 Gold Plan: Plasma caster pulse capacitor150 Gold Plan: T-65 helm1238 Gold Plan: T-65 left arm750 Gold Plan: T-65 left leg750 Gold Plan: T-65 right arm750 Gold Plan: T-65 right leg750 Gold Plan: T-65 torso938 Gold Plan: Ghoul chair375 Gold Plan: Gorilla chair375 Gold",
   "daily": [
     {
-      "title": "1ˢᵗ Drink Purified Water (2)",
-      "score": 250
+      "title": "03.10.2026",
+      "score": 8
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Collect Stimpaks or Chems (5)",
+      "title": "Build a Trap in a Workshop or C.A.M.P. (5)",
       "score": 250
     },
     {
-      "title": "Cripple a Ghoul's Leg (2)",
+      "title": "Collect a Fuel Tank or Gas Canister (2)",
       "score": 250
     },
     {
-      "title": "Drink Nuka-Orange (2)",
+      "title": "30.12.2025",
+      "score": 14
+    },
+    {
+      "title": "Cripple a Mirelurk's Limb (2)",
       "score": 250
     },
     {
-      "title": "10.10.2026",
-      "score": 19
-    },
-    {
-      "title": "22.05.2023",
-      "score": 7
-    },
-    {
-      "title": "14.12.2025",
-      "score": 11
-    },
-    {
-      "title": "Visit your Shelter",
+      "title": "Cripple enemy limbs (6)",
       "score": 250
+    },
+    {
+      "title": "05.04.2026",
+      "score": 5
+    },
+    {
+      "title": "19.01.2026",
+      "score": 6
     }
   ],
   "weekly": [
