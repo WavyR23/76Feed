@@ -1,41 +1,49 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-25T08:22:33.887Z",
+  "fetchedAt": "2026-11-25T21:37:01.465Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
-  "weeklyTimeLeft": "Plan: Asylum light750 Gold Plan: Crusader pistol2000 Gold Plan: Dynamite bundle150 Gold Plan: Meat bag stash box750 Gold Plan: Plasma caster aligned sniper barrel113 Gold Plan: Plasma caster calibrated capacitor150 Gold Plan: Plasma caster pulse capacitor150 Gold Plan: T-65 helm1238 Gold Plan: T-65 left arm750 Gold Plan: T-65 left leg750 Gold Plan: T-65 right arm750 Gold Plan: T-65 right leg750 Gold Plan: T-65 torso938 Gold Plan: Ghoul chair375 Gold Plan: Gorilla chair375 Gold",
+  "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "19.01.2026",
-      "score": 6
+      "title": "1ˢᵗ Craft any Chems (2)",
+      "score": 250
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Build a Decoration in a Workshop or C.A.M.P. (5)",
+      "title": "Buy an item from or Sell an item to another Player",
       "score": 250
     },
     {
-      "title": "Collect Legendary Scrip (50)",
-      "score": 250
+      "title": "16.01.2026",
+      "score": 5
+    },
+    {
+      "title": "11.09.2026",
+      "score": 18
     },
     {
       "title": "25.11.2025",
       "score": 16
     },
     {
-      "title": "16.08.2026",
-      "score": 15
+      "title": "11.09.2026",
+      "score": 18
     },
     {
-      "title": "05.04.2026",
-      "score": 6
+      "title": "11.09.2026",
+      "score": 18
     },
     {
-      "title": "16.08.2026",
-      "score": 15
+      "title": "10.10.2026",
+      "score": 19
+    },
+    {
+      "title": "Visit another Player's Shelter",
+      "score": 250
     }
   ],
   "weekly": [
