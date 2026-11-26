@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-26T08:07:30.651Z",
+  "fetchedAt": "2026-11-26T21:26:17.249Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Craft any Chems (2)",
+      "title": "1ˢᵗ Drink Nuka-Cola Quantum (2)",
       "score": 250
     },
     {
@@ -14,36 +14,32 @@
       "score": 1000
     },
     {
-      "title": "Buy an item from or Sell an item to another Player",
+      "title": "Build a Generator in a C.A.M.P. or Workshop",
       "score": 250
     },
     {
-      "title": "16.01.2026",
-      "score": 5
-    },
-    {
-      "title": "11.09.2026",
-      "score": 18
-    },
-    {
-      "title": "25.11.2025",
-      "score": 16
-    },
-    {
-      "title": "11.09.2026",
-      "score": 18
-    },
-    {
-      "title": "11.09.2026",
-      "score": 18
-    },
-    {
-      "title": "10.10.2026",
-      "score": 19
-    },
-    {
-      "title": "Visit another Player's Shelter",
+      "title": "Collect Caps (250)",
       "score": 250
+    },
+    {
+      "title": "09.08.2026",
+      "score": 6
+    },
+    {
+      "title": "03.10.2026",
+      "score": 8
+    },
+    {
+      "title": "09.08.2026",
+      "score": 6
+    },
+    {
+      "title": "22.05.2023",
+      "score": 7
+    },
+    {
+      "title": "09.08.2026",
+      "score": 6
     }
   ],
   "weekly": [
@@ -113,7 +109,7 @@
     },
     {
       "title": "Th, 26th Nov 2026 (12:00) - Mo, 30th Nov 2026 (12:00)",
-      "score": 3
+      "score": 4
     }
   ]
 }
