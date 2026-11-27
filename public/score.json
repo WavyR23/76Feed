@@ -1,45 +1,45 @@
 {
   "version": 1,
-  "fetchedAt": "2026-11-27T08:17:59.496Z",
+  "fetchedAt": "2026-11-27T21:09:43.097Z",
   "source": "https://nukaknights.com/en/",
   "dailyTimeLeft": null,
   "weeklyTimeLeft": null,
   "daily": [
     {
-      "title": "1ˢᵗ Drink Nuka-Cola Quantum (2)",
-      "score": 250
+      "title": "03.10.2026",
+      "score": 8
     },
     {
       "title": "Gold Star: Complete a Daily Challenge (6)",
       "score": 1000
     },
     {
-      "title": "Build a Generator in a C.A.M.P. or Workshop",
+      "title": "Build a Decoration in a Shelter in Free Cam (5)",
       "score": 250
     },
     {
-      "title": "Collect Caps (250)",
+      "title": "Eat a Plant-based Meal (10)",
       "score": 250
     },
     {
-      "title": "09.08.2026",
-      "score": 6
+      "title": "Harvest a Wild Plant or Fungi (12)",
+      "score": 250
     },
     {
-      "title": "03.10.2026",
+      "title": "Kill a Creature while in a Team (10)",
+      "score": 250
+    },
+    {
+      "title": "16.08.2026",
+      "score": 15
+    },
+    {
+      "title": "10.10.2026",
+      "score": 19
+    },
+    {
+      "title": "17.12.2025",
       "score": 8
-    },
-    {
-      "title": "09.08.2026",
-      "score": 6
-    },
-    {
-      "title": "22.05.2023",
-      "score": 7
-    },
-    {
-      "title": "09.08.2026",
-      "score": 6
     }
   ],
   "weekly": [
